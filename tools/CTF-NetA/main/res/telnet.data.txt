@@ -1,0 +1,4496 @@
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-508A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1
+�
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             
+\r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n
+\r\n,        System Name:    System Name\r
+\n,        Location:       Location\r\n,        Contact:        Contact
+\r\n,        Product:        RS910-48-D-S1-TX01-MC\r
+\n,        Classification: Controlled\r\n,        MAC Address:    00-0A-DC-5B-27-A0
+\r\n,        Serial Number:  910-0311-03980\r
+\n,\r\n,        Enter User Name:  
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-516A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1
+\r\n,\r\n
+\r\n,\r\n
+GET / HTTP/1.0\r\n,\r\n
+[2J[3;19HModel : [3;39HEDS-508A[4;19HName : [4;39HManaged Redundant Switch 04759[5;19HLocation : [5;39HSwitch Location[7;19HFirmware Version : [7;39HV3.0 build 11071816[8;19HSerial No : [8;39H04759[9;19HIP : [9;39H192.168.88.60[10;19H
+MAC Address : [10;39H00-90-E8-26-40-23[8;39H04759[12;20H+-----------------------------+[13;20H|[13;50H|[14;20H|[14;50H|[15;20H+-----------------------------+[13;21H                             [13;22HAccount  : [14;22HPassword : [13;33H[14;33H
+\r\n,\r\n
+\r
+\n,\r\n,        Enter Password: 
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r
+\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r
+\n,\r\n,        System Name:    System Name\r
+\n,        Location:       Location\r\n,        Contact:        Contact
+\r\n,        Product:        RS910-48-D-S1-TX01-MC\r
+\n,        Classification: Controlled\r\n,        MAC Address:    00-0A-DC-5B-27-A0
+\r\n,        Serial Number:  910-0311-03980\r
+\n,\r\n,        Enter User Name:  
+\r\n,\r\n
+[2J[3;19HModel : [3;39HEDS-516A[4;19HName : [4;39HManaged Redundant Switch 09404[5;19HLocation : [5;39HSwitch Location[7;19HFirmware Version : [7;39HV2.6[8;19HSerial No : [8;39H09404[9;19HIP : [9;39H192.168.88.61[10;19HMAC Address : [10;39H
+00-90-E8-27-8C-37[8;39H09404[12;20H+-----------------------------+[13;20H|[13;50H|[14;20H|[14;50H|[15;20H+-----------------------------+[13;21H                             [13;22HAccount  : [14;22HPassword : [13;33H[7m[13;33H[admin][0m[11;40H+-------+[12;40H|[12;48H|[13;40H|[13;48H|[14;40H+-------+[12;41H admin [13;41H user  [7m[12;42Hadmin
+GET / HTTP/1.0\r\n,\r\n
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-508A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1\b1[2J[3;19HModel : [3;39HEDS-508A[4;19HName : [4;39HManaged Redundant Switch 04759[5;19HLocation : [5;39HSwitch Location[7;19HFirmware Version : [7;39HV3.0 build 11071816[8;19HSerial No : [8;39H04759[9;19HIP : [9;39H192.168.88.60[10;19HMAC Address : [10;39H00-90-E8-26-40-23[8;39H04759[12;20H+-----------------------------+[13;20H|[13;50H|[14;20H|[14;50H|[15;20H+-----------------------------+[13;21H                             [13;22HAccount  : [14;22HPassword : [13;33H[14;33H
+GET / HTTP/1.0\r\n,\r\n
+GET / HTTP/1.0\r\n,\r\n
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-516A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1\b1[2J[3;19HModel : [3;39HEDS-516A[4;19HName : [4;39HManaged Redundant Switch 09404[5;19HLocation : [5;39HSwitch Location[7;19HFirmware Version : [7;39HV2.6[8;19HSerial No : [8;39H09404[9;19HIP : [9;39H192.168.88.61[10;19HMAC Address : [10;39H00-90-E8-27-8C-37[8;39H09404[12;20H+-----------------------------+[13;20H|[13;50H|[14;20H|[14;50H|[15;20H+-----------------------------+[13;21H                             [13;22HAccount  : [14;22HPassword : [13;33H[7m[13;33H[admin][0m[11;40H+-------+[12;40H|[12;48H|[13;40H|[13;48H|[14;40H+-------+[12;41H admin [13;41H user  [7m[12;42Hadmin
+�
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r
+\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved
+\r\n,\r\n,        System Name:    System Name
+\r\n,        Location:       Location\r
+\n,        Contact:        Contact\r
+\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled
+\r\n,        MAC Address:    00-0A-DC-5B-27-A0
+\r\n,        Serial Number:  910-0311-03980
+\r\n,\r
+\n,        Enter User Name:  
+G
+E
+T
+ 
+/
+ 
+H
+T
+T
+P
+/
+1
+.
+0
+\r
+\n,\r\n,        Enter Password: 
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r
+\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n,\r
+\n,        System Name:    System Name\r\n,        Location:       Location
+\r\n,        Contact:        Contact
+\r\n,        Product:        RS910-48-D-S1-TX01-MC\r
+\n,        Classification: Controlled\r
+\n,        MAC Address:    00-0A-DC-5B-27-A0\r
+\n,        Serial Number:  910-0311-03980\r
+\n,\r\n,        Enter User Name:  
+OPTIONS / HTTP/1.0\r\n,\r\n
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-508A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1\b1[2J[3;19HModel : [3;39HEDS-508A[4;19HName : [4;39HManaged Redundant Switch 04759[5;19HLocation : [5;39HSwitch Location[7;19HFirmware Version : [7;39HV3.0 build 11071816[8;19HSerial No : [8;39H04759[9;19HIP : [9;39H192.168.88.60[10;19HMAC Address : [10;39H00-90-E8-26-40-23[8;39H04759[12;20H+-----------------------------+[13;20H|[13;50H|[14;20H|[14;50H|[15;20H+-----------------------------+[13;21H                             [13;22HAccount  : [14;22HPassword : [13;33H[14;33H
+OPTIONS / HTTP/1.0\r\n,\r\n
+�
+[0;22;27;25;24m
+[0m
+[2J[1;1H[?25h
+\r
+\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved
+\r\n,\r\n,        System Name:    System Name\r
+\n,        Location:       Location\r\n,        Contact:        Contact
+\r\n,        Product:        RS910-48-D-S1-TX01-MC\r
+\n,        Classification: Controlled\r
+\n,        MAC Address:    00-0A-DC-5B-27-A0\r\n,        Serial Number:  910-0311-03980
+\r\n
+\r\n,        Enter User Name:  
+O
+P
+T
+I
+O
+N
+S
+ 
+/
+ 
+H
+T
+T
+P
+/
+\r
+\n,\r\n,        Enter Password: 
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             
+\r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n
+\r\n,        System Name:    System Name\r
+\n,        Location:       Location\r\n,        Contact:        Contact
+\r\n,        Product:        RS910-48-D-S1-TX01-MC\r
+\n,        Classification: Controlled\r
+\n,        MAC Address:    00-0A-DC-5B-27-A0
+\r\n,        Serial Number:  910-0311-03980
+\r\n,\r
+\n,        Enter User Name:  
+OPTIONS / HTTP/1.0\r\n,\r\n
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-516A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1\b1[2J[3;19HModel : [3;39HEDS-516A[4;19HName : [4;39HManaged Redundant Switch 09404[5;19HLocation : [5;39HSwitch Location[7;19HFirmware Version : [7;39HV2.6[8;19HSerial No : [8;39H09404[9;19HIP : [9;39H192.168.88.61[10;19HMAC Address : [10;39H00-90-E8-27-8C-37[8;39H09404[12;20H+-----------------------------+[13;20H|[13;50H|[14;20H|[14;50H|[15;20H+-----------------------------+[13;21H                             [13;22HAccount  : [14;22HPassword : [13;33H[7m[13;33H[admin][0m[11;40H+-------+[12;40H|[12;48H|[13;40H|[13;48H|[14;40H+-------+[12;41H admin [13;41H user  [7m[12;42Hadmin
+OPTIONS / RTSP/1.0\r\n,\r\n
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-508A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1\b1[2J[3;19HModel : [3;39HEDS-508A[4;19HName : [4;39HManaged Redundant Switch 04759[5;19HLocation : [5;39HSwitch Location[7;19HFirmware Version : [7;39HV3.0 build 11071816[8;19HSerial No : [8;39H04759[9;19HIP : [9;39H192.168.88.60[10;19HMAC Address : [10;39H00-90-E8-26-40-23[8;39H04759[12;20H+-----------------------------+[13;20H|[13;50H|[14;20H|[14;50H|[15;20H+-----------------------------+[13;21H                             [13;22HAccount  : [14;22HPassword : [13;33H[14;33H
+OPTIONS / RTSP/1.0\r\n,\r\n
+�
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r
+\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved
+\r\n,\r
+\n,        System Name:    System Name\r
+\n,        Location:       Location
+\r\n,        Contact:        Contact
+\r\n,        Product:        RS910-48-D-S1-TX01-MC
+\r\n,        Classification: Controlled
+\r\n,        MAC Address:    00-0A-DC-5B-27-A0
+\r\n,        Serial Number:  910-0311-03980
+\r\n,\r
+\n,        Enter User Name:  
+O
+P
+T
+I
+O
+N
+S
+ 
+/
+ 
+R
+T
+S
+P
+/
+\r
+\n,\r\n,        Enter Password: 
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r
+\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r
+\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n
+\r\n,        System Name:    System Name\r
+\n,        Location:       Location\r\n,        Contact:        Contact
+\r\n,        Product:        RS910-48-D-S1-TX01-MC
+\r\n,        Classification: Controlled
+\r\n,        MAC Address:    00-0A-DC-5B-27-A0
+\r\n,        Serial Number:  910-0311-03980
+\r\n,\r
+\n,        Enter User Name:  
+OPTIONS / RTSP/1.0\r\n,\r\n
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-516A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1\b1[2J[3;19HModel : [3;39HEDS-516A[4;19HName : [4;39HManaged Redundant Switch 09404[5;19HLocation : [5;39HSwitch Location[7;19HFirmware Version : [7;39HV2.6[8;19HSerial No : [8;39H09404[9;19HIP : [9;39H192.168.88.61[10;19HMAC Address : [10;39H00-90-E8-27-8C-37[8;39H09404[12;20H+-----------------------------+[13;20H|[13;50H|[14;20H|[14;50H|[15;20H+-----------------------------+[13;21H                             [13;22HAccount  : [14;22HPassword : [13;33H[7m[13;33H[admin][0m[11;40H+-------+[12;40H|[12;48H|[13;40H|[13;48H|[14;40H+-------+[12;41H admin [13;41H user  [7m[12;42Hadmin
+�
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-508A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1
+�
+�
+
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             
+\r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved
+\r\n,\r
+\n,        System Name:    System Name\r\n,        Location:       Location
+\r\n,        Contact:        Contact\r
+\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled
+\r\n,        MAC Address:    00-0A-DC-5B-27-A0
+\r\n,        Serial Number:  910-0311-03980\r
+\n,\r\n,        Enter User Name:  
+(
+r
+|
+�
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-516A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1
+
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-508A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1
+
+�
+�
+[0;22;27;25;24m
+[0m[2J
+[1;1H[?25h
+\r
+\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r
+\n,\r\n,        System Name:    System Name\r
+\n,        Location:       Location\r\n,        Contact:        Contact
+\r\n,        Product:        RS910-48-D-S1-TX01-MC\r
+\n,        Classification: Controlled\r\n,        MAC Address:    00-0A-DC-5B-27-A0
+\r\n,        Serial Number:  910-0311-03980\r
+\n,\r\n,        Enter User Name:  
+v
+e
+r
+s
+i
+o
+n
+b
+i
+n
+d
+
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-516A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1
+
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-508A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1
+
+�
+[0;22;27;25;24m
+[0m
+[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             
+\r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n
+\r\n,        System Name:    System Name\r
+\n,        Location:       Location\r\n,        Contact:        Contact
+\r\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled
+\r\n,        MAC Address:    00-0A-DC-5B-27-A0\r
+\n,        Serial Number:  910-0311-03980\r\n
+\r\n,        Enter User Name:  
+
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-516A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1
+HELP\r\n
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-508A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1[2J[3;19HModel : [3;39HEDS-508A[4;19HName : [4;39HManaged Redundant Switch 04759[5;19HLocation : [5;39HSwitch Location[7;19HFirmware Version : [7;39HV3.0 build 11071816[8;19HSerial No : [8;39H04759[9;19HIP : [9;39H192.168.88.60[10;19HMAC Address : [10;39H00-90-E8-26-40-23[8;39H04759[12;20H+-----------------------------+[13;20H|[13;50H|[14;20H|[14;50H|[15;20H+-----------------------------+[13;21H                             [13;22HAccount  : [14;22HPassword : [13;33H
+HELP\r\n
+�
+
+[0;22;27;25;24m
+[0m
+[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             
+\r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n
+\r\n,        System Name:    System Name\r
+\n,        Location:       Location\r\n,        Contact:        Contact
+\r\n,        Product:        RS910-48-D-S1-TX01-MC\r
+\n,        Classification: Controlled\r\n,        MAC Address:    00-0A-DC-5B-27-A0
+\r\n,        Serial Number:  910-0311-03980\r
+\n,\r\n,        Enter User Name:  
+H
+E
+L
+P
+\r
+\n,\r\n,        Enter Password: 
+HELP\r\n
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-516A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1[2J[3;19HModel : [3;39HEDS-516A[4;19HName : [4;39HManaged Redundant Switch 09404[5;19HLocation : [5;39HSwitch Location[7;19HFirmware Version : [7;39HV2.6[8;19HSerial No : [8;39H09404[9;19HIP : [9;39H192.168.88.61[10;19HMAC Address : [10;39H00-90-E8-27-8C-37[8;39H09404[12;20H+-----------------------------+[13;20H|[13;50H|[14;20H|[14;50H|[15;20H+-----------------------------+[13;21H                             [13;22HAccount  : [14;22HPassword : [13;33H[7m[13;33H[admin][0m
+,
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-508A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1[2J[3;19HModel : [3;39HEDS-508A[4;19HName : [4;39HManaged Redundant Switch 04759[5;19HLocation : [5;39HSwitch Location[7;19HFirmware Version : [7;39HV3.0 build 11071816[8;19HSerial No : [8;39H04759[9;19HIP : [9;39H192.168.88.60[10;19HMAC Address : [10;39H00-90-E8-26-40-23[8;39H04759[12;20H+-----------------------------+[13;20H|[13;50H|[14;20H|[14;50H|[15;20H+-----------------------------+[13;21H                             [13;22HAccount  : [14;22HPassword : [13;33Hf[13;34He[13;35Hd[13;36Hc[13;37Hb[13;38Ha[13;39H`[13;40H[13;39H [13;39H
+,
+�
+�
+,
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-516A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1[2J[3;19HModel : [3;39HEDS-516A[4;19HName : [4;39HManaged Redundant Switch 09404[5;19HLocation : [5;39HSwitch Location[7;19HFirmware Version : [7;39HV2.6[8;19HSerial No : [8;39H09404[9;19HIP : [9;39H192.168.88.61[10;19HMAC Address : [10;39H00-90-E8-27-8C-37[8;39H09404[12;20H+-----------------------------+[13;20H|[13;50H|[14;20H|[14;50H|[15;20H+-----------------------------+[13;21H                             [13;22HAccount  : [14;22HPassword : [13;33H[7m[13;33H[admin][0m
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r
+\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r
+\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n
+\r\n,        System Name:    System Name\r
+\n,        Location:       Location\r
+\n,        Contact:        Contact\r\n,        Product:        RS910-48-D-S1-TX01-MC
+\r\n,        Classification: Controlled
+\r\n,        MAC Address:    00-0A-DC-5B-27-A0\r
+\n,        Serial Number:  910-0311-03980\r
+\n,\r\n,        Enter User Name:  
+S
+O
+?
+G
+,
+`
+~
+{
+w
+<
+=
+o
+n
+(
+\r
+\n,\r\n,        Enter Password: 
+x
+x
+x
+x
+x
+x
+x
+\b \b
+,��^0\�
+,��^0\�
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-508A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1[2J[3;19HModel : [3;39HEDS-508A[4;19HName : [4;39HManaged Redundant Switch 04759[5;19HLocation : [5;39HSwitch Location[7;19HFirmware Version : [7;39HV3.0 build 11071816[8;19HSerial No : [8;39H04759[9;19HIP : [9;39H192.168.88.60[10;19HMAC Address : [10;39H00-90-E8-26-40-23[8;39H04759[12;20H+-----------------------------+[13;20H|[13;50H|[14;20H|[14;50H|[15;20H+-----------------------------+[13;21H                             [13;22HAccount  : [14;22HPassword : [13;33H^[13;34H0[13;35H\[13;36HP[13;37H[13;33H[13;33H                [14;33H[14;33H                [13;29H[13;29H+[13;33HN[13;34HM[13;35H0[13;36H0[13;37Hk[13;38Hr[13;39Hb[13;40Ht[13;41Hg[13;42Ht[13;43HN[13;44HM[13;45H[13;33H[13;33H                [14;33H[14;33H                [13;29H[13;29H+[13;33H
+�
+�
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             
+\r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n
+\r\n,        System Name:    System Name\r
+\n,        Location:       Location\r\n,        Contact:        Contact
+\r\n,        Product:        RS910-48-D-S1-TX01-MC\r
+\n,        Classification: Controlled\r\n,        MAC Address:    00-0A-DC-5B-27-A0
+\r\n,        Serial Number:  910-0311-03980\r
+\n,\r\n,        Enter User Name:  
+q
+j
+n
+0
+k
+\r
+\n,\r\n,        Enter Password: 
+x
+x
+x
+x
+x
+x
+x
+,��^0\�
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-516A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1[2J[3;19HModel : [3;39HEDS-516A[4;19HName : [4;39HManaged Redundant Switch 09404[5;19HLocation : [5;39HSwitch Location[7;19HFirmware Version : [7;39HV2.6[8;19HSerial No : [8;39H09404[9;19HIP : [9;39H192.168.88.61[10;19HMAC Address : [10;39H00-90-E8-27-8C-37[8;39H09404[12;20H+-----------------------------+[13;20H|[13;50H|[14;20H|[14;50H|[15;20H+-----------------------------+[13;21H                             [13;22HAccount  : [14;22HPassword : [13;33H[7m[13;33H[admin][0m[13;33H[13;33H                [14;33H[14;33H                [13;33HN[13;34HM[13;35H0[13;36H[13;33H[13;33H                [13;33H[7m[13;33H[admin][0m[14;33H[14;33H                [13;40H[13;33H[13;33H                [14;33H[14;33H                [13;33H
+x
+x
+x
+x
+x
+x
+x
+x
+,MBr
+,MBr
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-508A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1\b1\b1\b1\b1\b2\b2\b1\b1\b2
+�
+�
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             
+\r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n
+\r\n,        System Name:    System Name\r
+\n,        Location:       Location\r\n,        Contact:        Contact
+\r\n,        Product:        RS910-48-D-S1-TX01-MC\r
+\n,        Classification: Controlled\r\n,        MAC Address:    00-0A-DC-5B-27-A0
+\r\n,        Serial Number:  910-0311-03980\r
+\n,\r\n,        Enter User Name:  
+M
+B
+r
+\b \b
+@
+@
+P
+C
+ 
+N
+E
+T
+W
+O
+R
+K
+ 
+,MBr
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-516A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1\b1\b1\b1\b1\b2\b2\b1\b1\b2
+l
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-508A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1
+l
+�
+�
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             
+\r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n
+\r\n,        System Name:    System Name\r
+\n,        Location:       Location\r\n,        Contact:        Contact
+\r\n,        Product:        RS910-48-D-S1-TX01-MC\r
+\n,        Classification: Controlled\r\n,        MAC Address:    00-0A-DC-5B-27-A0
+\r\n,        Serial Number:  910-0311-03980
+\r\n,\r\n,        Enter User Name:  
+l
+l
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-516A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1
+GET /nice%20ports%2C/Tri%6Eity.txt%2ebak HTTP/1.0\r\n,\r\n
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-508A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1\b2\b2\b2\b1[2J[3;19HModel : [3;39HEDS-508A[4;19HName : [4;39HManaged Redundant Switch 04759[5;19HLocation : [5;39HSwitch Location[7;19HFirmware Version : [7;39HV3.0 build 11071816[8;19HSerial No : [8;39H04759[9;19HIP : [9;39H192.168.88.60[10;19HMAC Address : [10;39H00-90-E8-26-40-23[8;39H04759[12;20H+-----------------------------+[13;20H|[13;50H|[14;20H|[14;50H|[15;20H+-----------------------------+[13;21H                             [13;22HAccount  : [14;22HPassword : [13;33H[14;33H
+GET /nice%20ports%2C/Tri%6Eity.txt%2ebak HTTP/1.0\r\n,\r\n
+�
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r
+\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved
+\r\n,\r
+\n,        System Name:    System Name\r\n,        Location:       Location
+\r\n,        Contact:        Contact
+\r\n,        Product:        RS910-48-D-S1-TX01-MC\r
+\n,        Classification: Controlled\r
+\n,        MAC Address:    00-0A-DC-5B-27-A0\r
+\n,        Serial Number:  910-0311-03980\r
+\n,\r\n,        Enter User Name:  
+G
+E
+T
+ 
+/
+n
+i
+c
+e
+%
+2
+0
+p
+o
+r
+\r
+\n,\r\n,        Enter Password: 
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r
+\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r
+\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n
+\r\n,        System Name:    System Name\r
+\n,        Location:       Location\r\n,        Contact:        Contact
+\r\n,        Product:        RS910-48-D-S1-TX01-MC
+\r\n,        Classification: Controlled
+\r\n,        MAC Address:    00-0A-DC-5B-27-A0\r
+\n,        Serial Number:  910-0311-03980\r
+\n,\r\n,        Enter User Name:  
+GET /nice%20ports%2C/Tri%6Eity.txt%2ebak HTTP/1.0\r\n,\r\n
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-516A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1\b2\b2\b2\b1[2J[3;19HModel : [3;39HEDS-516A[4;19HName : [4;39HManaged Redundant Switch 09404[5;19HLocation : [5;39HSwitch Location[7;19HFirmware Version : [7;39HV2.6[8;19HSerial No : [8;39H09404[9;19HIP : [9;39H192.168.88.61[10;19HMAC Address : [10;39H00-90-E8-27-8C-37[8;39H09404[12;20H+-----------------------------+[13;20H|[13;50H|[14;20H|[14;50H|[15;20H+-----------------------------+[13;21H                             [13;22HAccount  : [14;22HPassword : [13;33H[7m[13;33H[admin][0m[11;40H+-------+[12;40H|[12;48H|[13;40H|[13;48H|[14;40H+-------+[12;41H admin [13;41H user  [7m[12;42Hadmin
+default\n
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-508A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1
+default\n
+�
+
+[2J[3;19HModel : [3;39HEDS-508A[4;19HName : [4;39HManaged Redundant Switch 04759[5;19HLocation : [5;39HSwitch Location[7;19HFirmware Version : [7;39HV3.0 build 11071816[8;19HSerial No : [8;39H04759[9;19HIP : [9;39H192.168.88.60[10;19H
+MAC Address : [10;39H00-90-E8-26-40-23[8;39H04759[12;20H+-----------------------------+[13;20H|[13;50H|[14;20H|[14;50H|[15;20H+-----------------------------+[13;21H                             [13;22HAccount  : [14;22HPassword : [13;33H
+[0;22;27;25;24m
+[0m
+[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             
+\r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n
+\r\n,        System Name:    System Name\r
+\n,        Location:       Location\r\n,        Contact:        Contact
+\r\n,        Product:        RS910-48-D-S1-TX01-MC\r
+\n,        Classification: Controlled\r\n,        MAC Address:    00-0A-DC-5B-27-A0
+\r\n,        Serial Number:  910-0311-03980\r
+\n,\r\n,        Enter User Name:  
+d
+e
+f
+a
+u
+l
+t
+\r
+\n,\r\n,        Enter Password: 
+default\n
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-516A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1
+[2J[3;19HModel : [3;39HEDS-516A[4;19HName : [4;39HManaged Redundant Switch 09404[5;19HLocation : [5;39HSwitch Location[7;19HFirmware Version : [7;39HV2.6[8;19HSerial No : [8;39H09404[9;19HIP : [9;39H192.168.88.61[10;19HMAC Address : [10;39H
+00-90-E8-27-8C-37[8;39H09404[12;20H+-----------------------------+[13;20H|[13;50H|[14;20H|[14;50H|[15;20H+-----------------------------+[13;21H                             [13;22HAccount  : [14;22HPassword : [13;33H[7m[13;33H[admin][0m
+0\f`
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-508A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1
+0\f`
+�
+
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r
+\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r
+\n,\r
+\n,        System Name:    System Name\r
+\n,        Location:       Location\r\n,        Contact:        Contact
+\r\n,        Product:        RS910-48-D-S1-TX01-MC\r
+\n,        Classification: Controlled\r\n,        MAC Address:    00-0A-DC-5B-27-A0
+\r\n,        Serial Number:  910-0311-03980\r
+\n,\r\n,        Enter User Name:  
+0
+`
+0\f`
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-516A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1
+OPTIONS sip:nm SIP/2.0\r\n,Via: SIP/2.0/TCP nm;branch=foo\r\n,From: <sip:nm@nm>;tag=root\r\n,To: <sip:nm2@nm2>\r\n,Call-ID: 50000\r\n,CSeq: 42 OPTIONS\r\n,Max-Forwards: 70\r\n,Content-Length: 0\r\n,Contact: <sip:nm@nm>\r\n,Accept: application/sdp\r\n,\r\n
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-508A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1
+OPTIONS sip:nm SIP/2.0\r\n,Via: SIP/2.0/TCP nm;branch=foo\r\n,From: <sip:nm@nm>;tag=root\r\n,To: <sip:nm2@nm2>\r\n,Call-ID: 50000\r\n,CSeq: 42 OPTIONS\r\n,Max-Forwards: 70\r\n,Content-Length: 0\r\n,Contact: <sip:nm@nm>\r\n,Accept: application/sdp\r\n,\r\n
+�
+\b2HJY"2Model : Y"FEDS-508AY#2Name : Y#FManaged Redundant Switch 04759Y$2Location : Y$FSwitch LocationY&2Firmware Version : Y&FV3.0 build 11071816Y'2Serial No : Y'F04759Y(2IP : Y(F192.168.88.60Y)2MAC Address : Y)F00-90-E8-26-40-23Y'F04759Y+3+-----------------------------+Y,3|Y,Q|Y-3|Y-Q|Y.3+-----------------------------+Y,4                             Y,5Account  : Y-5Password : Y,@VY,AiY,BaY,C:Y,D Y,ESY,FIY,GPY,H/Y,I2Y,J.Y,K0Y,L/Y,MTY,NCY,OPY,PY-@*Y-A*Y-B*Y-C*Y-D*Y-E*Y-F*Y-G*Y-H*Y-I*Y-J*Y-K*Y-L*Y-M*Y-N*Y-O*Y-PY+3                               Y,3                               Y-3                               Y.3                               Y'KY22+-----------------------------------------+Y32|Y3\|Y42+-----------------------------------------+Y33                                         Y34Error Password ! Any key to input again.Y22                                           Y32                                           Y42                                           Y'KY+3+-----------------------------+Y,3|Y,Q|Y-3|Y-Q|Y.3+-----------------------------+Y,4                             Y,5Account  : Y-5Password : Y,@oY,A:Y,B Y,C<Y,DsY,EiY,FpY,G:Y,HnY,ImY,J2Y,K@Y,LnY,MmY,N2Y,O>Y,PY-@*Y-A*Y-B*Y-C*Y-D*Y-E*Y-F*Y-G*Y-H*Y-I*Y-J*Y-K*Y-L*Y-M*Y-NY+3                               Y,3                               Y-3      
+                         Y.3                               Y'KY22+-----------------------------------------+Y32|Y3\|Y42+-----------------------------------------+Y33                                         Y34Error Password ! Any key to input again.Y22                                           Y32                                           Y42                                           Y'KY+3+-----------------------------+Y,3|Y,Q|Y-3|Y-Q|Y.3+-----------------------------+Y,4                             Y,5Account  : Y-5Password : Y,@SY,AeY,BqY,C:Y,D Y,E4Y,F2Y,G Y,HOY,IPY,JTY,KIY,LOY,MNY,NSY,OY-@*Y-A*Y-B*Y-C*Y-D*Y-E*Y-F*Y-G*Y-H*Y-I*Y-J*Y-K*Y-L*Y-M*Y-N*Y-O*Y-PY+3                               Y,3                               Y-3                               Y.3                               Y'KY22+-----------------------------------------+Y32|Y3\|Y42+-----------------------------------------+Y33                                         Y34Error Password ! Any key to input again.
+TNMP
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-508A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r
+\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             
+\r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r
+\n,\r\n,        System Name:    System Name
+\r\n,        Location:       Location
+\r\n,        Contact:        Contact\r
+\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled
+\r\n,        MAC Address:    00-0A-DC-5B-27-A0
+\r\n,        Serial Number:  910-0311-03980
+\r\n,\r
+\n,        Enter User Name:  
+O
+P
+T
+I
+O
+N
+S
+ 
+s
+i
+p
+:
+n
+m
+ 
+\r
+\n,\r\n,        Enter Password: 
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             
+\r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n
+\r\n,        System Name:    System Name
+\r\n,        Location:       Location\r
+\n,        Contact:        Contact\r
+\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled
+\r\n,        MAC Address:    00-0A-DC-5B-27-A0
+\r\n,        Serial Number:  910-0311-03980
+\r\n,\r
+\n,        Enter User Name:  
+F
+r
+o
+m
+:
+ 
+<
+s
+i
+p
+:
+n
+m
+@
+n
+\r
+\n,\r\n,        Enter Password: 
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             
+\r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n
+\r\n,        System Name:    System Name\r
+\n,        Location:       Location\r\n,        Contact:        Contact
+\r\n,        Product:        RS910-48-D-S1-TX01-MC\r
+\n,        Classification: Controlled
+\r\n,        MAC Address:    00-0A-DC-5B-27-A0\r
+\n,        Serial Number:  910-0311-03980\r\n,\r
+\n,        Enter User Name:  
+C
+a
+l
+l
+-
+I
+D
+:
+ 
+5
+0
+0
+0
+0
+\r
+\n,\r\n,        Enter Password: 
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r
+\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved
+\r\n,\r
+\n,        System Name:    System Name\r\n,        Location:       Location
+\r\n,        Contact:        Contact\r
+\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled
+\r\n,        MAC Address:    00-0A-DC-5B-27-A0
+\r\n,        Serial Number:  910-0311-03980
+\r\n,\r
+\n,        Enter User Name:  
+M
+a
+x
+-
+F
+o
+r
+w
+a
+r
+d
+s
+:
+ 
+7
+\r
+\n,\r\n,        Enter Password: 
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r
+\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved
+\r\n,\r
+\n,        System Name:    System Name\r\n,        Location:       Location
+\r\n,        Contact:        Contact
+\r\n,        Product:        RS910-48-D-S1-TX01-MC\r
+\n,        Classification: Controlled\r
+\n,        MAC Address:    00-0A-DC-5B-27-A0\r\n,        Serial Number:  910-0311-03980
+\r\n,\r
+\n,        Enter User Name:  
+C
+o
+n
+t
+a
+c
+t
+:
+ 
+<
+s
+i
+p
+:
+n
+\r
+\n,\r\n,        Enter Password: 
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r
+\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n
+\r\n,        System Name:    System Name\r
+\n,        Location:       Location\r\n,        Contact:        Contact
+\r\n,        Product:        RS910-48-D-S1-TX01-MC
+\r\n,        Classification: Controlled\r
+\n,        MAC Address:    00-0A-DC-5B-27-A0\r\n,        Serial Number:  910-0311-03980
+\r\n,\r
+\n,        Enter User Name:  
+\r
+\n,\r\n,        Enter Password: 
+OPTIONS sip:nm SIP/2.0\r\n,Via: SIP/2.0/TCP nm;branch=foo\r\n,From: <sip:nm@nm>;tag=root\r\n,To: <sip:nm2@nm2>\r\n,Call-ID: 50000\r\n,CSeq: 42 OPTIONS\r\n,Max-Forwards: 70\r\n,Content-Length: 0\r\n,Contact: <sip:nm@nm>\r\n,Accept: application/sdp\r\n,\r\n
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-516A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1\b2HJY"2Model : Y"FEDS-516AY#2Name : Y#FManaged Redundant Switch 09404Y$2Location : Y$FSwitch LocationY&2Firmware Version : Y&FV2.6Y'2Serial No : Y'F09404Y(2IP : Y(F192.168.88.61Y)2MAC Address : Y)F00-90-E8-27-8C-37Y'F09404Y+3+-----------------------------+Y,3|Y,Q|Y-3|Y-Q|Y.3+-----------------------------+Y,4                             Y,5Account  : Y-5Password : Y,@Y,@[admin]Y,@[user ]Y,GY,@[admin]Y,GY*G+-------+Y+G|Y+O|Y,G|Y,O|Y-G+-------+Y+H admin Y,H user  Y+H>Y*G         Y+G---------Y,G         Y-G         Y,GY,GY,@[user ]Y,GY*G+-------+Y+G|Y+O|Y,G|Y,O|Y-G+-------+Y+H admin Y,H user  Y,H>Y*G         Y+G---------Y,G         Y-G         Y,GY,GY,@[admin]Y,GY,@[user ]Y,GY*G+-------+Y+G|Y+O|Y,G|Y,O|Y-G+-------+Y+H admin Y,H user  Y,H>Y*G         Y+G---------Y,G         Y-G         Y,GY,GY,@[admin]Y,GY*G+-------+Y+G|Y+O|Y,G|Y,O|Y-G+-------+Y+H admin Y,H user  Y+H>Y*G         Y+G---------Y,G         Y-G         Y,GY,GY,@[user ]Y,GY*G+-------+Y+G|Y+O|Y,G|Y,O|Y-G+-------+Y+H admin Y,H user  Y,H>Y*G         Y+G---------Y,G         Y-G         Y,GY,G
+
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-508A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1
+TNMP
+�
+TNMP
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-516A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             
+\r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n
+\r\n,        System Name:    System Name\r
+\n,        Location:       Location\r\n,        Contact:        Contact
+\r\n,        Product:        RS910-48-D-S1-TX01-MC\r
+\n,        Classification: Controlled\r\n,        MAC Address:    00-0A-DC-5B-27-A0
+\r\n,        Serial Number:  910-0311-03980\r
+\n,\r\n,        Enter User Name:  
+T
+N
+M
+P
+T
+N
+M
+E
+DmdT
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-508A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1
+
+�
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             
+\r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n,\r
+\n,        System Name:    System Name\r\n,        Location:       Location
+\r\n,        Contact:        Contact\r
+\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled
+\r\n,        MAC Address:    00-0A-DC-5B-27-A0\r
+\n,        Serial Number:  910-0311-03980\r\n
+\r\n,        Enter User Name:  
+
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-516A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1
+:
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-508A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1
+DmdT
+�
+�
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r
+\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n,\r
+\n,        System Name:    System Name\r\n,        Location:       Location
+\r\n,        Contact:        Contact\r
+\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled
+\r\n,        MAC Address:    00-0A-DC-5B-27-A0\r
+\n,        Serial Number:  910-0311-03980\r\n
+\r\n,        Enter User Name:  
+D
+m
+d
+T
+DmdT
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-516A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1
+
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-508A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1\b2
+:
+�
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             
+\r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n
+\r\n,        System Name:    System Name\r
+\n,        Location:       Location\r\n,        Contact:        Contact
+\r\n,        Product:        RS910-48-D-S1-TX01-MC\r
+\n,        Classification: Controlled\r\n,        MAC Address:    00-0A-DC-5B-27-A0
+\r\n,        Serial Number:  910-0311-03980
+\r\n,\r
+\n,        Enter User Name:  
+:
+/
+@
+=
+/
+@
+:
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-516A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1
+,\b
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-508A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1
+
+�
+[0;22;27;25;24m
+[0m[2J
+[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r
+\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n,\r
+\n,        System Name:    System Name\r\n,        Location:       Location
+\r\n,        Contact:        Contact\r
+\n,        Product:        RS910-48-D-S1-TX01-MC\r
+\n,        Classification: Controlled\r\n,        MAC Address:    00-0A-DC-5B-27-A0
+\r\n,        Serial Number:  910-0311-03980\r
+\n,\r\n,        Enter User Name:  
+M
+M
+S
+N
+S
+P
+l
+a
+y
+e
+r
+/
+9
+.
+0
+
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-516A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1\b2
+
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-508A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1
+,\b
+�
+[0;22;27;25;24m
+[0m
+[2J[1;1H[?25h
+\r
+\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r
+\n,\r\n,        System Name:    System Name\r
+\n,        Location:       Location\r\n,        Contact:        Contact
+\r\n,        Product:        RS910-48-D-S1-TX01-MC\r
+\n,        Classification: Controlled\r\n,        MAC Address:    00-0A-DC-5B-27-A0
+\r\n,        Serial Number:  910-0311-03980
+\r\n,\r\n,        Enter User Name:  
+Z
+6
+,
+\b \b
+\b \b
+ 
+:
+4
+(
+C
+O
+N
+N
+E
+C
+T
+_
+D
+A
+,\b
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-516A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1
+�
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-508A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1
+
+�
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             
+\r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n
+\r\n,        System Name:    System Name\r\n,        Location:       Location
+\r
+\n,        Contact:        Contact\r
+\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled
+\r\n,        MAC Address:    00-0A-DC-5B-27-A0\r
+\n,        Serial Number:  910-0311-03980\r\n
+\r\n,        Enter User Name:  
+
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-516A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1
+�
+�
+[0;22;27;25;24m
+[0m
+[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             
+\r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n
+\r\n,        System Name:    System Name\r\n,        Location:       Location
+\r\n,        Contact:        Contact\r
+\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled
+\r\n,        MAC Address:    00-0A-DC-5B-27-A0\r
+\n,        Serial Number:  910-0311-03980\r\n
+\r\n,        Enter User Name:  
+a
+�
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-516A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-508A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1
+�, 
+[2J[3;19HModel : [3;39HEDS-508A[4;19HName : [4;39HManaged Redundant Switch 04759[5;19HLocation : [5;39HSwitch Location[7;19HFirmware Version : [7;39HV3.0 build 11071816[8;19HSerial No : [8;39H04759[9;19HIP : [9;39H192.168.88.60[10;19H
+MAC Address : [10;39H00-90-E8-26-40-23[8;39H04759[12;20H+-----------------------------+[13;20H|[13;50H|[14;20H|[14;50H|[15;20H+-----------------------------+[13;21H                             [13;22HAccount  : [14;22HPassword : [13;33H
+�
+�
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             
+\r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n
+\r\n,        System Name:    System Name\r\n,        Location:       Location
+\r\n,        Contact:        Contact\r\n,        Product:        RS910-48-D-S1-TX01-MC
+\r\n,        Classification: Controlled\r
+\n,        MAC Address:    00-0A-DC-5B-27-A0\r\n,        Serial Number:  910-0311-03980
+\r\n,\r\n,        Enter User Name:  
+(
+&
+�,K�
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-516A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1[2J[3;19HModel : [3;39HEDS-516A[4;19HName : [4;39HManaged Redundant Switch 09404[5;19HLocation : [5;39HSwitch Location[7;19HFirmware Version : [7;39HV2.6[8;19HSerial No : [8;39H09404[9;19HIP : [9;39H192.168.88.61[10;19HMAC Address : [10;39H00-90-E8-27-8C-37[8;39H09404[12;20H+-----------------------------+[13;20H|[13;50H|[14;20H|[14;50H|[15;20H+-----------------------------+[13;21H                             [13;22HAccount  : [14;22HPassword : [13;33H[7m[13;33H[admin][0m
+\r\n,\rSession timeout.\r\n,\rClose connection.\r\n,\r
+\r\n,Linux 2.4.2_hhl20 (Digi_CM_Device) (0)\r\n,\r\n
+login: 
+r
+r
+o
+o
+o
+o
+t
+t
+\r
+\r\n
+Password: 
+d
+b
+p
+s
+\r
+\r\n
+root@Digi_CM_Device:~# 
+e
+e
+c
+c
+h
+h
+o
+o
+ 
+ 
+$
+$
+0
+0
+\r
+\r\n
+-bash\r\n
+root@Digi_CM_Device:~# 
+l
+l
+s
+s
+\r
+\r\n
+root@Digi_CM_Device:~# 
+p
+p
+w
+w
+d
+d
+\r
+\r\n
+/root\r\n
+root@Digi_CM_Device:~# 
+c
+c
+d
+d
+ 
+ 
+.
+.
+.
+.
+\r
+\r\n
+root@Digi_CM_Device:/# 
+l
+l
+s
+s
+\r
+\r\n
+bin     cnf     dev     etc     home    initrd  lib     mnt     proc    root    sbin    tmp     usr     usr2    var\r\n
+root@Digi_CM_Device:/# 
+p
+p
+s
+s
+ 
+ 
+a
+a
+u
+u
+x
+x
+w
+w
+w
+w
+\r
+\r\n
+  PID  Uid     Stat Command\r\n
+    1 root     S    init \r\n
+    2 root     S    [keventd]\r\n
+    3 root     S    [kswapd]\r\n
+    4 root     S    [kreclaimd]\r\n
+    5 root     S    [bdflush]\r\n
+    6 root     S    [kupdate]\r\n
+    8 root     S    [mtdblockd]\r\n
+   35 root     S    [jffs2_gcd_mtd5]\r\n
+   58 root     S    /sbin/cardmgr \r\n
+   86 root     S    /bin/addpd \r\n
+   87 root     S    /etc/rc.d/rc2.d/S19vtslogger start \r\n
+   96 root     S    /usr/sbin/inetd \r\n
+   98 root     S    /usr/local/sbin/webs \r\n
+  101 root     S    /etc/rc.d/rc2.d/S50vts3200 start \r\n
+  103 root     S    /etc/rc.d/rc2.d/S54digipwrd start \r\n
+  109 root     S    /sbin/getty console \r\n
+  116 root     S    /sbin/netcx \r\n
+  117 root     S    /sbin/netcx \r\n
+  118 root     S    /sbin/netcx \r\n
+  119 root     S    /bin/vts.cport 1 \r\n
+  120 root     S    /sbin/netcx \r\n
+  121 root     S    /bin/vts.cport 1 \r\n
+  122 root     S    /sbin/netcx \r\n
+  124 root     S    /bin/vts.cport 1 \r\n
+  125 root     S    /bin/clusterd \r\n
+  127 root     S    /bin/vts.cport 2 \r\n
+  129 root     S    /bin/vts.cport 2 \r\n
+  130 root     S    /bin/vts.cport 2 \r\n
+  131 root     S    /bin/vts.cport 3 \r\n
+  133 root     S    /bin/vts.cport 3 \r\n
+  134 root     S    /bin/vts.cport 3 \r\n
+  136 root     S    /bin/vts.cport 4 \r\n
+  138 root     S    /bin/vts.cport 4 \r\n
+  139 root     S    /bin/vts.cport 4 \r\n
+  140 root     S    /bin/vts.cport 5 \r\n
+  142 root     S    /usr/sbin/sshd \r\n
+  143 root     S    /bin/vts.cport 5 \r\n
+  144 root     S    /bin/vts.cport 6 \r\n
+  146 root     S    /bin/vts.cport 5 \r\n
+  148 root     S    /bin/vts.cport 6 \r\n
+  149 root     S    /bin/vts.cport 6 \r\n
+  150 root     S    /bin/vts.cport 7 \r\n
+  152 root     S    /usr/local/sbin/snmpd -c /usr/local/share/snmp/snmpd.conf \r\n
+  154 root     S    /bin/vts.cport 7 \r\n
+  155 root     S    /bin/vts.cport 7 \r\n
+  156 root     S    /bin/linkupchecker \r\n
+  157 root     S    /bin/vts.cport 8 \r\n
+  159 root     S    /bin/vts.cport 8 \r\n
+  160 root     S    /bin/vts.cport 8 \r\n
+  161 root     S    /bin/vts.cport 9 \r\n
+  163 root     S    /bin/vts.cport 9 \r\n
+  164 root     S    /bin/vts.cport 9 \r\n
+  165 root     S    /bin/vts.cport 10 \r\n
+  167 root     S    /bin/vts.cport 10 \r\n
+  168 root     S    /bin/vts.cport 10 \r\n
+  169 root     S    /bin/vts.cport 11 \r\n
+  171 root     S    /bin/vts.cport 11 \r\n
+  172 root     S    /bin/vts.cport 12 \r\n
+  174 root     S    /bin/vts.cport 11 \r\n
+  175 root     S    /bin/vts.cport 13 \r\n
+  177 root     S    /bin/vts.cport 12 \r\n
+  178 root     S    /bin/vts.cport 12 \r\n
+  179 root     S    /bin/vts.cport 14 \r\n
+  181 root     S    /bin/vts.cport 13 \r\n
+  182 root     S    /bin/vts.cport 13 \r\n
+  183 root     S    /bin/vts.cport 15 \r\n
+  185 root     S    /bin/vts.cport 14 \r\n
+  186 root     S    /bin/vts.cport 14 \r\n
+  187 root     S    /bin/vts.cport 16 \r\n
+  189 root     S    /bin/vts.cport 15 \r\n
+  190 root     S    /bin/vts.cport 15 \r\n
+  191 root     S    /bin/vts.cport 17 \r\n
+  192 root     S    /bin/vts.cport 16 \r\n
+  194 root     S    /bin/vts.cport 16 \r\n
+  195 root     S    /bin/vts.cport 18 \r\n
+  197 root     S    /bin/vts.cport 17 \r\n
+  198 root     S    /bin/vts.cport 17 \r\n
+  199 root     S    /bin/vts.cport 19 \r\n
+  201 root     S    /bin/vts.cport 18 \r\n
+  202 root     S    /bin/vts.cport 18 \r\n
+  203 root     S    /bin/vts.cport 20 \r\n
+  205 root     S    /bin/vts.cport 19 \r\n
+  206 root     S    /bin/vts.cport 19 \r\n
+  207 root     S    /bin/vts.cport 21 \r\n
+  209 root     S    /bin/vts.cport 20 \r\n
+  210 root     S    /bin/vts.cport 20 \r\n
+  211 root     S    /bin/vts.cport 22 \r\n
+  213 root     S    /bin/vts.cport 21 \r\n
+  214 root     S    /bin/vts.cport 21 \r\n
+  215 root     S    /bin/vts.cport 23 \r\n
+  217 root     S    /bin/vts.cport 22 \r\n
+  218 root     S    /bin/vts.cport 22 \r\n
+  219 root     S    /bin/vts.cport 24 \r\n
+  221 root     S    /bin/vts.cport 23 \r\n
+  222 root     S    /bin/vts.cport 23 \r\n
+  223 root     S    /bin/vts.cport 25 \r\n
+  225 root     S    /bin/vts.cport 24 \r\n
+  226 root     S    /bin/vts.cport 24 \r\n
+  227 root     S    /bin/vts.cport 26 \r\n
+  229 root     S    /bin/vts.cport 25 \r\n
+  230 root     S    /bin/vts.cport 27 \r\n
+  231 root     S    /bin/vts.cport 25 \r\n
+  233 root     S    /bin/vts.cport 26 \r\n
+  234 root     S    /bin/vts.cport 28 \r\n
+  235 root     S    /bin/vts.cport 26 \r\n
+  237 root     S    /bin/vts.cport 27 \r\n
+  238 root     S    /bin/vts.cport 27 \r\n
+  239 root     S    /bin/vts.cport 29 \r\n
+  241 root     S    /bin/vts.cport 30 \r\n
+  242 root     S    /bin/vts.cport 28 \r\n
+  244 root     S    /bin/vts.cport 28 \r\n
+  245 root     S    /bin/vts.cport 29 \r\n
+  246 root     S    /bin/vts.cport 31 \r\n
+  248 root     S    /bin/vts.cport 29 \r\n
+  249 root     S    /bin/vts.cport 30 \r\n
+  250 root     S    /bin/vts.cport 32 \r\n
+  251 root     S    /bin/vts.cport 30 \r\n
+  252 root     S    /bin/vts.cport 31 \r\n
+  253 root     S    /bin/vts.cport 31 \r\n
+  254 root     S    /bin/vts.cport 32 \r\n
+  255 root     S    /bin/vts.cport 32 \r\n
+  310 root     S    in.telnetd: 192.168.2.42\r\n
+  311 root     S    -bash \r\n
+  326 root     R    ps auxww \r\n
+root@Digi_CM_Device:/# 
+p
+p
+s
+s
+ 
+ 
+a
+a
+u
+u
+x
+x
+w
+w
+w
+w
+\r
+\r\n
+  PID  Uid     Stat Command\r\n
+    1 root     S    init \r\n
+    2 root     S    [keventd]\r\n
+    3 root     S    [kswapd]\r\n
+    4 root     S    [kreclaimd]\r\n
+    5 root     S    [bdflush]\r\n
+    6 root     S    [kupdate]\r\n
+    8 root     S    [mtdblockd]\r\n
+   35 root     S    [jffs2_gcd_mtd5]\r\n
+   58 root     S    /sbin/cardmgr \r\n
+   86 root     S    /bin/addpd \r\n
+   87 root     S    /etc/rc.d/rc2.d/S19vtslogger start \r\n
+   96 root     S    /usr/sbin/inetd \r\n
+   98 root     S    /usr/local/sbin/webs \r\n
+  101 root     S    /etc/rc.d/rc2.d/S50vts3200 start \r\n
+  103 root     S    /etc/rc.d/rc2.d/S54digipwrd start \r\n
+  109 root     S    /sbin/getty console \r\n
+  116 root     S    /sbin/netcx \r\n
+  117 root     S    /sbin/netcx \r\n
+  118 root     S    /sbin/netcx \r\n
+  119 root     S    /bin/vts.cport 1 \r\n
+  120 root     S    /sbin/netcx \r\n
+  121 root     S    /bin/vts.cport 1 \r\n
+  122 root     S    /sbin/netcx \r\n
+  124 root     S    /bin/vts.cport 1 \r\n
+  125 root     S    /bin/clusterd \r\n
+  127 root     S    /bin/vts.cport 2 \r\n
+  129 root     S    /bin/vts.cport 2 \r\n
+  130 root     S    /bin/vts.cport 2 \r\n
+  131 root     S    /bin/vts.cport 3 \r\n
+  133 root     S    /bin/vts.cport 3 \r\n
+  134 root     S    /bin/vts.cport 3 \r\n
+  136 root     S    /bin/vts.cport 4 \r\n
+  138 root     S    /bin/vts.cport 4 \r\n
+  139 root     S    /bin/vts.cport 4 \r\n
+  140 root     S    /bin/vts.cport 5 \r\n
+  142 root     S    /usr/sbin/sshd \r\n
+  143 root     S    /bin/vts.cport 5 \r\n
+  144 root     S    /bin/vts.cport 6 \r\n
+  146 root     S    /bin/vts.cport 5 \r\n
+  148 root     S    /bin/vts.cport 6 \r\n
+  149 root     S    /bin/vts.cport 6 \r\n
+  150 root     S    /bin/vts.cport 7 \r\n
+  152 root     S    /usr/local/sbin/snmpd -c /usr/local/share/snmp/snmpd.conf \r\n
+  154 root     S    /bin/vts.cport 7 \r\n
+  155 root     S    /bin/vts.cport 7 \r\n
+  156 root     S    /bin/linkupchecker \r\n
+  157 root     S    /bin/vts.cport 8 \r\n
+  159 root     S    /bin/vts.cport 8 \r\n
+  160 root     S    /bin/vts.cport 8 \r\n
+  161 root     S    /bin/vts.cport 9 \r\n
+  163 root     S    /bin/vts.cport 9 \r\n
+  164 root     S    /bin/vts.cport 9 \r\n
+  165 root     S    /bin/vts.cport 10 \r\n
+  167 root     S    /bin/vts.cport 10 \r\n
+  168 root     S    /bin/vts.cport 10 \r\n
+  169 root     S    /bin/vts.cport 11 \r\n
+  171 root     S    /bin/vts.cport 11 \r\n
+  172 root     S    /bin/vts.cport 12 \r\n
+  174 root     S    /bin/vts.cport 11 \r\n
+  175 root     S    /bin/vts.cport 13 \r\n
+  177 root     S    /bin/vts.cport 12 \r\n
+  178 root     S    /bin/vts.cport 12 \r\n
+  179 root     S    /bin/vts.cport 14 \r\n
+  181 root     S    /bin/vts.cport 13 \r\n
+  182 root     S    /bin/vts.cport 13 \r\n
+  183 root     S    /bin/vts.cport 15 \r\n
+  185 root     S    /bin/vts.cport 14 \r\n
+  186 root     S    /bin/vts.cport 14 \r\n
+  187 root     S    /bin/vts.cport 16 \r\n
+  189 root     S    /bin/vts.cport 15 \r\n
+  190 root     S    /bin/vts.cport 15 \r\n
+  191 root     S    /bin/vts.cport 17 \r\n
+  192 root     S    /bin/vts.cport 16 \r\n
+  194 root     S    /bin/vts.cport 16 \r\n
+  195 root     S    /bin/vts.cport 18 \r\n
+  197 root     S    /bin/vts.cport 17 \r\n
+  198 root     S    /bin/vts.cport 17 \r\n
+  199 root     S    /bin/vts.cport 19 \r\n
+  201 root     S    /bin/vts.cport 18 \r\n
+  202 root     S    /bin/vts.cport 18 \r\n
+  203 root     S    /bin/vts.cport 20 \r\n
+  205 root     S    /bin/vts.cport 19 \r\n
+  206 root     S    /bin/vts.cport 19 \r\n
+  207 root     S    /bin/vts.cport 21 \r\n
+  209 root     S    /bin/vts.cport 20 \r\n
+  210 root     S    /bin/vts.cport 20 \r\n
+  211 root     S    /bin/vts.cport 22 \r\n
+  213 root     S    /bin/vts.cport 21 \r\n
+  214 root     S    /bin/vts.cport 21 \r\n
+  215 root     S    /bin/vts.cport 23 \r\n
+  217 root     S    /bin/vts.cport 22 \r\n
+  218 root     S    /bin/vts.cport 22 \r\n
+  219 root     S    /bin/vts.cport 24 \r\n
+  221 root     S    /bin/vts.cport 23 \r\n
+  222 root     S    /bin/vts.cport 23 \r\n
+  223 root     S    /bin/vts.cport 25 \r\n
+  225 root     S    /bin/vts.cport 24 \r\n
+  226 root     S    /bin/vts.cport 24 \r\n
+  227 root     S    /bin/vts.cport 26 \r\n
+  229 root     S    /bin/vts.cport 25 \r\n
+  230 root     S    /bin/vts.cport 27 \r\n
+  231 root     S    /bin/vts.cport 25 \r\n
+  233 root     S    /bin/vts.cport 26 \r\n
+  234 root     S    /bin/vts.cport 28 \r\n
+  235 root     S    /bin/vts.cport 26 \r\n
+  237 root     S    /bin/vts.cport 27 \r\n
+  238 root     S    /bin/vts.cport 27 \r\n
+  239 root     S    /bin/vts.cport 29 \r\n
+  241 root     S    /bin/vts.cport 30 \r\n
+  242 root     S    /bin/vts.cport 28 \r\n
+  244 root     S    /bin/vts.cport 28 \r\n
+  245 root     S    /bin/vts.cport 29 \r\n
+  246 root     S    /bin/vts.cport 31 \r\n
+  248 root     S    /bin/vts.cport 29 \r\n
+  249 root     S    /bin/vts.cport 30 \r\n
+  250 root     S    /bin/vts.cport 32 \r\n
+  251 root     S    /bin/vts.cport 30 \r\n
+  252 root     S    /bin/vts.cport 31 \r\n
+  253 root     S    /bin/vts.cport 31 \r\n
+  254 root     S    /bin/vts.cport 32 \r\n
+  255 root     S    /bin/vts.cport 32 \r\n
+  310 root     S    in.telnetd: 192.168.2.42\r\n
+  311 root     S    -bash \r\n
+  327 root     R    ps auxww \r\n
+root@Digi_CM_Device:/# 
+l
+l
+s
+s
+\r
+\r\n
+bin     cnf     dev     etc     home    initrd  lib     mnt     proc    root    sbin    tmp     usr     usr2    var\r\n
+root@Digi_CM_Device:/# 
+l
+l
+s
+s
+ 
+ 
+h
+h
+o
+o
+m
+m
+e
+e
+\r
+\r\n
+httpd\r\n
+root@Digi_CM_Device:/# 
+l
+l
+s
+s
+ 
+ 
+u
+u
+s
+s
+r
+r
+2
+2
+\r
+\r\n
+rc.user       rc.user.old   rc.user.old1\r\n
+root@Digi_CM_Device:/# 
+
+ls usr2
+
+\b \b
+\r
+\r\n
+bin      include  lib      libexec  local    sbin\r\n
+root@Digi_CM_Device:/# 
+l
+l
+s
+s
+ 
+ 
+c
+c
+v
+v
+\t
+
+
+\b \b
+\t
+nf/
+\r
+\r\n
+root@Digi_CM_Device:/# 
+u
+u
+n
+n
+a
+a
+m
+m
+e
+e
+ 
+ 
+-
+-
+a
+a
+\r
+\r\n
+Linux Digi_CM_Device 2.4.2_hhl20 #760 Mon Apr 18 19:58:55 KST 2005 ppc unknown\r\n
+root@Digi_CM_Device:/# 
+c
+c
+a
+a
+t
+t
+ 
+ 
+/
+/
+p
+p
+r
+r
+o
+o
+\t
+c/
+m
+m
+e
+e
+m
+m
+\t
+info 
+\r
+\r\n
+        total:    used:    free:  shared: buffers:  cached:\r\n,Mem:  64098304 33632256 30466048 33538048  4263936  8704000\r\n,Swap:        0        0        0\r\n,MemTotal:        62596 kB\r\n,MemFree:         29752 kB\r\n,MemShared:       32752 kB\r\n,Buffers:          4164 kB\r\n,Cached:           8500 kB\r\n,Active:           9144 kB\r\n,Inact_dirty:      3520 kB\r\n,Inact_clean:         0 kB\r\n,Inact_target:        8 kB\r\n,HighTotal:           0 kB\r\n,HighFree:            0 kB\r\n,LowTotal:        62596 kB\r\n,LowFree:         29752 kB\r\n,SwapTotal:           0 kB\r\n,SwapFree:            0 kB\r\n
+root@Digi_CM_Device:/# 
+
+cat /proc/meminfo 
+
+\b\b\b\b\b\b\b\b        \b\b\b\b\b\b\b\b
+c
+c
+p
+p
+u
+u
+\t
+info 
+\r
+\r\n
+processor\t: 0\r\n,cpu\t\t: 8xx\r\n,clock\t\t: 50MHz\r\n,bus clock\t: 50MHz\r\n,revision\t: 0.0 (pvr 0050 0000)\r\n,bogomips\t: 49.86\r\n,zero pages\t: total: 0 (0Kb) current: 0 (0Kb) hits: 0/0 (0%)\r\n
+root@Digi_CM_Device:/# 
+l
+l
+s
+s
+ 
+ 
+/
+/
+u
+u
+s
+s
+\t
+r
+/
+/
+b
+b
+i
+i
+n
+n
+\t
+/
+\r
+\r\n
+as          crontab     ftp         id          ldapsearch  passwd      scp         sz          who\r\n
+chage       find        gcc         ld          make        rpcinfo     ssh         telnet\r\n
+root@Digi_CM_Device:/# 
+
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-508A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1
+\r\n,\r\n
+\r\n,\r\n
+[2J[3;19HModel : [3;39HEDS-508A[4;19HName : [4;39HManaged Redundant Switch 04759[5;19HLocation : [5;39HSwitch Location[7;19HFirmware Version : [7;39HV3.0 build 11071816[8;19HSerial No : [8;39H04759[9;19HIP : [9;39H192.168.88.60[10;19H
+GET / HTTP/1.0\r\n,\r\n
+\r\n,\r\n
+MAC Address : [10;39H00-90-E8-26-40-23[8;39H04759[12;20H+-----------------------------+[13;20H|[13;50H|[14;20H|[14;50H|[15;20H+-----------------------------+[13;21H                             [13;22HAccount  : [14;22HPassword : [13;33H[14;33H
+�,[0;22;27;25;24m[0m[2J[1;1H[?25h\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n,\r\n,        System Name:    System Name\r\n,        Location:       Location\r\n,        Contact:        Contact\r\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled\r\n,        MAC Address:    00-0A-DC-5B-27-A0\r\n,        Serial Number:  910-0311-03980\r\n,\r\n,        Enter User Name:  
+GET / HTTP/1.0\r\n,\r\n
+GET / HTTP/1.0\r\n,\r\n
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-508A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1\b1[2J[3;19HModel : [3;39HEDS-508A[4;19HName : [4;39HManaged Redundant Switch 04759[5;19HLocation : [5;39HSwitch Location[7;19HFirmware Version : [7;39HV3.0 build 11071816[8;19HSerial No : [8;39H04759[9;19HIP : [9;39H192.168.88.60[10;19HMAC Address : [10;39H00-90-E8-26-40-23[8;39H04759[12;20H+-----------------------------+[13;20H|[13;50H|[14;20H|[14;50H|[15;20H+-----------------------------+[13;21H                             [13;22HAccount  : [14;22HPassword : [13;33H[14;33H
+\r\n,\r\n
+\r
+\n,\r\n,        Enter Password: [0;22;27;25;24m[0m[2J[1;1H[?25h\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n,\r\n,        System Name:    System Name\r\n,        Location:       Location\r\n,        Contact:        Contact\r\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled\r\n,        MAC Address:    00-0A-DC-5B-27-A0\r\n,        Serial Number:  910-0311-03980\r\n,\r\n,        Enter User Name:  
+GET / HTTP/1.0\r\n,\r\n
+�,[0;22;27;25;24m[0m[2J[1;1H[?25h\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n,\r\n,        System Name:    System Name\r\n,        Location:       Location\r\n,        Contact:        Contact\r\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled\r\n,        MAC Address:    00-0A-DC-5B-27-A0\r\n,        Serial Number:  910-0311-03980\r\n,\r\n,        Enter User Name:  GET / HTTP/1.0\r\n,\r\n,        Enter Password: [0;22;27;25;24m[0m[2J[1;1H[?25h\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n,\r\n,        System Name:    System Name\r\n,        Location:       Location\r\n,        Contact:        Contact\r\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled\r\n,        MAC Address:    00-0A-DC-5B-27-A0\r\n,        Serial Number:  910-0311-03980\r\n,\r\n,        Enter User Name:  
+\r\n,\r\n,\r\n,\r\n,\r\n
+\r\n,\r\n,\r\n,Welcome to the Windows CE Telnet Service on TPC-1261-OEM\r\n,\r\n,login: 
+a
+a
+d
+d
+m
+m
+i
+i
+n
+n
+\r
+\r\n
+Password: 
+a
+d
+m
+i
+n
+\r
+\r\n
+Logon Incorrect\r\n,login: 
+a
+a
+d
+d
+m
+m
+i
+i
+n
+n
+\r
+\r\n
+Password: 
+p
+a
+s
+s
+w
+ord
+\r
+\r\n
+Logon Incorrect\r\n,login: 
+\r\n,Logon credentials not entered in required amount of time.\r\n
+\r\n,Logon Failed\r\n,\r\n
+�
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r
+\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n,\r
+\n,        System Name:    System Name\r\n,        Location:       Location\r
+\n,        Contact:        Contact\r\n,        Product:        RS910-48-D-S1-TX01-MC\r
+\n,        Classification: Controlled\r\n,        MAC Address:    00-0A-DC-5B-27-A0
+\r\n,        Serial Number:  910-0311-03980\r
+\n,\r\n,        Enter User Name:  
+admin\n
+a
+d
+m
+i
+n
+\r
+\n,\r\n,        Enter Password: 
+admin\n
+x
+x
+x
+x
+x
+[0m
+[1;0H[2K[0;22;27;25;24m[1;1H[?25l
+System Name[0;22;27;25;24m[1;35HMain Menu
+[0;22;27;25;24m[1;65H   admin access[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[0;22;7;25;24m[4;30HAdministration[0;22;27;25;24m
+[5;30HSerial Protocols[0;22;27;25;24m[6;30HEthernet Ports
+[0;22;27;25;24m[7;30HEthernet Stats
+[0;22;27;25;24m[8;30HLink Aggregation
+[0;22;27;25;24m[9;30HSpanning Tree
+[0;22;27;25;24m[10;30HVirtual LANs
+[0;22;27;25;24m[11;30HPort Security
+[0;22;27;25;24m[12;30HClasses of Service
+[0;22;27;25;24m[13;30HMulticast Filtering[0;22;27;25;24m
+[14;30HMAC Address Tables[0;22;27;25;24m[15;30HNetwork Discovery
+[0;22;27;25;24m[16;30HDiagnostics
+[0;1;27;25;4m[24;1H<CTRL>[0;22;27;25;24m  
+[0;1;27;25;4mZ-Help[0;22;27;25;24m
+ [0;1;27;25;4mS-Shell
+[0;22;27;25;24m [0;1;27;25;4mX-Logout
+[0;22;27;25;24m [0m[0K
+\n
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[0;22;7;25;24m[4;24HConfigure IP Interfaces[0;22;27;25;24m
+[5;24HConfigure IP Gateways[0;22;27;25;24m
+[6;24HConfigure IP Services[0;22;27;25;24m
+[7;24HConfigure System Identification[0;22;27;25;24m
+[8;24HConfigure Passwords[0;22;27;25;24m[9;24HSystem Time Manager
+[0;22;27;25;24m[10;24HConfigure SNMP
+[0;22;27;25;24m[11;24HConfigure Security Server[0;22;27;25;24m
+[12;24HConfigure DHCP Relay Agent[0;22;27;25;24m
+[13;24HConfigure Syslog[0;1;27;25;4m[24;1H<CTRL>
+[0;22;27;25;24m  [0;1;27;25;4m
+Z-Help[0;22;27;25;24m 
+[0;1;27;25;4mS-Shell[0;22;27;25;24m
+ [0;1;27;25;4mX-Logout
+[0;22;27;25;24m [0m[0K
+[0m[1;0H[2K[0;22;27;25;24m
+[1;1H[?25lSystem Name[0;22;27;25;24m
+[1;33HAdministration[0;22;27;25;24m[1;65H
+   admin access
+[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[Bx\n
+[0;22;27;25;24m
+[4;24HConfigure IP Interfaces[0;22;7;25;24m
+[5;24HConfigure IP Gateways
+[0;22;27;25;24m
+[5;24HConfigure IP Gateways[0;22;7;25;24m[6;24HConfigure IP Services
+[0;22;27;25;24m
+[6;24HConfigure IP Services[0;22;7;25;24m
+[7;24HConfigure System Identification
+\n
+[0;22;27;25;24m
+[7;24HConfigure System Identification[0;22;7;25;24m[8;24HConfigure Passwords
+[0;22;27;25;24m
+[8;24HConfigure Passwords[0;22;7;25;24m
+[9;24HSystem Time Manager
+[0;22;27;25;24m
+[9;24HSystem Time Manager[0;22;7;25;24m[10;24HConfigure SNMP
+[0;22;27;25;24m
+[10;24HConfigure SNMP[0;22;7;25;24m[11;24HConfigure Security Server
+[0;22;27;25;24m
+[11;24HConfigure Security Server[0;22;7;25;24m
+[12;24HConfigure DHCP Relay Agent
+[0;22;27;25;24m
+[12;24HConfigure DHCP Relay Agent[0;22;7;25;24m[13;24HConfigure Syslog
+[0;22;27;25;24m
+[13;24HConfigure Syslog[0;22;7;25;24m[4;24HConfigure IP Interfaces
+[0;22;27;25;24m
+[4;24HConfigure IP Interfaces[0;22;7;25;24m
+[5;24HConfigure IP Gateways
+[0;22;27;25;24m
+[5;24HConfigure IP Gateways[0;22;7;25;24m[6;24HConfigure IP Services
+[0;22;27;25;24m
+[6;24HConfigure IP Services[0;22;7;25;24m[7;24HConfigure System Identification
+[0;22;27;25;24m
+[7;24HConfigure System Identification[0;22;7;25;24m[8;24HConfigure Passwords
+[0;22;27;25;24m
+[8;24HConfigure Passwords[0;22;7;25;24m[9;24HSystem Time Manager
+[0;22;27;25;24m
+[9;24HSystem Time Manager[0;22;7;25;24m[10;24HConfigure SNMP
+[0m
+[2J[1;1H[?25ladmin logged out - goodbye
+[2;1H[?25h
+�
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             
+\r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n
+\r\n,        System Name:    System Name\r\n,        Location:       Location
+\r\n,        Contact:        Contact\r
+\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled\r
+\n,        MAC Address:    00-0A-DC-5B-27-A0\r\n,        Serial Number:  910-0311-03980
+\r\n,\r\n,        Enter User Name:  
+�
+�
+� 
+�!
+�"
+�'
+
+a
+a
+d
+d
+m
+m
+i
+i
+n
+n
+\r
+\r
+\n,\r\n,        Enter Password: 
+a
+x
+d
+x
+m
+x
+i
+x
+n
+x
+\r
+[0m
+[1;0H[2K[0;22;27;25;24m[1;1H[?25l
+System Name[0;22;27;25;24m
+[1;35HMain Menu[0;22;27;25;24m[1;65H
+   admin access[?25l[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[0;22;7;25;24m[4;30HAdministration[0;22;27;25;24m
+[5;30HSerial Protocols[0;22;27;25;24m
+[6;30HEthernet Ports[0;22;27;25;24m[7;30HEthernet Stats
+[0;22;27;25;24m[8;30HLink Aggregation
+[0;22;27;25;24m[9;30HSpanning Tree[0;22;27;25;24m
+[10;30HVirtual LANs[0;22;27;25;24m
+[11;30HPort Security[0;22;27;25;24m
+[12;30HClasses of Service[0;22;27;25;24m[13;30HMulticast Filtering
+[0;22;27;25;24m[14;30HMAC Address Tables[0;22;27;25;24m
+[15;30HNetwork Discovery[0;22;27;25;24m
+[16;30HDiagnostics[0;1;27;25;4m[24;1H<CTRL>
+[0;22;27;25;24m  [0;1;27;25;4mZ-Help
+[0;22;27;25;24m [0;1;27;25;4mS-Shell
+[0;22;27;25;24m [0;1;27;25;4m
+X-Logout[0;22;27;25;24m 
+[0m[0K
+[B
+[0;22;27;25;24m
+[4;30HAdministration[0;22;7;25;24m[5;30HSerial Protocols
+\r
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[0;22;7;25;24m[4;24HConfigure Serial Ports[0;22;27;25;24m
+[5;24HConfigure Protocols[0;22;27;25;24m
+[6;24HConfigure Device Address Table[0;22;27;25;24m[7;24HView TIN Dynamic Address Table
+[0;22;27;25;24m[8;24HView Links Statistics
+[0;22;27;25;24m[9;24HView Connection Statistics[0;22;27;25;24m
+[10;24HView Serial Port Statistics[0;22;27;25;24m
+[11;24HClear Serial Port(s) Statistics[0;22;27;25;24m
+[12;24HReset Serial Port(s)[0;1;27;25;4m
+[24;1H<CTRL>[0;22;27;25;24m  
+[0;1;27;25;4mZ-Help[0;22;27;25;24m
+ [0;1;27;25;4mS-Shell
+[0;22;27;25;24m [0;1;27;25;4m
+X-Logout[0;22;27;25;24m [0m
+[0K[0m[1;0H[2K
+[0;22;27;25;24m[1;1H[?25lSystem Name
+[0;22;27;25;24m[1;32HSerial Protocols
+[0;22;27;25;24m[1;65H   admin access
+[B
+[0;22;27;25;24m
+[4;24HConfigure Serial Ports[0;22;7;25;24m
+[5;24HConfigure Protocols
+[B
+[B
+[0;22;27;25;24m
+[5;24HConfigure Protocols[0;22;7;25;24m
+[6;24HConfigure Device Address Table
+[B
+[B
+[0;22;27;25;24m
+[6;24HConfigure Device Address Table[0;22;7;25;24m[7;24HView TIN Dynamic Address Table
+[0;22;27;25;24m
+[7;24HView TIN Dynamic Address Table[0;22;7;25;24m[8;24HView Links Statistics
+[0;22;27;25;24m
+[8;24HView Links Statistics[0;22;7;25;24m
+[9;24HView Connection Statistics
+[B
+[0;22;27;25;24m
+[9;24HView Connection Statistics[0;22;7;25;24m
+[10;24HView Serial Port Statistics
+\r
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[3;1H[?25l[0;22;27;25;4mPort[0;22;27;25;24m
+ [0;22;27;25;4mProtocol       
+[0;22;27;25;24m [0;22;27;25;4m
+Rx Chars   [0;22;27;25;24m 
+[0;22;27;25;4mTx Chars   [0;22;27;25;24m
+ [0;22;27;25;4mRx Packets 
+[0;22;27;25;24m [0;22;27;25;4m
+Tx Packets [0;22;27;25;24m [0m
+[0K[0;1;27;25;4m[24;1H<CTRL>
+[0;22;27;25;24m  [0;1;27;25;4m
+Z-Help[0;22;27;25;24m 
+[0;1;27;25;4mS-Shell[0;22;27;25;24m
+ [0m[0K[0;22;27;25;24m
+[4;1HTable is empty[0m[0K
+[0m
+[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K
+[0m[1;0H[2K[0;22;27;25;24m[1;1H[?25l
+System Name[0;22;27;25;24m[1;29HSerial Port Statistics
+[0;22;27;25;24m[1;65H   admin access
+\r
+
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[0;22;27;25;24m[4;24HConfigure Serial Ports[0;22;27;25;24m
+[5;24HConfigure Protocols[0;22;27;25;24m[6;24HConfigure Device Address Table
+[0;22;27;25;24m[7;24HView TIN Dynamic Address Table
+[0;22;27;25;24m[8;24HView Links Statistics
+[0;22;27;25;24m[9;24HView Connection Statistics
+[0;22;7;25;24m[10;24HView Serial Port Statistics
+[0;22;27;25;24m[11;24HClear Serial Port(s) Statistics
+[0;22;27;25;24m[12;24HReset Serial Port(s)
+[0;1;27;25;4m[24;1H<CTRL>[0;22;27;25;24m
+  [0;1;27;25;4mZ-Help
+[0;22;27;25;24m [0;1;27;25;4m
+S-Shell[0;22;27;25;24m 
+[0;1;27;25;4mX-Logout[0;22;27;25;24m
+ [0m[0K[0m
+[1;0H[2K[0;22;27;25;24m
+[1;1H[?25lSystem Name[0;22;27;25;24m
+[1;32HSerial Protocols[0;22;27;25;24m
+[1;65H   admin access
+[A
+[0;22;27;25;24m
+[10;24HView Serial Port Statistics[0;22;7;25;24m
+[9;24HView Connection Statistics
+\r
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[3;10H[?25l[0;22;27;25;4mRemote IP      [0;22;27;25;24m
+ [0;22;27;25;4mRemote Port
+[0;22;27;25;24m [0;22;27;25;4m
+Local Port[0;22;27;25;24m 
+[0;22;27;25;4mRx Packets [0;22;27;25;24m 
+[0;22;27;25;4mTx Packets [0;22;27;25;24m
+ [0m[0K[0;1;27;25;4m
+[24;1H<CTRL>[0;22;27;25;24m  
+[0;1;27;25;4mZ-Help[0;22;27;25;24m
+ [0;1;27;25;4mS-Shell
+[0;22;27;25;24m [0;1;27;25;4m
+D-PgDn[0;22;27;25;24m 
+[0;1;27;25;4mU-PgUp[0;22;27;25;24m
+ [0m[0K[0;22;27;25;24m
+[4;10HTable is empty[0m[0K[0m
+[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K
+[0m[1;0H[2K[0;22;27;25;24m[1;1H[?25l
+System Name[0;22;27;25;24m[1;29HConnection Statistics
+[0;22;27;25;24m[1;65H   admin access
+
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[0;22;27;25;24m[4;24HConfigure Serial Ports[0;22;27;25;24m
+[5;24HConfigure Protocols[0;22;27;25;24m
+[6;24HConfigure Device Address Table[0;22;27;25;24m[7;24HView TIN Dynamic Address Table
+[0;22;27;25;24m[8;24HView Links Statistics[0;22;7;25;24m
+[9;24HView Connection Statistics[0;22;27;25;24m
+[10;24HView Serial Port Statistics[0;22;27;25;24m
+[11;24HClear Serial Port(s) Statistics[0;22;27;25;24m[12;24HReset Serial Port(s)
+[0;1;27;25;4m[24;1H<CTRL>
+[0;22;27;25;24m  [0;1;27;25;4m
+Z-Help[0;22;27;25;24m 
+[0;1;27;25;4mS-Shell[0;22;27;25;24m
+ [0;1;27;25;4mX-Logout
+[0;22;27;25;24m [0m[0K
+[0m[1;0H[2K
+[0;22;27;25;24m[1;1H[?25lSystem Name
+[0;22;27;25;24m[1;32HSerial Protocols
+[0;22;27;25;24m[1;65H   admin access
+[A
+[0;22;27;25;24m
+[9;24HView Connection Statistics[0;22;7;25;24m
+[8;24HView Links Statistics
+\r
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[3;1H[?25l[0;22;27;25;4mProtocol        [0;22;27;25;24m
+ [0;22;27;25;4mLocal Address              
+[0;22;27;25;24m [0;22;27;25;4m
+Remote Address                     [0;22;27;25;24m 
+[0m[0K[0;1;27;25;4m
+[24;1H<CTRL>[0;22;27;25;24m  
+[0;1;27;25;4mZ-Help
+[0;22;27;25;24m [0;1;27;25;4m
+S-Shell[0;22;27;25;24m 
+[0;1;27;25;4mD-PgDn[0;22;27;25;24m
+ [0;1;27;25;4mU-PgUp
+[0;22;27;25;24m [0m[0K
+[0;22;27;25;24m[4;1HTable is empty[0m
+[0K[0m
+[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K
+[0m[1;0H[2K[0;22;27;25;24m[1;1H[?25l
+System Name[0;22;27;25;24m[1;32HLinks Statistics
+[0;22;27;25;24m[1;65H   admin access
+
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[0;22;27;25;24m[4;24HConfigure Serial Ports[0;22;27;25;24m
+[5;24HConfigure Protocols[0;22;27;25;24m
+[6;24HConfigure Device Address Table[0;22;27;25;24m[7;24HView TIN Dynamic Address Table
+[0;22;7;25;24m[8;24HView Links Statistics
+[0;22;27;25;24m[9;24HView Connection Statistics[0;22;27;25;24m
+[10;24HView Serial Port Statistics[0;22;27;25;24m
+[11;24HClear Serial Port(s) Statistics[0;22;27;25;24m
+[12;24HReset Serial Port(s)[0;1;27;25;4m
+[24;1H<CTRL>[0;22;27;25;24m  
+[0;1;27;25;4mZ-Help[0;22;27;25;24m
+ [0;1;27;25;4mS-Shell
+[0;22;27;25;24m [0;1;27;25;4m
+X-Logout[0;22;27;25;24m 
+[0m[0K[0m
+[1;0H[2K[0;22;27;25;24m[1;1H[?25l
+System Name[0;22;27;25;24m
+[1;32HSerial Protocols[0;22;27;25;24m[1;65H
+   admin access
+[A
+[0;22;27;25;24m
+[8;24HView Links Statistics[0;22;7;25;24m
+[7;24HView TIN Dynamic Address Table
+\r
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[3;5H[?25l[0;22;27;25;4mAddress                        [0;22;27;25;24m
+ [0;22;27;25;4mLocation       
+[0;22;27;25;24m [0;22;27;25;4m
+IP Port[0;22;27;25;24m 
+[0;22;27;25;4mRSSI [0;22;27;25;24m 
+[0;22;27;25;4mAging Time
+[0;22;27;25;24m [0m
+[0K[0;1;27;25;4m
+[24;1H<CTRL>[0;22;27;25;24m  
+[0;1;27;25;4mZ-Help[0;22;27;25;24m
+ [0;1;27;25;4mS-Shell
+[0;22;27;25;24m [0;1;27;25;4m
+D-PgDn[0;22;27;25;24m 
+[0;1;27;25;4mU-PgUp
+[0;22;27;25;24m [0m[0K
+[0;22;27;25;24m[4;5HTable is empty[0m
+[0K[0m
+[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K
+[0m[1;0H[2K[0;22;27;25;24m[1;1H[?25l
+System Name[0;22;27;25;24m[1;27HTIN Dynamic Address Table
+[0;22;27;25;24m[1;65H   admin access
+
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[0;22;27;25;24m[4;24HConfigure Serial Ports[0;22;27;25;24m
+[5;24HConfigure Protocols[0;22;27;25;24m[6;24HConfigure Device Address Table
+[0;22;7;25;24m[7;24HView TIN Dynamic Address Table
+[0;22;27;25;24m[8;24HView Links Statistics[0;22;27;25;24m
+[9;24HView Connection Statistics[0;22;27;25;24m
+[10;24HView Serial Port Statistics[0;22;27;25;24m
+[11;24HClear Serial Port(s) Statistics[0;22;27;25;24m
+[12;24HReset Serial Port(s)[0;1;27;25;4m
+[24;1H<CTRL>[0;22;27;25;24m  
+[0;1;27;25;4mZ-Help[0;22;27;25;24m
+ [0;1;27;25;4mS-Shell
+[0;22;27;25;24m [0;1;27;25;4m
+X-Logout[0;22;27;25;24m
+ [0m[0K
+[0m[1;0H[2K[0;22;27;25;24m
+[1;1H[?25lSystem Name
+[0;22;27;25;24m[1;32HSerial Protocols[0;22;27;25;24m
+[1;65H   admin access
+[A
+[0;22;27;25;24m
+[7;24HView TIN Dynamic Address Table[0;22;7;25;24m
+[6;24HConfigure Device Address Table
+\r
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[3;1H[?25l[0;22;27;25;4mProtocol    [0;22;27;25;24m
+ [0;22;27;25;4mAddress                        
+[0;22;27;25;24m [0;22;27;25;4m
+Remote IP Addr [0;22;27;25;24m 
+[0;22;27;25;4mPort   [0;22;27;25;24m
+ [0m[0K
+[0;1;27;25;4m[24;1H<CTRL>
+[0;22;27;25;24m  [0;1;27;25;4m
+Z-Help[0;22;27;25;24m 
+[0;1;27;25;4mS-Shell[0;22;27;25;24m 
+[0;1;27;25;4mD-PgDn[0;22;27;25;24m
+ [0;1;27;25;4mU-PgUp
+[0;22;27;25;24m [0;1;27;25;4m
+I-Insert[0;22;27;25;24m 
+[0;1;27;25;4mL-Delete
+[0;22;27;25;24m [0m[0K
+[0;22;27;25;24m[4;1HTable is empty[0m
+[0K[0m
+[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K
+[0m[1;0H[2K[0;22;27;25;24m[1;1H[?25l
+System Name[0;22;27;25;24m[1;30HDevice Address Table
+[0;22;27;25;24m[1;65H   admin access
+
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[0;22;27;25;24m[4;24HConfigure Serial Ports[0;22;27;25;24m
+[5;24HConfigure Protocols[0;22;7;25;24m[6;24HConfigure Device Address Table
+[0;22;27;25;24m[7;24HView TIN Dynamic Address Table
+[0;22;27;25;24m[8;24HView Links Statistics[0;22;27;25;24m
+[9;24HView Connection Statistics[0;22;27;25;24m
+[10;24HView Serial Port Statistics[0;22;27;25;24m[11;24HClear Serial Port(s) Statistics
+[0;22;27;25;24m[12;24HReset Serial Port(s)
+[0;1;27;25;4m[24;1H<CTRL>[0;22;27;25;24m
+  [0;1;27;25;4mZ-Help
+[0;22;27;25;24m [0;1;27;25;4m
+S-Shell[0;22;27;25;24m 
+[0;1;27;25;4mX-Logout[0;22;27;25;24m
+ [0m[0K
+[0m[1;0H[2K[0;22;27;25;24m
+[1;1H[?25lSystem Name[0;22;27;25;24m
+[1;32HSerial Protocols[0;22;27;25;24m
+[1;65H   admin access
+[A
+[0;22;27;25;24m
+[6;24HConfigure Device Address Table[0;22;7;25;24m
+[5;24HConfigure Protocols
+\r
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[0;22;7;25;24m[4;24HConfigure Raw Socket[0;22;27;25;24m
+[5;24HConfigure Preemptive Raw Socket[0;22;27;25;24m
+[6;24HConfigure Modbus Server[0;22;27;25;24m[7;24HConfigure Modbus Client
+[0;22;27;25;24m[8;24HConfigure WIN and TIN
+[0;22;27;25;24m[9;24HConfigure MicroLok[0;22;27;25;24m
+[10;24HConfigure DNP[0;22;27;25;24m
+[11;24HConfigure Mirrored Bits[0;22;27;25;24m[12;24HConfigure Telnet Com Port
+[0;1;27;25;4m[24;1H<CTRL>
+[0;22;27;25;24m  [0;1;27;25;4m
+Z-Help[0;22;27;25;24m 
+[0;1;27;25;4mS-Shell[0;22;27;25;24m 
+[0;1;27;25;4mX-Logout[0;22;27;25;24m
+ [0m[0K[0m
+[1;0H[2K[0;22;27;25;24m
+[1;1H[?25lSystem Name[0;22;27;25;24m
+[1;30HConfigure Protocols[0;22;27;25;24m
+[1;65H   admin access
+[B
+[0;22;27;25;24m
+[4;24HConfigure Raw Socket[0;22;7;25;24m
+[5;24HConfigure Preemptive Raw Socket
+[B
+[0;22;27;25;24m
+[5;24HConfigure Preemptive Raw Socket[0;22;7;25;24m
+[6;24HConfigure Modbus Server
+[B
+[0;22;27;25;24m
+[6;24HConfigure Modbus Server[0;22;7;25;24m
+[7;24HConfigure Modbus Client
+[B
+[0;22;27;25;24m
+[7;24HConfigure Modbus Client[0;22;7;25;24m
+[8;24HConfigure WIN and TIN
+[B
+[0;22;27;25;24m
+[8;24HConfigure WIN and TIN[0;22;7;25;24m[9;24HConfigure MicroLok
+[B
+[0;22;27;25;24m
+[9;24HConfigure MicroLok[0;22;7;25;24m[10;24HConfigure DNP
+[B
+[0;22;27;25;24m
+[10;24HConfigure DNP[0;22;7;25;24m[11;24HConfigure Mirrored Bits
+[B
+[0;22;27;25;24m
+[11;24HConfigure Mirrored Bits[0;22;7;25;24m
+[12;24HConfigure Telnet Com Port
+
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[0;22;27;25;24m[4;24HConfigure Serial Ports[0;22;7;25;24m
+[5;24HConfigure Protocols[0;22;27;25;24m
+[6;24HConfigure Device Address Table[0;22;27;25;24m
+[7;24HView TIN Dynamic Address Table[0;22;27;25;24m
+[8;24HView Links Statistics[0;22;27;25;24m[9;24HView Connection Statistics
+[0;22;27;25;24m[10;24HView Serial Port Statistics
+[0;22;27;25;24m[11;24HClear Serial Port(s) Statistics
+[0;22;27;25;24m[12;24HReset Serial Port(s)[0;1;27;25;4m
+[24;1H<CTRL>
+[0;22;27;25;24m  
+[0;1;27;25;4mZ-Help[0;22;27;25;24m 
+[0;1;27;25;4mS-Shell[0;22;27;25;24m
+ [0;1;27;25;4mX-Logout
+[0;22;27;25;24m [0m
+[0K[0m[1;0H[2K
+[0;22;27;25;24m[1;1H[?25lSystem Name
+[0;22;27;25;24m[1;32HSerial Protocols
+[0;22;27;25;24m[1;65H   admin access
+[A
+[0;22;27;25;24m
+[5;24HConfigure Protocols[0;22;7;25;24m
+[4;24HConfigure Serial Ports
+\r
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[3;1H[?25l[0;22;27;25;4mPort[0;22;27;25;24m
+ [0;22;27;25;4mName           
+[0;22;27;25;24m [0;22;27;25;4m
+Protocol        [0;22;27;25;24m 
+[0;22;27;25;4mType [0;22;27;25;24m
+ [0;22;27;25;4mForceHD
+[0;22;27;25;24m 
+[0;22;27;25;4mBaud   [0;22;27;25;24m 
+[0;22;27;25;4mData Bits[0;22;27;25;24m
+ [0;22;27;25;4mStop
+[0;22;27;25;24m [0m[0K
+[0;1;27;25;4m[24;1H<CTRL>[0;22;27;25;24m
+  [0;1;27;25;4mZ-Help
+[0;22;27;25;24m [0;1;27;25;4m
+S-Shell[0;22;27;25;24m
+ [0m[0K
+[0;22;7;25;24m
+[4;1H1    Port 1          None             RS232 Off     9600    8         1   [0m
+[0K
+[0;22;27;25;24m[5;1H2    Port 2          None             RS232 Off     9600    8         1   [0m
+[0K[0;22;27;25;24m[6;1H
+More right ...[0m[0K[0m
+[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K
+[0m[1;0H[2K[0;22;27;25;24m[1;1H[?25l
+System Name[0;22;27;25;24m[1;34HSerial Ports
+[0;22;27;25;24m[1;65H   admin access
+[B
+[0;22;27;25;24m
+[4;1H1    Port 1          None             RS232 Off     9600    8         1   [0m[0K
+[0;22;7;25;24m
+[5;1H2    Port 2          None             RS232 Off     9600    8         1   [0m
+[0K
+[A
+[0;22;27;25;24m
+[5;1H2    Port 2          None             RS232 Off     9600    8         1   [0m[0K
+[0;22;7;25;24m
+[4;1H1    Port 1          None             RS232 Off     9600    8         1   [0m
+[0K
+
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[0;22;7;25;24m[4;24HConfigure Serial Ports[0;22;27;25;24m
+[5;24HConfigure Protocols[0;22;27;25;24m
+[6;24HConfigure Device Address Table[0;22;27;25;24m[7;24HView TIN Dynamic Address Table
+[0;22;27;25;24m[8;24HView Links Statistics
+[0;22;27;25;24m[9;24HView Connection Statistics[0;22;27;25;24m
+[10;24HView Serial Port Statistics[0;22;27;25;24m
+[11;24HClear Serial Port(s) Statistics[0;22;27;25;24m
+[12;24HReset Serial Port(s)[0;1;27;25;4m
+[24;1H<CTRL>[0;22;27;25;24m  
+[0;1;27;25;4mZ-Help[0;22;27;25;24m
+ [0;1;27;25;4mS-Shell
+[0;22;27;25;24m [0;1;27;25;4m
+X-Logout[0;22;27;25;24m 
+[0m[0K[0m[1;0H[2K
+[0;22;27;25;24m[1;1H[?25lSystem Name
+[0;22;27;25;24m[1;32HSerial Protocols
+[0;22;27;25;24m[1;65H   admin access
+
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[0;22;27;25;24m[4;30HAdministration[0;22;7;25;24m
+[5;30HSerial Protocols[0;22;27;25;24m[6;30HEthernet Ports
+[0;22;27;25;24m[7;30HEthernet Stats
+[0;22;27;25;24m[8;30HLink Aggregation[0;22;27;25;24m
+[9;30HSpanning Tree[0;22;27;25;24m
+[10;30HVirtual LANs[0;22;27;25;24m[11;30HPort Security
+[0;22;27;25;24m[12;30HClasses of Service
+[0;22;27;25;24m[13;30HMulticast Filtering
+[0;22;27;25;24m[14;30HMAC Address Tables[0;22;27;25;24m
+[15;30HNetwork Discovery[0;22;27;25;24m
+[16;30HDiagnostics[0;1;27;25;4m[24;1H<CTRL>
+[0;22;27;25;24m  [0;1;27;25;4m
+Z-Help[0;22;27;25;24m 
+[0;1;27;25;4mS-Shell
+[0;22;27;25;24m [0;1;27;25;4m
+X-Logout[0;22;27;25;24m 
+[0m[0K[0m
+[1;0H[2K[0;22;27;25;24m[1;1H[?25l
+System Name[0;22;27;25;24m[1;35HMain Menu
+[0;22;27;25;24m[1;65H   admin access
+[B
+[0;22;27;25;24m
+[5;30HSerial Protocols[0;22;7;25;24m
+[6;30HEthernet Ports
+\r
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[0;22;7;25;24m[4;18HConfigure Port Parameters[0;22;27;25;24m
+[5;18HConfigure Port Rate Limiting[0;22;27;25;24m[6;18HConfigure Port Mirroring
+[0;22;27;25;24m[7;18HConfigure/View Cable Diagnostics Parameters
+[0;22;27;25;24m[8;18HClear Cable Diagnostics Statistics
+[0;22;27;25;24m[9;18HConfigure Link Detection[0;22;27;25;24m
+[10;18HView Port Status[0;22;27;25;24m
+[11;18HReset Port(s)[0;1;27;25;4m[24;1H<CTRL>
+[0;22;27;25;24m  
+[0;1;27;25;4mZ-Help[0;22;27;25;24m
+ [0;1;27;25;4mS-Shell
+[0;22;27;25;24m [0;1;27;25;4m
+X-Logout[0;22;27;25;24m [0m
+[0K[0m[1;0H[2K
+[0;22;27;25;24m[1;1H[?25lSystem Name
+[0;22;27;25;24m[1;33HEthernet Ports
+[0;22;27;25;24m[1;65H   admin access
+[B
+[0;22;27;25;24m
+[4;18HConfigure Port Parameters[0;22;7;25;24m
+[5;18HConfigure Port Rate Limiting
+[B
+[0;22;27;25;24m
+[5;18HConfigure Port Rate Limiting[0;22;7;25;24m
+[6;18HConfigure Port Mirroring
+[B
+[0;22;27;25;24m
+[6;18HConfigure Port Mirroring[0;22;7;25;24m
+[7;18HConfigure/View Cable Diagnostics Parameters
+[B
+[0;22;27;25;24m
+[7;18HConfigure/View Cable Diagnostics Parameters[0;22;7;25;24m
+[8;18HClear Cable Diagnostics Statistics
+[B
+[0;22;27;25;24m
+[8;18HClear Cable Diagnostics Statistics[0;22;7;25;24m
+[9;18HConfigure Link Detection
+[B
+[0;22;27;25;24m
+[9;18HConfigure Link Detection[0;22;7;25;24m
+[10;18HView Port Status
+\r
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[3;20H[?25l[0;22;27;25;4mPort[0;22;27;25;24m
+ [0;22;27;25;4mName           
+[0;22;27;25;24m [0;22;27;25;4m
+Link [0;22;27;25;24m 
+[0;22;27;25;4mSpeed [0;22;27;25;24m
+ [0;22;27;25;4mDuplex 
+[0;22;27;25;24m [0m
+[0K[0;1;27;25;4m[24;1H<CTRL>
+[0;22;27;25;24m  [0;1;27;25;4m
+Z-Help[0;22;27;25;24m 
+[0;1;27;25;4mS-Shell[0;22;27;25;24m 
+[0m[0K
+[0;22;7;25;24m[4;20H1    Not installed   ----  ---    ----   [0m
+[0K
+[0;22;27;25;24m[5;20H2    Not installed   ----  ---    ----   [0m
+[0K[0;22;27;25;24m
+[6;20H3    Port 3          Up    100M   Full   [0m[0K
+[0;22;27;25;24m
+[7;20H4    Port 4          Down  ---    ----   [0m[0K
+[0;22;27;25;24m
+[8;20H5    Not installed   ----  ---    ----   [0m[0K
+[0;22;27;25;24m[9;20H6    Not installed   ----  ---    ----   
+[0m[0K
+[0;22;27;25;24m[10;20H7    Not installed   ----  ---    ----   [0m
+[0K[0;22;27;25;24m
+[11;20H8    Not installed   ----  ---    ----   [0m[0K
+[0;22;27;25;24m
+[12;20H9    Port 9          Down  ---    ----   [0m[0K
+[0m
+[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[0m
+[1;0H[2K[0;22;27;25;24m[1;1H[?25lSystem Name
+[0;22;27;25;24m[1;34HPort Status
+[0;22;27;25;24m[1;65H   admin access
+[B
+[0;22;27;25;24m
+[4;20H1    Not installed   ----  ---    ----   [0m[0K
+[0;22;7;25;24m
+[5;20H2    Not installed   ----  ---    ----   [0m[0K
+[B
+[0;22;27;25;24m
+[5;20H2    Not installed   ----  ---    ----   [0m[0K
+[0;22;7;25;24m
+[6;20H3    Port 3          Up    100M   Full   [0m[0K
+[0m
+[2J[1;1H[?25ladmin logged out - goodbye
+[2;1H[?25h
+�
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             
+\r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n
+\r\n,        System Name:    System Name\r
+\n,        Location:       Location\r\n,        Contact:        Contact
+\r\n,        Product:        RS910-48-D-S1-TX01-MC\r
+\n,        Classification: Controlled\r
+\n,        MAC Address:    00-0A-DC-5B-27-A0\r
+\n,        Serial Number:  910-0311-03980\r
+\n,\r\n,        Enter User Name:  
+�
+�
+� 
+�!
+�"
+�'
+�
+�#
+a
+a
+d
+d
+m
+m
+i
+i
+n
+n
+\r
+\r
+\n,\r\n,        Enter Password: 
+a
+x
+d
+x
+m
+x
+i
+x
+n
+x
+\r
+[0m
+[1;0H[2K[0;22;27;25;24m
+[1;1H[?25lSystem Name[0;22;27;25;24m
+[1;35HMain Menu[0;22;27;25;24m
+[1;65H   admin access[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[0;22;27;25;24m[4;30HAdministration[0;22;27;25;24m
+[5;30HSerial Protocols[0;22;7;25;24m
+[6;30HEthernet Ports[0;22;27;25;24m
+[7;30HEthernet Stats[0;22;27;25;24m
+[8;30HLink Aggregation[0;22;27;25;24m
+[9;30HSpanning Tree[0;22;27;25;24m
+[10;30HVirtual LANs
+[0;22;27;25;24m[11;30HPort Security
+[0;22;27;25;24m[12;30HClasses of Service
+[0;22;27;25;24m[13;30HMulticast Filtering
+[0;22;27;25;24m[14;30HMAC Address Tables
+[0;22;27;25;24m[15;30HNetwork Discovery
+[0;22;27;25;24m[16;30HDiagnostics
+[0;1;27;25;4m[24;1H<CTRL>
+[0;22;27;25;24m  
+[0;1;27;25;4mZ-Help
+[0;22;27;25;24m 
+[0;1;27;25;4mS-Shell[0;22;27;25;24m
+ [0;1;27;25;4m
+X-Logout[0;22;27;25;24m
+ [0m[0K
+[A
+[0;22;27;25;24m
+[6;30HEthernet Ports[0;22;7;25;24m
+[5;30HSerial Protocols
+[A
+[0;22;27;25;24m
+[5;30HSerial Protocols[0;22;7;25;24m
+[4;30HAdministration
+[B
+[0;22;27;25;24m
+[4;30HAdministration[0;22;7;25;24m
+[5;30HSerial Protocols
+[B
+[0;22;27;25;24m
+[5;30HSerial Protocols[0;22;7;25;24m
+[6;30HEthernet Ports
+[B
+[0;22;27;25;24m
+[6;30HEthernet Ports[0;22;7;25;24m
+[7;30HEthernet Stats
+[B
+[0;22;27;25;24m
+[7;30HEthernet Stats[0;22;7;25;24m
+[8;30HLink Aggregation
+[B
+[0;22;27;25;24m
+[8;30HLink Aggregation[0;22;7;25;24m
+[9;30HSpanning Tree
+[B
+[0;22;27;25;24m
+[9;30HSpanning Tree[0;22;7;25;24m
+[10;30HVirtual LANs
+[B
+[0;22;27;25;24m
+[10;30HVirtual LANs[0;22;7;25;24m[11;30HPort Security
+\r
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[0;22;7;25;24m[4;26HConfigure Ports Security[0;22;27;25;24m
+[5;26HConfigure 802.1X Parameters[0;1;27;25;4m
+[24;1H<CTRL>[0;22;27;25;24m
+  [0;1;27;25;4mZ-Help
+[0;22;27;25;24m 
+[0;1;27;25;4mS-Shell
+[0;22;27;25;24m [0;1;27;25;4m
+X-Logout[0;22;27;25;24m 
+[0m[0K[0m
+[1;0H[2K[0;22;27;25;24m[1;1H[?25l
+System Name[0;22;27;25;24m
+[1;33HPort Security[0;22;27;25;24m
+[1;65H   admin access
+
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[0;22;27;25;24m[4;30HAdministration[0;22;27;25;24m
+[5;30HSerial Protocols[0;22;27;25;24m
+[6;30HEthernet Ports[0;22;27;25;24m
+[7;30HEthernet Stats[0;22;27;25;24m
+[8;30HLink Aggregation[0;22;27;25;24m
+[9;30HSpanning Tree[0;22;27;25;24m
+[10;30HVirtual LANs[0;22;7;25;24m
+[11;30HPort Security[0;22;27;25;24m
+[12;30HClasses of Service[0;22;27;25;24m
+[13;30HMulticast Filtering[0;22;27;25;24m
+[14;30HMAC Address Tables
+[0;22;27;25;24m[15;30HNetwork Discovery
+[0;22;27;25;24m[16;30HDiagnostics
+[0;1;27;25;4m[24;1H<CTRL>
+[0;22;27;25;24m  
+[0;1;27;25;4mZ-Help
+[0;22;27;25;24m 
+[0;1;27;25;4mS-Shell[0;22;27;25;24m
+ [0;1;27;25;4mX-Logout
+[0;22;27;25;24m [0m
+[0K[0m[1;0H[2K
+[0;22;27;25;24m[1;1H[?25lSystem Name
+[0;22;27;25;24m[1;35HMain Menu
+[0;22;27;25;24m[1;65H
+   admin access
+[A
+[0;22;27;25;24m
+[11;30HPort Security[0;22;7;25;24m
+[10;30HVirtual LANs
+[A
+[0;22;27;25;24m
+[10;30HVirtual LANs[0;22;7;25;24m
+[9;30HSpanning Tree
+[A
+[0;22;27;25;24m
+[9;30HSpanning Tree[0;22;7;25;24m
+[8;30HLink Aggregation
+[A
+[0;22;27;25;24m
+[8;30HLink Aggregation[0;22;7;25;24m
+[7;30HEthernet Stats
+[A
+[0;22;27;25;24m
+[7;30HEthernet Stats[0;22;7;25;24m
+[6;30HEthernet Ports
+[A
+[0;22;27;25;24m
+[6;30HEthernet Ports[0;22;7;25;24m
+[5;30HSerial Protocols
+[A
+[0;22;27;25;24m
+[5;30HSerial Protocols[0;22;7;25;24m
+[4;30HAdministration
+[B
+[0;22;27;25;24m
+[4;30HAdministration[0;22;7;25;24m
+[5;30HSerial Protocols
+[B
+[0;22;27;25;24m
+[5;30HSerial Protocols[0;22;7;25;24m
+[6;30HEthernet Ports
+[B
+[B
+[0;22;27;25;24m
+[6;30HEthernet Ports[0;22;7;25;24m
+[7;30HEthernet Stats
+[B
+[0;22;27;25;24m
+[B
+[7;30HEthernet Stats[0;22;7;25;24m[8;30HLink Aggregation
+[0;22;27;25;24m[8;30HLink Aggregation[0;22;7;25;24m[9;30HSpanning Tree
+[B
+[0;22;27;25;24m
+[B
+[9;30HSpanning Tree[0;22;7;25;24m[10;30HVirtual LANs
+[0;22;27;25;24m[10;30HVirtual LANs[0;22;7;25;24m[11;30HPort Security
+[B
+[0;22;27;25;24m
+[B
+[11;30HPort Security[0;22;7;25;24m[12;30HClasses of Service
+[0;22;27;25;24m[12;30HClasses of Service[0;22;7;25;24m[13;30HMulticast Filtering
+[B
+[0;22;27;25;24m
+[B
+[13;30HMulticast Filtering[0;22;7;25;24m[14;30HMAC Address Tables
+[0;22;27;25;24m
+[14;30HMAC Address Tables[0;22;7;25;24m
+[15;30HNetwork Discovery
+[B
+[0;22;27;25;24m
+[B
+[15;30HNetwork Discovery[0;22;7;25;24m[16;30HDiagnostics
+[0;22;27;25;24m
+[16;30HDiagnostics[0;22;7;25;24m
+[B
+[4;30HAdministration
+[0;22;27;25;24m
+[4;30HAdministration[0;22;7;25;24m
+[5;30HSerial Protocols
+[0;22;27;25;24m
+[5;30HSerial Protocols[0;22;7;25;24m
+[6;30HEthernet Ports
+[A
+[0;22;27;25;24m
+[6;30HEthernet Ports[0;22;7;25;24m
+[5;30HSerial Protocols
+[A
+[0;22;27;25;24m
+[5;30HSerial Protocols[0;22;7;25;24m
+[4;30HAdministration
+[A
+[0;22;27;25;24m
+[4;30HAdministration[0;22;7;25;24m
+[16;30HDiagnostics
+\r
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[0;22;7;25;24m[4;28HConfigure Alarms[0;22;27;25;24m
+[5;28HView Latched Alarms[0;22;27;25;24m
+[6;28HClear Latched Alarms
+[0;22;27;25;24m[7;28HView System Log
+[0;22;27;25;24m[8;28HClear System Log
+[0;22;27;25;24m[9;28HView CPU Diagnostics
+[0;22;27;25;24m[10;28HView Product Information
+[0;22;27;25;24m[11;28HLoad Factory Defaults
+[0;22;27;25;24m[12;28HReset Device
+[0;1;27;25;4m[24;1H<CTRL>
+[0;22;27;25;24m  
+[0;1;27;25;4mZ-Help
+[0;22;27;25;24m 
+[0;1;27;25;4mS-Shell[0;22;27;25;24m
+ [0;1;27;25;4mX-Logout
+[0;22;27;25;24m [0m
+[0K[0m[1;0H[2K
+[0;22;27;25;24m[1;1H[?25l
+System Name[0;22;27;25;24m
+[1;34HDiagnostics[0;22;27;25;24m
+[1;65H   admin access
+[B
+[0;22;27;25;24m
+[4;28HConfigure Alarms[0;22;7;25;24m
+[5;28HView Latched Alarms
+\r
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[3;2H[?25l[0;22;27;25;4mLevel
+[0;22;27;25;24m 
+[0;22;27;25;4mTime        
+[0;22;27;25;24m [0;22;27;25;4m
+Description                                               [0;22;27;25;24m
+ [0m[0K
+[0;1;27;25;4m[24;1H<CTRL>
+[0;22;27;25;24m  
+[0;1;27;25;4mZ-Help[0;22;27;25;24m
+ [0;1;27;25;4mS-Shell
+[0;22;27;25;24m 
+[0;1;27;25;4mD-PgDn
+[0;22;27;25;24m 
+[0;1;27;25;4mU-PgUp
+[0;22;27;25;24m [0m
+[0K[0;22;27;25;24m[4;2HTable is empty
+[0m[0K[0m
+[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K
+[0m[1;0H[2K[0;22;27;25;24m[1;1H[?25l
+System Name[0;22;27;25;24m[1;33HLatched Alarms
+[0;22;27;25;24m[1;65H
+   admin access
+
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[0;22;27;25;24m[4;28HConfigure Alarms[0;22;7;25;24m
+[5;28HView Latched Alarms[0;22;27;25;24m
+[6;28HClear Latched Alarms[0;22;27;25;24m
+[7;28HView System Log[0;22;27;25;24m
+[8;28HClear System Log[0;22;27;25;24m
+[9;28HView CPU Diagnostics[0;22;27;25;24m
+[10;28HView Product Information[0;22;27;25;24m
+[11;28HLoad Factory Defaults[0;22;27;25;24m
+[12;28HReset Device[0;1;27;25;4m
+[24;1H<CTRL>[0;22;27;25;24m
+  [0;1;27;25;4m
+Z-Help[0;22;27;25;24m
+ [0;1;27;25;4mS-Shell
+[0;22;27;25;24m 
+[0;1;27;25;4mX-Logout
+[0;22;27;25;24m [0m
+[0K[0m[1;0H[2K
+[0;22;27;25;24m[1;1H[?25lSystem Name
+[0;22;27;25;24m[1;34HDiagnostics
+[0;22;27;25;24m[1;65H
+   admin access
+
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[0;22;27;25;24m[4;30HAdministration[0;22;27;25;24m
+[5;30HSerial Protocols[0;22;27;25;24m
+[6;30HEthernet Ports[0;22;27;25;24m
+[7;30HEthernet Stats[0;22;27;25;24m
+[8;30HLink Aggregation[0;22;27;25;24m
+[9;30HSpanning Tree[0;22;27;25;24m[10;30HVirtual LANs
+[0;22;27;25;24m[11;30HPort Security
+[0;22;27;25;24m[12;30HClasses of Service
+[0;22;27;25;24m[13;30HMulticast Filtering
+[0;22;27;25;24m[14;30HMAC Address Tables
+[0;22;27;25;24m[15;30HNetwork Discovery
+[0;22;7;25;24m[16;30HDiagnostics[0;1;27;25;4m
+[24;1H<CTRL>[0;22;27;25;24m  
+[0;1;27;25;4mZ-Help[0;22;27;25;24m
+ [0;1;27;25;4mS-Shell
+[0;22;27;25;24m [0;1;27;25;4m
+X-Logout[0;22;27;25;24m 
+[0m[0K[0m[1;0H[2K
+[0;22;27;25;24m[1;1H[?25lSystem Name
+[0;22;27;25;24m[1;35HMain Menu
+[0;22;27;25;24m[1;65H
+   admin access
+[A
+[0;22;27;25;24m
+[16;30HDiagnostics[0;22;7;25;24m
+[15;30HNetwork Discovery
+[A
+[A
+[0;22;27;25;24m
+[15;30HNetwork Discovery[0;22;7;25;24m
+[14;30HMAC Address Tables
+[A
+[0;22;27;25;24m
+[14;30HMAC Address Tables[0;22;7;25;24m
+[13;30HMulticast Filtering
+[0;22;27;25;24m
+[13;30HMulticast Filtering[0;22;7;25;24m
+[12;30HClasses of Service
+[A
+[0;22;27;25;24m
+[12;30HClasses of Service[0;22;7;25;24m
+[11;30HPort Security
+\r
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[0;22;7;25;24m[4;26HConfigure Ports Security
+[0;22;27;25;24m[5;26HConfigure 802.1X Parameters
+[0;1;27;25;4m[24;1H<CTRL>
+[0;22;27;25;24m  
+[0;1;27;25;4mZ-Help
+[0;22;27;25;24m 
+[0;1;27;25;4mS-Shell[0;22;27;25;24m
+ [0;1;27;25;4mX-Logout
+[0;22;27;25;24m 
+[0m[0K[0m
+[1;0H[2K[0;22;27;25;24m
+[1;1H[?25lSystem Name
+[0;22;27;25;24m[1;33HPort Security
+[0;22;27;25;24m[1;65H
+   admin access
+\r
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[3;2H[?25l[0;22;27;25;4mPort 
+[0;22;27;25;24m [0;22;27;25;4m
+Security   [0;22;27;25;24m
+ [0;22;27;25;4m
+Autolearn [0;22;27;25;24m
+ [0;22;27;25;4mShutdown Time   
+[0;22;27;25;24m [0;22;27;25;4m
+Status                         [0;22;27;25;24m 
+[0m[0K[0;1;27;25;4m
+[24;1H<CTRL>[0;22;27;25;24m
+  [0;1;27;25;4mZ-Help
+[0;22;27;25;24m [0;1;27;25;4m
+S-Shell[0;22;27;25;24m [0m
+[0K
+[0;22;7;25;24m
+[4;2H3     Off         None       Don't shutdown   Unsecure                       [0m[0K
+[0;22;27;25;24m
+[5;2H4     Off         None       Don't shutdown   Unsecure                       [0m[0K
+[0;22;27;25;24m[6;2H9     Off         None       Don't shutdown   Unsecure                       
+[0m[0K[0m
+[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K
+[0m[1;0H[2K[0;22;27;25;24m
+[1;1H[?25lSystem Name[0;22;27;25;24m
+[1;33HPorts Security[0;22;27;25;24m[1;65H
+   admin access
+
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[0;22;7;25;24m[4;26HConfigure Ports Security[0;22;27;25;24m
+[5;26HConfigure 802.1X Parameters[0;1;27;25;4m
+[24;1H<CTRL>
+[0;22;27;25;24m  [0;1;27;25;4m
+Z-Help[0;22;27;25;24m
+ [0;1;27;25;4mS-Shell
+[0;22;27;25;24m 
+[0;1;27;25;4mX-Logout
+[0;22;27;25;24m [0m
+[0K[0m[1;0H[2K
+[0;22;27;25;24m[1;1H[?25l
+System Name[0;22;27;25;24m
+[1;33HPort Security[0;22;27;25;24m
+[1;65H   admin access
+
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[0;22;27;25;24m[4;30HAdministration[0;22;27;25;24m
+[5;30HSerial Protocols[0;22;27;25;24m
+[6;30HEthernet Ports[0;22;27;25;24m
+[7;30HEthernet Stats[0;22;27;25;24m
+[8;30HLink Aggregation[0;22;27;25;24m
+[9;30HSpanning Tree[0;22;27;25;24m
+[10;30HVirtual LANs[0;22;7;25;24m
+[11;30HPort Security[0;22;27;25;24m
+[12;30HClasses of Service[0;22;27;25;24m
+[13;30HMulticast Filtering[0;22;27;25;24m
+[14;30HMAC Address Tables
+[0;22;27;25;24m
+[15;30HNetwork Discovery[0;22;27;25;24m
+[16;30HDiagnostics[0;1;27;25;4m
+[24;1H<CTRL>[0;22;27;25;24m
+  [0;1;27;25;4mZ-Help
+[0;22;27;25;24m 
+[0;1;27;25;4mS-Shell
+[0;22;27;25;24m [0;1;27;25;4m
+X-Logout[0;22;27;25;24m 
+[0m[0K
+[0m[1;0H[2K[0;22;27;25;24m
+[1;1H[?25lSystem Name[0;22;27;25;24m
+[1;35HMain Menu[0;22;27;25;24m
+[1;65H   admin access
+[A
+[0;22;27;25;24m
+[11;30HPort Security[0;22;7;25;24m
+[10;30HVirtual LANs
+[A
+[0;22;27;25;24m
+[10;30HVirtual LANs[0;22;7;25;24m
+[9;30HSpanning Tree
+[A
+[0;22;27;25;24m
+[9;30HSpanning Tree[0;22;7;25;24m
+[8;30HLink Aggregation
+[A
+[0;22;27;25;24m
+[8;30HLink Aggregation[0;22;7;25;24m
+[7;30HEthernet Stats
+[A
+[0;22;27;25;24m
+[7;30HEthernet Stats[0;22;7;25;24m
+[6;30HEthernet Ports
+[A
+[0;22;27;25;24m
+[6;30HEthernet Ports[0;22;7;25;24m
+[5;30HSerial Protocols
+[A
+[0;22;27;25;24m
+[5;30HSerial Protocols[0;22;7;25;24m
+[4;30HAdministration
+[B
+[0;22;27;25;24m
+[4;30HAdministration[0;22;7;25;24m
+[5;30HSerial Protocols
+[B
+[0;22;27;25;24m
+[5;30HSerial Protocols[0;22;7;25;24m
+[6;30HEthernet Ports
+\r
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[0;22;27;25;24m[4;18HConfigure Port Parameters[0;22;27;25;24m
+[5;18HConfigure Port Rate Limiting[0;22;27;25;24m
+[6;18HConfigure Port Mirroring[0;22;27;25;24m
+[7;18HConfigure/View Cable Diagnostics Parameters[0;22;27;25;24m
+[8;18HClear Cable Diagnostics Statistics[0;22;27;25;24m
+[9;18HConfigure Link Detection[0;22;7;25;24m
+[10;18HView Port Status[0;22;27;25;24m
+[11;18HReset Port(s)[0;1;27;25;4m
+[24;1H<CTRL>[0;22;27;25;24m  
+[0;1;27;25;4mZ-Help
+[0;22;27;25;24m 
+[0;1;27;25;4mS-Shell[0;22;27;25;24m
+ [0;1;27;25;4mX-Logout
+[0;22;27;25;24m [0m
+[0K[0m[1;0H[2K
+[0;22;27;25;24m[1;1H[?25lSystem Name
+[0;22;27;25;24m[1;33HEthernet Ports
+[0;22;27;25;24m[1;65H   admin access
+[A
+[0;22;27;25;24m
+[10;18HView Port Status[0;22;7;25;24m
+[9;18HConfigure Link Detection
+[A
+[0;22;27;25;24m
+[9;18HConfigure Link Detection[0;22;7;25;24m
+[8;18HClear Cable Diagnostics Statistics
+[A
+[0;22;27;25;24m
+[8;18HClear Cable Diagnostics Statistics[0;22;7;25;24m
+[7;18HConfigure/View Cable Diagnostics Parameters
+[A
+[0;22;27;25;24m
+[7;18HConfigure/View Cable Diagnostics Parameters[0;22;7;25;24m
+[6;18HConfigure Port Mirroring
+\r
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[0;22;27;25;24m[4;24HPort Mirroring[0;22;27;25;24m
+[4;43HDisabled
+[0;22;27;25;24m[5;24HSource Ports Egr
+[0;22;27;25;24m[5;43H
+None         [0;22;27;25;24m
+[6;24HSource Ports Ingr[0;22;27;25;24m
+[6;43HNone         
+[0;22;27;25;24m[7;24HTarget Port
+[0;22;27;25;24m
+[7;43H3[?25l
+[0;22;27;25;24m[4;43H
+Disabled[0;22;7;25;24m
+[4;24HPort Mirroring[0;1;27;25;4m
+[24;1H<CTRL>[0;22;27;25;24m
+  [0;1;27;25;4mZ-Help
+[0;22;27;25;24m 
+[0;1;27;25;4mS-Shell
+[0;22;27;25;24m [0m[0K
+[0m[1;0H[2K
+[0;22;27;25;24m[1;1H[?25lSystem Name
+[0;22;27;25;24m[1;33HPort Mirroring
+[0;22;27;25;24m[1;65H   admin access
+[B
+[0;22;27;25;24m
+[4;24HPort Mirroring[0;22;7;25;24m
+[5;24HSource Ports Egr
+[B
+[0;22;27;25;24m
+[5;24HSource Ports Egr[0;22;7;25;24m
+[6;24HSource Ports Ingr
+[B
+[0;22;27;25;24m
+[6;24HSource Ports Ingr[0;22;7;25;24m
+[7;24HTarget Port
+[A
+[0;22;27;25;24m
+[7;24HTarget Port[0;22;7;25;24m
+[6;24HSource Ports Ingr
+[A
+[0;22;27;25;24m
+[6;24HSource Ports Ingr[0;22;7;25;24m
+[5;24HSource Ports Egr
+[A
+[0;22;27;25;24m
+[5;24HSource Ports Egr[0;22;7;25;24m
+[4;24HPort Mirroring
+[B
+[0;22;27;25;24m
+[4;24HPort Mirroring[0;22;7;25;24m
+[5;24HSource Ports Egr
+[B
+[0;22;27;25;24m
+[5;24HSource Ports Egr[0;22;7;25;24m
+[6;24HSource Ports Ingr
+[B
+[0;22;27;25;24m
+[6;24HSource Ports Ingr[0;22;7;25;24m[7;24HTarget Port
+[B
+[0;22;27;25;24m
+[4;24HPort Mirroring[0;22;27;25;24m
+[4;43HDisabled
+[0;22;27;25;24m[5;24HSource Ports Egr
+[0;22;27;25;24m[5;43H
+None         [0;22;27;25;24m
+[6;24HSource Ports Ingr[0;22;27;25;24m
+[6;43HNone         
+[0;22;27;25;24m[7;24HTarget Port
+[0;22;27;25;24m[7;43H
+3[?25l[0;22;27;25;24m
+[4;43HDisabled[0;22;7;25;24m
+[4;24HPort Mirroring[0;1;27;25;4m
+[24;1H<CTRL>[0;22;27;25;24m  
+[0;1;27;25;4mZ-Help
+[0;22;27;25;24m [0;1;27;25;4m
+S-Shell[0;22;27;25;24m 
+[0m[0K
+
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[0;22;27;25;24m[4;18HConfigure Port Parameters[0;22;27;25;24m
+[5;18HConfigure Port Rate Limiting[0;22;7;25;24m
+[6;18HConfigure Port Mirroring
+[0;22;27;25;24m[7;18HConfigure/View Cable Diagnostics Parameters
+[0;22;27;25;24m[8;18HClear Cable Diagnostics Statistics
+[0;22;27;25;24m[9;18HConfigure Link Detection
+[0;22;27;25;24m[10;18HView Port Status
+[0;22;27;25;24m[11;18HReset Port(s)
+[0;1;27;25;4m[24;1H<CTRL>
+[0;22;27;25;24m  
+[0;1;27;25;4mZ-Help
+[0;22;27;25;24m 
+[0;1;27;25;4mS-Shell
+[0;22;27;25;24m 
+[0;1;27;25;4mX-Logout
+[0;22;27;25;24m [0m
+[0K[0m
+[1;0H[2K[0;22;27;25;24m
+[1;1H[?25lSystem Name[0;22;27;25;24m
+[1;33HEthernet Ports[0;22;27;25;24m
+[1;65H   admin access
+[B
+[0;22;27;25;24m
+[6;18HConfigure Port Mirroring[0;22;7;25;24m
+[7;18HConfigure/View Cable Diagnostics Parameters
+[B
+[0;22;27;25;24m
+[7;18HConfigure/View Cable Diagnostics Parameters[0;22;7;25;24m
+[8;18HClear Cable Diagnostics Statistics
+[B
+[0;22;27;25;24m
+[8;18HClear Cable Diagnostics Statistics[0;22;7;25;24m
+[9;18HConfigure Link Detection
+[B
+[0;22;27;25;24m
+[9;18HConfigure Link Detection[0;22;7;25;24m
+[10;18HView Port Status
+\r
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[3;20H[?25l[0;22;27;25;4mPort
+[0;22;27;25;24m [0;22;27;25;4m
+Name           [0;22;27;25;24m
+ [0;22;27;25;4m
+Link [0;22;27;25;24m 
+[0;22;27;25;4mSpeed 
+[0;22;27;25;24m 
+[0;22;27;25;4mDuplex 
+[0;22;27;25;24m [0m
+[0K[0;1;27;25;4m
+[24;1H<CTRL>
+[0;22;27;25;24m  
+[0;1;27;25;4mZ-Help[0;22;27;25;24m
+ [0;1;27;25;4mS-Shell
+[0;22;27;25;24m [0m
+[0K
+[0;22;7;25;24m[4;20H1    Not installed   ----  ---    ----   
+[0m[0K
+[0;22;27;25;24m
+[5;20H2    Not installed   ----  ---    ----   [0m[0K
+[0;22;27;25;24m
+[6;20H3    Port 3          Up    100M   Full   [0m
+[0K
+[0;22;27;25;24m[7;20H4    Port 4          Down  ---    ----   
+[0m[0K
+[0;22;27;25;24m
+[8;20H5    Not installed   ----  ---    ----   [0m
+[0K
+[0;22;27;25;24m
+[9;20H6    Not installed   ----  ---    ----   
+[0m[0K
+[0;22;27;25;24m
+[10;20H7    Not installed   ----  ---    ----   [0m
+[0K
+[0;22;27;25;24m[11;20H8    Not installed   ----  ---    ----   [0m
+[0K
+[0;22;27;25;24m[12;20H9    Port 9          Down  ---    ----   
+[0m[0K[0m
+[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K
+[0m[1;0H[2K[0;22;27;25;24m
+[1;1H[?25lSystem Name
+[0;22;27;25;24m[1;34HPort Status
+[0;22;27;25;24m[1;65H   admin access
+[B
+[0;22;27;25;24m
+[4;20H1    Not installed   ----  ---    ----   [0m[0K
+[0;22;7;25;24m
+[5;20H2    Not installed   ----  ---    ----   [0m
+[0K
+[B
+[0;22;27;25;24m
+[5;20H2    Not installed   ----  ---    ----   [0m[0K
+[0;22;7;25;24m
+[6;20H3    Port 3          Up    100M   Full   [0m
+[0K
+
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[0;22;27;25;24m[4;18HConfigure Port Parameters[0;22;27;25;24m
+[5;18HConfigure Port Rate Limiting[0;22;27;25;24m
+[6;18HConfigure Port Mirroring
+[0;22;27;25;24m[7;18HConfigure/View Cable Diagnostics Parameters
+[0;22;27;25;24m[8;18HClear Cable Diagnostics Statistics
+[0;22;27;25;24m[9;18HConfigure Link Detection
+[0;22;7;25;24m[10;18HView Port Status
+[0;22;27;25;24m[11;18HReset Port(s)
+[0;1;27;25;4m[24;1H<CTRL>
+[0;22;27;25;24m  
+[0;1;27;25;4mZ-Help
+[0;22;27;25;24m [0;1;27;25;4m
+S-Shell[0;22;27;25;24m 
+[0;1;27;25;4mX-Logout
+[0;22;27;25;24m [0m
+[0K[0m[1;0H[2K
+[0;22;27;25;24m[1;1H[?25l
+System Name[0;22;27;25;24m
+[1;33HEthernet Ports[0;22;27;25;24m
+[1;65H   admin access
+[A
+[0;22;27;25;24m
+[10;18HView Port Status[0;22;7;25;24m
+[9;18HConfigure Link Detection
+[A
+[0;22;27;25;24m
+[9;18HConfigure Link Detection[0;22;7;25;24m
+[8;18HClear Cable Diagnostics Statistics
+[A
+[0;22;27;25;24m
+[8;18HClear Cable Diagnostics Statistics[0;22;7;25;24m
+[7;18HConfigure/View Cable Diagnostics Parameters
+[A
+[0;22;27;25;24m
+[7;18HConfigure/View Cable Diagnostics Parameters[0;22;7;25;24m
+[6;18HConfigure Port Mirroring
+[A
+[0;22;27;25;24m
+[6;18HConfigure Port Mirroring[0;22;7;25;24m
+[5;18HConfigure Port Rate Limiting
+
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[0;22;27;25;24m[4;30HAdministration[0;22;27;25;24m
+[5;30HSerial Protocols[0;22;7;25;24m
+[6;30HEthernet Ports[0;22;27;25;24m
+[7;30HEthernet Stats[0;22;27;25;24m
+[8;30HLink Aggregation[0;22;27;25;24m
+[9;30HSpanning Tree[0;22;27;25;24m
+[10;30HVirtual LANs[0;22;27;25;24m[11;30HPort Security
+[0;22;27;25;24m[12;30HClasses of Service
+[0;22;27;25;24m[13;30HMulticast Filtering
+[0;22;27;25;24m[14;30HMAC Address Tables
+[0;22;27;25;24m[15;30HNetwork Discovery
+[0;22;27;25;24m[16;30HDiagnostics
+[0;1;27;25;4m[24;1H<CTRL>
+[0;22;27;25;24m  
+[0;1;27;25;4mZ-Help[0;22;27;25;24m
+ [0;1;27;25;4mS-Shell
+[0;22;27;25;24m 
+[0;1;27;25;4mX-Logout[0;22;27;25;24m
+ [0m[0K[0m
+[1;0H[2K[0;22;27;25;24m
+[1;1H[?25lSystem Name
+[0;22;27;25;24m[1;35HMain Menu
+[0;22;27;25;24m[1;65H
+   admin access
+[B
+[0;22;27;25;24m
+[6;30HEthernet Ports[0;22;7;25;24m
+[7;30HEthernet Stats
+[B
+[0;22;27;25;24m
+[7;30HEthernet Stats[0;22;7;25;24m
+[8;30HLink Aggregation
+\r
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[0;22;7;25;24m[4;29HConfigure Port Trunks[0;1;27;25;4m
+[24;1H<CTRL>[0;22;27;25;24m
+  [0;1;27;25;4m
+Z-Help[0;22;27;25;24m 
+[0;1;27;25;4mS-Shell
+[0;22;27;25;24m 
+[0;1;27;25;4mX-Logout
+[0;22;27;25;24m [0m
+[0K[0m[1;0H[2K
+[0;22;27;25;24m[1;1H[?25l
+System Name[0;22;27;25;24m
+[1;32HLink Aggregation
+[0;22;27;25;24m[1;65H   admin access
+\r
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[3;19H[?25l[0;22;27;25;4mTrunk ID 
+[0;22;27;25;24m [0;22;27;25;4m
+Trunk Name         
+[0;22;27;25;24m 
+[0;22;27;25;4mPorts        
+[0;22;27;25;24m [0m
+[0K[0;1;27;25;4m
+[24;1H<CTRL>[0;22;27;25;24m
+  [0;1;27;25;4mZ-Help
+[0;22;27;25;24m 
+[0;1;27;25;4mS-Shell
+[0;22;27;25;24m 
+[0;1;27;25;4mI-Insert
+[0;22;27;25;24m 
+[0;1;27;25;4mL-Delete
+[0;22;27;25;24m [0m
+[0K[0;22;27;25;24m
+[4;19HTable is empty[0m[0K
+[0m
+[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K
+[0m[1;0H[2K[0;22;27;25;24m
+[1;1H[?25lSystem Name
+[0;22;27;25;24m[1;34HPort Trunks
+[0;22;27;25;24m[1;65H
+   admin access
+
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[0;22;7;25;24m[4;29HConfigure Port Trunks[0;1;27;25;4m
+[24;1H<CTRL>[0;22;27;25;24m
+  [0;1;27;25;4m
+Z-Help[0;22;27;25;24m 
+[0;1;27;25;4mS-Shell
+[0;22;27;25;24m 
+[0;1;27;25;4mX-Logout
+[0;22;27;25;24m [0m
+[0K[0m[1;0H[2K
+[0;22;27;25;24m[1;1H[?25l
+System Name[0;22;27;25;24m
+[1;32HLink Aggregation[0;22;27;25;24m
+[1;65H   admin access
+
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[0;22;27;25;24m[4;30HAdministration[0;22;27;25;24m
+[5;30HSerial Protocols[0;22;27;25;24m
+[6;30HEthernet Ports[0;22;27;25;24m
+[7;30HEthernet Stats[0;22;7;25;24m
+[8;30HLink Aggregation[0;22;27;25;24m
+[9;30HSpanning Tree[0;22;27;25;24m
+[10;30HVirtual LANs[0;22;27;25;24m
+[11;30HPort Security[0;22;27;25;24m
+[12;30HClasses of Service[0;22;27;25;24m
+[13;30HMulticast Filtering[0;22;27;25;24m
+[14;30HMAC Address Tables
+[0;22;27;25;24m[15;30HNetwork Discovery
+[0;22;27;25;24m[16;30HDiagnostics
+[0;1;27;25;4m[24;1H<CTRL>
+[0;22;27;25;24m  
+[0;1;27;25;4mZ-Help
+[0;22;27;25;24m 
+[0;1;27;25;4mS-Shell[0;22;27;25;24m
+ [0;1;27;25;4mX-Logout
+[0;22;27;25;24m [0m
+[0K[0m[1;0H[2K
+[0;22;27;25;24m[1;1H[?25lSystem Name
+[0;22;27;25;24m[1;35HMain Menu
+[0;22;27;25;24m[1;65H
+   admin access
+[B
+[0;22;27;25;24m
+[8;30HLink Aggregation[0;22;7;25;24m
+[9;30HSpanning Tree
+[B
+[0;22;27;25;24m
+[9;30HSpanning Tree[0;22;7;25;24m
+[10;30HVirtual LANs
+[B
+[0;22;27;25;24m
+[10;30HVirtual LANs[0;22;7;25;24m
+[11;30HPort Security
+[B
+[0;22;27;25;24m
+[11;30HPort Security[0;22;7;25;24m
+[12;30HClasses of Service
+\r
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[0;22;7;25;24m[4;23HConfigure Global CoS Parameters[0;22;27;25;24m
+[5;23HConfigure Port CoS Parameters[0;22;27;25;24m
+[6;23HConfigure Priority to CoS Mapping
+[0;22;27;25;24m[7;23HConfigure DSCP to CoS Mapping
+[0;1;27;25;4m[24;1H<CTRL>
+[0;22;27;25;24m  
+[0;1;27;25;4mZ-Help
+[0;22;27;25;24m [0;1;27;25;4m
+S-Shell[0;22;27;25;24m 
+[0;1;27;25;4mX-Logout
+[0;22;27;25;24m [0m
+[0K[0m[1;0H[2K
+[0;22;27;25;24m[1;1H[?25l
+System Name
+[0;22;27;25;24m[1;31HClasses of Service
+[0;22;27;25;24m[1;65H   admin access
+[B
+[0;22;27;25;24m
+[4;23HConfigure Global CoS Parameters[0;22;7;25;24m
+[5;23HConfigure Port CoS Parameters
+\r
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[3;24H[?25l[0;22;27;25;4mPort(s)
+[0;22;27;25;24m 
+[0;22;27;25;4mDefault Pri  [0;22;27;25;24m
+ [0;22;27;25;4mInspect TOS
+[0;22;27;25;24m [0m
+[0K[0;1;27;25;4m
+[24;1H<CTRL>[0;22;27;25;24m
+  [0;1;27;25;4mZ-Help
+[0;22;27;25;24m 
+[0;1;27;25;4mS-Shell
+[0;22;27;25;24m 
+[0m[0K
+[0;22;7;25;24m
+[4;24H3       0             No         [0m[0K
+[0;22;27;25;24m
+[5;24H4       0             No         [0m[0K
+[0;22;27;25;24m
+[6;24H9       0             No         [0m[0K
+[0m
+[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K
+[0m[1;0H[2K[0;22;27;25;24m
+[1;1H[?25lSystem Name[0;22;27;25;24m
+[1;30HPort CoS Parameters[0;22;27;25;24m
+[1;65H   admin access
+
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[0;22;27;25;24m[4;23HConfigure Global CoS Parameters[0;22;7;25;24m
+[5;23HConfigure Port CoS Parameters[0;22;27;25;24m
+[6;23HConfigure Priority to CoS Mapping
+[0;22;27;25;24m[7;23HConfigure DSCP to CoS Mapping
+[0;1;27;25;4m[24;1H<CTRL>
+[0;22;27;25;24m  
+[0;1;27;25;4mZ-Help
+[0;22;27;25;24m [0;1;27;25;4m
+S-Shell[0;22;27;25;24m 
+[0;1;27;25;4mX-Logout
+[0;22;27;25;24m 
+[0m[0K[0m
+[1;0H[2K[0;22;27;25;24m
+[1;1H[?25lSystem Name
+[0;22;27;25;24m[1;31HClasses of Service
+[0;22;27;25;24m[1;65H   admin access
+
+[?25l
+[0m
+[2;0H[2K[3;0H[2K[4;0H[2K[5;0H[2K[6;0H[2K[7;0H[2K[8;0H[2K[9;0H[2K[10;0H[2K[11;0H[2K[12;0H[2K[13;0H[2K[14;0H[2K[15;0H[2K[16;0H[2K[17;0H[2K[18;0H[2K[19;0H[2K[20;0H[2K[21;0H[2K[22;0H[2K[23;0H[2K[24;0H[2K
+[0;22;27;25;24m[4;30HAdministration[0;22;27;25;24m
+[5;30HSerial Protocols[0;22;27;25;24m
+[6;30HEthernet Ports
+[0;22;27;25;24m[7;30HEthernet Stats
+[0;22;27;25;24m[8;30HLink Aggregation
+[0;22;27;25;24m[9;30HSpanning Tree
+[0;22;27;25;24m[10;30HVirtual LANs
+[0;22;27;25;24m[11;30HPort Security
+[0;22;7;25;24m[12;30HClasses of Service
+[0;22;27;25;24m[13;30HMulticast Filtering
+[0;22;27;25;24m
+[14;30HMAC Address Tables[0;22;27;25;24m
+[15;30HNetwork Discovery[0;22;27;25;24m
+[16;30HDiagnostics[0;1;27;25;4m
+[24;1H<CTRL>[0;22;27;25;24m
+  [0;1;27;25;4mZ-Help
+[0;22;27;25;24m 
+[0;1;27;25;4mS-Shell[0;22;27;25;24m
+ [0;1;27;25;4mX-Logout
+[0;22;27;25;24m 
+[0m[0K[0m
+[1;0H[2K[0;22;27;25;24m
+[1;1H[?25lSystem Name[0;22;27;25;24m
+[1;35HMain Menu[0;22;27;25;24m
+[1;65H   admin access
+[B
+[0;22;27;25;24m
+[12;30HClasses of Service[0;22;7;25;24m
+[13;30HMulticast Filtering
+[B
+[0;22;27;25;24m
+[13;30HMulticast Filtering[0;22;7;25;24m
+[14;30HMAC Address Tables
+[B
+[0;22;27;25;24m
+[14;30HMAC Address Tables[0;22;7;25;24m
+[15;30HNetwork Discovery
+
+
+
+[0m
+[2J[1;1H[?25hEnter 'help' for list of commands\r
+\n,\r\n,[0m
+[2K\r
+>
+h
+h
+e
+e
+l
+l
+p
+p
+\
+\
+
+\r
+\r
+\n,"h
+elp\
+" is
+ no
+t 
+rec
+ogn
+ized
+. T
+ype 
+'he
+lp' 
+for
+ a 
+lis
+t o
+f co
+mman
+ds.\r
+\n,\r\n,[0m
+[2K\r
+>
+h
+h
+e
+e
+l
+l
+p
+p
+\r
+\r
+\n,\r\n
+alarms          Displays list of available alarms.                            \r\n
+arp             Displays arp table of the device.                             \r\n
+clearalarms     Clears all alarms.                                            \r
+\n,clearethstats   Clear statistics for specified Ethernet port(s).              \r
+\n,clearlogs       Clears the system and crash logs.                             
+\r\n,clearserstats   Clears statistics for specified serial port(s).               
+\r\n,clrcblstats     Clear cable diagnostics statistics on one or more ports       
+\r\n,clrstpstats     Clear all spanning tree statistics.                           
+\r\n,cls             Clears the screen                                             
+\r\n,delay           Pause a specified number of milliseconds.                     
+\r\n,devaddr         Lists internal address list for protocol                      
+\r\n,dir             Prints file directory listing.                                
+\r\n
+echo            Echoes the specified message to the screen.                   \r\n
+exit            Terminate this command line session                           \r\n
+flashfiles      Flash filesystem commands.                                    \r\n
+flashleds       Control flashing of the unit's LEDs                           \r\n
+help            Print listing of all commands                                 \r\n
+ipconfig        Displays IP configuration.                                    \r\n
+loaddflts       Load Factory Default Configuration                            \r\n
+login           Login to the shell i.e. set the access level                  \r\n
+logout          Logout of the shell                                           \r\n
+ping            Pings specified IP address                                    \r\n
+purgemac        Purge MAC Address Table                                       \r\n
+reset           Perform a 'hard' reset of the switch                          \r\n
+resetport       Resets specified switch port(s).                              \r\n
+resetserialport Resets specified serial port(s).                              \r
+\n,rmon            Displays names of RMON alarm eligible objects.                
+\r\n,route           Displays gateway configuration.                               
+\r\n
+sql             'SQL' like commands for setting/viewing system parameters     \r\n
+telnet          Telnet to the server with specified IP address                \r
+\n,tftp            TFTP client executes command on server specified by IP address.\r
+\n,trace           trace command                                                 \r
+\n,type            Displays the contents of a text file.                         
+\r\n
+version         Prints software versions.                                     \r\n
+xmodem          Upload or download a file to the switch.                      \r\n
+\r\n,[0m[2K
+\r,>
+l
+l
+s
+s
+\r
+\r
+\n,"ls
+" is
+ no
+t r
+ecog
+niz
+ed.
+ Ty
+pe 
+'hel
+p' 
+for 
+a li
+st of
+ co
+mma
+nds.
+\r\n,\r\n
+[0m[2K\r
+
+p
+p
+w
+w
+d
+d
+\r
+\r
+\n,"pw
+d" i
+s n
+ot r
+eco
+gniz
+ed.
+ Ty
+pe '
+help
+' fo
+r a 
+list
+ of
+ co
+mmand
+s.\r\n
+\r\n,[0m
+[2K\r,>
+[A
+[0m
+[2K\r,>
+pwd
+[A
+[0m
+[2K\r,>
+ls
+[A
+[0m
+[2K\r,>
+help
+
+
+
+
+
+
+
+
+
+
+d
+d
+i
+i
+r
+r
+\r
+\r
+\n,"h
+elpd
+ir"
+ is
+ not
+ re
+cog
+niz
+ed. 
+Typ
+e '
+hel
+p' f
+or 
+a l
+ist
+ of 
+comm
+ands
+.\r\n
+\r\n,[0m
+[2K\r,>
+d
+d
+i
+i
+r
+r
+\r
+\r
+\n
+Directory of RuggedSwitch\r
+,-----------------------------------------------------
+---------------------------\r,\r
+\n,Free files:   19 of 32\r,\r
+\n,Free handles: 31 of 32\r,\r\n,Fre
+e blocks:  1024 of 1024\r,\r
+\n,Block size:   4096\r,\r\n,-----------------------------------
+---------------------------------------------\r,\r
+\n,Filename             Size Hdls Blks Attr Description        \r
+\r\n,--------------------------------------------------------------------------------\r
+,dir.txt                 0    1    1 R   Listing of files and attributes.\r
+,boot.bin           906582    0    0 RWB Boot firmware\r
+\r\n,main.bin          1031428    0    0 RWB Operating system firmware\r
+\r\n,fpga.xsvf           55788    0    0 RWB FPGA programming file binary file\r
+\r\n,factory.txt           155    0    0 RW  Factory data parameters\r
+\r
+\n,config.csv          17713    0    0 RW  System settings\r
+\r\n,config.bak          17713    0    0 RW  System settings backup\r
+\r\n,crashlog.txt            0    0    0 RW  Log of debilitating system events\r
+\r\n,banner.txt              0    0    0 RW  User defined free-text banner\r
+\r\n,syslog.txt         271054    0    0 RW  Log of system events\r
+\r\n,sdram.bin        16777216    0    0 R B Image of entire SDRAM memory\r
+\r\n,flash.bin         4194304    0    0 R B Image of entire Flash memory\r
+\r\n,cfgdiff.csv             0    0    0 R   Changed configuration settings.\r
+\r\n,--------------------------------------------------------------------------------\r
+,\r
+\n,\r\n
+[0m[2K\r
+
+h
+h
+e
+e
+l
+l
+p
+p
+\r
+\r
+\n,\r\n
+alarms          Displays list of available alarms.                            \r\n
+arp             Displays arp table of the device.                             \r\n
+clearalarms     Clears all alarms.                                            \r\n
+clearethstats   Clear statistics for specified Ethernet port(s).              \r
+\n,clearlogs       Clears the system and crash logs.                             \r
+\n,clearserstats   Clears statistics for specified serial port(s).               
+\r\n
+clrcblstats     Clear cable diagnostics statistics on one or more ports       \r\n
+clrstpstats     Clear all spanning tree statistics.                           \r\n
+cls             Clears the screen                                             \r\n
+delay           Pause a specified number of milliseconds.                     \r\n
+devaddr         Lists internal address list for protocol                      \r\n
+dir             Prints file directory listing.                                \r
+\n,echo            Echoes the specified message to the screen.                   
+\r\n
+exit            Terminate this command line session                           \r\n
+flashfiles      Flash filesystem commands.                                    \r
+\n,flashleds       Control flashing of the unit's LEDs                           
+\r\n
+help            Print listing of all commands                                 \r\n
+ipconfig        Displays IP configuration.                                    \r\n
+loaddflts       Load Factory Default Configuration                            \r
+\n,login           Login to the shell i.e. set the access level                  \r
+\n,logout          Logout of the shell                                           \r
+\n,ping            Pings specified IP address                                    
+\r\n,purgemac        Purge MAC Address Table                                       
+\r\n,reset           Perform a 'hard' reset of the switch                          
+\r\n,resetport       Resets specified switch port(s).                              \r
+\n,resetserialport Resets specified serial port(s).                              
+\r\n
+rmon            Displays names of RMON alarm eligible objects.                \r\n
+route           Displays gateway configuration.                               \r
+\n,sql             'SQL' like commands for setting/viewing system parameters     
+\r\n,telnet          Telnet to the server with specified IP address                
+\r\n,tftp            TFTP client executes command on server specified by IP address.
+\r\n,trace           trace command                                                 
+\r\n,type            Displays the contents of a text file.                         
+\r\n
+version         Prints software versions.                                     \r\n
+xmodem          Upload or download a file to the switch.                      \r\n
+\r\n,[0m[2K
+\r,>
+[0m
+[2J[1;1H[?25ladmin logged out - goodbye
+[2;1H[?25h
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-508A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1
+1
+\b1
+\r
+[2J[3;19HModel : [3;39HEDS-508A[4;19HName : [4;39HManaged Redundant Switch 04759[5;19HLocation : [5;39HSwitch Location[7;19HFirmware Version : [7;39HV3.0 build 11071816[8;19HSerial No : [8;39H04759[9;19HIP : [9;39H192.168.88.60[10;19H
+MAC Address : [10;39H00-90-E8-26-40-23[8;39H04759[12;20H+-----------------------------+[13;20H|[13;50H|[14;20H|[14;50H|[15;20H+-----------------------------+[13;21H                             [13;22HAccount  : [14;22HPassword : [13;33H
+a
+a[13;34H
+d
+d[13;35H
+m
+m[13;36H
+i
+i[13;37H
+n
+n[13;38H
+\t
+\r
+[14;33H
+a
+*[14;34H
+d
+*[14;35H
+m
+*[14;36H
+i
+*[14;37H
+n
+*[14;38H
+\r
+[12;20H[0m                               [13;20H[0m                               [14;20H[0m                               [15;20H[0m                               [0m[8;44H[7m[19;19H+-----------------------------------------+[20;19H|[20;61H
+|[21;19H+-----------------------------------------+[20;20H                                         [20;21HError Password ! Any key to input again.
+\r
+[19;19H[0m                                           [20;19H[0m                                           [21;19H[0m                                           [0m[8;44H[12;20H+-----------------------------+[13;20H|[13;50H|[14;20H|[14;50H|
+[15;20H+-----------------------------+[13;21H                             [13;22HAccount  : [14;22HPassword : [13;33H
+a
+a[13;34H
+d
+d[13;35H
+m
+m[13;36H
+i
+i[13;37H
+n
+n[13;38H
+\r
+[14;33H
+P
+*[14;34H
+A
+*[14;35H
+S
+*[14;36H
+S
+*[14;37H
+.
+*[14;38H
+\r
+[12;20H[0m                               [13;20H[0m                               [14;20H[0m                               [15;20H[0m                               [0m[8;44H[7m[19;19H+-----------------------------------------+[20;19H|[20;61H
+|[21;19H+-----------------------------------------+[20;20H                                         [20;21HError Password ! Any key to input again.
+\r
+[19;19H[0m                                           [20;19H[0m                                           [21;19H[0m                                           [0m[8;44H[12;20H+-----------------------------+[13;20H|[13;50H|[14;20H|[14;50H|
+[15;20H+-----------------------------+[13;21H                             [13;22HAccount  : [14;22HPassword : [13;33H
+a
+a[13;34H
+d
+d[13;35H
+m
+m[13;36H
+i
+i[13;37H
+n
+n[13;38H
+\r
+[14;33H
+P
+*[14;34H
+A
+*[14;35H
+S
+*[14;36H
+S
+*[14;37H
+\r
+[12;20H[0m                               [13;20H[0m                               [14;20H[0m                               [15;20H[0m                               [0m[8;44H[7m[19;19H+-----------------------------------------+[20;19H|[20;61H
+|[21;19H+-----------------------------------------+[20;20H                                         [20;21HError Password ! Any key to input again.
+\r
+[0m[2J\n,\r,\n,\r,\n,\r,MOXA EtherDevice Switch  EDS-508A\r,\n,Console terminal type (1: ansi/vt100, 2: vt52) : 1
+\r
+[2J[3;19HModel : [3;39HEDS-508A[4;19HName : [4;39HManaged Redundant Switch 04759[5;19HLocation : [5;39HSwitch Location[7;19HFirmware Version : [7;39HV3.0 build 11071816[8;19HSerial No : [8;39H04759[9;19HIP : [9;39H192.168.88.60[10;19H
+MAC Address : [10;39H00-90-E8-26-40-23[8;39H04759[12;20H+-----------------------------+[13;20H|[13;50H|[14;20H|[14;50H|[15;20H+-----------------------------+[13;21H                             [13;22HAccount  : [14;22HPassword : [13;33H
+a
+a[13;34H
+d
+d[13;35H
+m
+m[13;36H
+i
+i[13;37H
+n
+n[13;38H
+\r
+[14;33H
+P
+*[14;34H
+A
+*[14;35H
+S
+*[14;36H
+S
+*[14;37H
+.
+*[14;38H
+\r
+[12;20H[0m                               [13;20H[0m                               [14;20H[0m                               [15;20H[0m                               [0m[8;44H[7m[19;19H+-----------------------------------------+[20;19H|[20;61H
+|[21;19H+-----------------------------------------+[20;20H                                         [20;21HError Password ! Any key to input again.
+\r
+[19;19H[0m                                           [20;19H[0m                                           [21;19H[0m                                           [0m[8;44H[12;20H+-----------------------------+[13;20H|[13;50H|[14;20H|[14;50H|
+[15;20H+-----------------------------+[13;21H                             [13;22HAccount  : [14;22HPassword : [13;33H
+A
+A[13;34H
+D
+D[13;35H
+
+[13;34H [13;34H
+
+[13;33H [13;33H
+
+
+A
+A[13;34H
+D
+D[13;35H
+M
+M[13;36H
+I
+I[13;37H
+N
+N[13;38H
+
+[13;37H [13;37H
+
+[13;36H [13;36H
+
+[13;35H [13;35H
+
+[13;34H [13;34H
+
+[13;33H [13;33H
+
+a
+a[13;34H
+d
+d[13;35H
+m
+m[13;36H
+i
+i[13;37H
+n
+n[13;38H
+\r
+[14;33H
+\r
+[12;20H[0m                               [13;20H[0m                               [14;20H[0m                               [15;20H[0m                               [0m[8;44H[11;1H[0K[12;1H[0K[13;1H[0K[14;1H[0K[1;29HEDS-508A series
+[1;46HV3.0 build 11071816[2;1H--------------------------------------------------------------------------------[2J[1;29HEDS-508A series[1;46HV3.0 build 11071816[2;1H--------------------------------------------------------------------------------[4;1H[0K[4;1H1.[4;3HBasic Settings[4;25H-[4;27HBasic settings for network and system parameter.[5;1H[0K[5;1H2.[5;3HPort Trunking[5;25H-[5;27HAllows multiple ports to be aggregated as a link.[6;1H[0K[6;1H3.[6;3HSNMP Settings[6;25H-[6;27HThe settings for SNMP.[7;1H[0K[7;1H4.[7;3HComm. Redundancy[7;25H-[7;27HEstablish Ethernet communication redundant path.[8;1H[0K[8;1H5.[8;3HTraffic Prioritization[8;25H-[8;27HPrioritize Ethernet traffic to help determinism.[9;1H[0K[9;1H6.[9;3HVirtual LAN[9;25H-[9;27HSet up a VLAN by IEEE802.1Q VLAN or Port-based VLAN.[10;1H[0K[10;1H7.[10;3HMulticast Filtering[10;25H-[10;27HEnable the multicast filtering capability.[11;1H[0K[11;1H8.[11;3HBandwidth Management[11;25H-[11;27HRestrict unpredictable network traffic.[12;1H[0K[12;1H9.[12;3HPort Access Control[12;25H-[12;27HPort access control by IEEE802.1X or Static Port Lock.[13;1H[0K[13;1Ha.[13;3HAuto Warning[13;25H-[13;27HWarning email and/or relay output by events.[14;1H[0K[14;1Hb.[14;3HLine Swap[14;25H-[14;27HFast recovery after moving devices to different ports.[15;1H[0K[15;1Hc.[15;3HSet Device IP[15;25H-[15;27HAssign IP addresses
+ to connected devices.[16;1H[0K[16;1Hd.[16;3HDiagnosis[16;25H-[16;27HPing command and the settings for Mirror port, LLDP.[17;1H[0K[17;1He.[17;3HMonitor[17;25H-[17;27HMonitor a port and network status.[18;1H[0K[18;1Hf.[18;3HMAC Address Table[18;25H-[18;27HThe complete table of Ethernet MAC Address List.[19;1H[0K[19;1Hg.[19;3HSystem log[19;25H-[19;27HThe settings for Syslog and Event log.[20;1H[0K[20;1Hh.[20;3HExit[20;25H-[20;27HExit[21;15H- Use the up/down arrow keys to select a category,\r\n,                        and then press Enter to select. -[7m[4;1H1.[4;3HBasic Settings[0m
+[B
+[4;1H1.[4;3HBasic Settings[7m[5;1H2.[5;3HPort Trunking[0m
+[B[B[B[B[B[B[B[B[B[B[(3�#B[B  V3\n,\t\t\t\t01
+[5;1H2.[5;3HPort Trunking[7m[6;1H3.[6;3HSNMP Settings[0m
+[Bee[B[B[B[B[A[A[B[B[B[B[B[B[B[B[B[B[B[B[B[B[A[A[C[D[5~[C[D[C[D[B[B[A[B[A[B[Besws [C
+[6;1H3.[6;3HSNMP Settings[7m[7;1H4.[7;3HComm. Redundancy[0m[7;1H4.[7;3HComm. Redundancy[7m[8;1H5.[8;3HTraffic Prioritization[0m[8;1H5.[8;3HTraffic Prioritization[7m[9;1H6.[9;3HVirtual LAN[0m[9;1H6.[9;3HVirtual LAN[7m[10;1H7.[10;3HMulticast Filtering[0m[10;1H7.[10;3HMulticast Filtering[7m[11;1H8.[11;3HBandwidth Management[0m[11;1H8.[11;3HBandwidth Management[7m[12;1H9.[12;3HPort Access Control[0m[12;1H9.[12;3HPort Access Control[7m[13;1Ha.[13;3HAuto Warning[0m[13;1Ha.[13;3HAuto Warning[7m[14;1Hb.[14;3HLine Swap[0m[14;1Hb.[14;3HLine Swap[7m[15;1Hc.[15;3HSet Device IP[0m[15;1Hc.[15;3HSet Device IP[7m[16;1Hd.[16;3HDiagnosis[0m[16;1Hd.[16;3HDiagnosis[7m[17;1He.[17;3HMonitor[0m[17;1He.[17;3HMonitor[7m[18;1Hf.[18;3HMAC Address Table[0m[18;1Hf.[18;3HMAC Address Table[7m[19;1Hg.[19;3HSystem log[0m[19;1Hg.[19;3HSystem log[7m[20;1Hh.[20;3HExit[0m[20;1Hh.[20;3HExit[7m[4;1H1.[4;3HBasic Settings[0m
+[4;1H1.[4;3HBasic Settings[7m[5;1H2.[5;3HPort Trunking[0m[5;1H2.[5;3HPort Trunking[7m[17;1He.[17;3HMonitor[0m[17;1He.[17;3HMonitor[7m[18;1Hf.[18;3HMAC Address Table[0m[18;1Hf.[18;3HMAC Address Table[7m[19;1Hg.[19;3HSystem log[0m[19;1Hg.[19;3HSystem log[7m[20;1Hh.[20;3HExit[0m[20;1Hh.[20;3HExit[7m[4;1H1.[4;3HBasic Settings[0m[4;1H1.[4;3HBasic Settings[7m[20;1Hh.[20;3HExit[0m[20;1Hh.[20;3HExit[7m[19;1Hg.[19;3HSystem log[0m[19;1Hg.[19;3HSystem log[7m[20;1Hh.[20;3HExit[0m[20;1Hh.[20;3HExit[7m[4;1H1.[4;3HBasic Settings[0m[4;1H1.[4;3HBasic Settings[7m[5;1H2.[5;3HPort Trunking[0m[5;1H2.[5;3HPort Trunking[7m[6;1H3.[6;3HSNMP Settings[0m[6;1H3.[6;3HSNMP Settings[7m[7;1H4.[7;3HComm. Redundancy[0m[7;1H4.[7;3HComm. Redundancy[7m[8;1H5.[8;3HTraffic Prioritization[0m[8;1H5.[8;3HTraffic Prioritization[7m[9;1H6.[9;3HVirtual LAN[0m[9;1H6.[9;3HVirtual LAN[7m[10;1H7.[10;3HMulticast Filtering[0m[10;1H7.[10;3HMulticast Filtering[7m[11;1H8.[11;3HBandwidth Management[0m[11;1H8.[11;3HBandwidth Management[7m[12;1H9.[12;3HPort Access Control[0m[12;1H9.[12;3HPort Access Control[7m[13;1Ha.[13;3HAuto Warning[0m[13;1Ha.[13;3HAuto Warning[7m[14;1Hb.[14;3HLine Swap[0m[14;1Hb.[14;3HLine Swap[7m[15;1Hc.[15;3HSet Device IP[0m[15;1Hc.[15;3HSet Device IP[7m[16;1Hd.[16;3HDiagnosis[0m[16;1Hd.[16;3HDiagnosis[7m[15;1Hc.[15;3HSet De
+vice IP[0m[15;1Hc.[15;3HSet Device IP[7m[14;1Hb.[14;3HLine Swap[0m[14;1Hb.[14;3HLine Swap[7m[8;1H5.[8;3HTraffic Prioritization[0m[8;1H5.[8;3HTraffic Prioritization[7m[9;1H6.[9;3HVirtual LAN[0m[9;1H6.[9;3HVirtual LAN[7m[10;1H7.[10;3HMulticast Filtering[0m[10;1H7.[10;3HMulticast Filtering[7m[9;1H6.[9;3HVirtual LAN[0m[9;1H6.[9;3HVirtual LAN[7m[10;1H7.[10;3HMulticast Filtering[0m[10;1H7.[10;3HMulticast Filtering[7m[9;1H6.[9;3HVirtual LAN[0m[9;1H6.[9;3HVirtual LAN[7m[10;1H7.[10;3HMulticast Filtering[0m[10;1H7.[10;3HMulticast Filtering[7m[11;1H8.[11;3HBandwidth Management[0m[11;1H8.[11;3HBandwidth Management[7m[17;1He.[17;3HMonitor[0m
+\r
+[2;2H[7m[3;1H ESC: Previous menu   Enter: Select                                             [0m[2J[2;2HMonitor[7m[3;1H ESC: Previous menu                                                             [0m[1;24HMOXA EtherDevice Switch EDS-508A
+[4;1H[0K[5;1H[0K[6;1H[0K[7;1H[0K[8;1H[0K[9;1H[0K[10;1H[0K[11;1H[0K[12;1H[0K[13;1H[0K[14;1H[0K[15;1H[0K[16;1H[0K[17;1H[0K[18;1H[0K[19;1H[0K[20;1H[0K[21;1H[0K[22;1H[0K[23;1H[0K[24;1H[0K[4;1H[7m[4;1H                                                                                [0m[7m[3;65H               [3;69H[Page 1/1][0m[5;2HSwitch Model :[5;18HEDS-508A[6;18H8FE ports[7;2HPower 1 (P1) Input Status :[7;31HPresent[8;2HPower 2 (P2) Input Status :[8;31HNot present[7m[9;2HPort[9;7HLink   [9;15HSpeed    [9;25HFDX Flow Ctrl[9;39HMDI/X[9;45HIP of connected device[9;68HRx(%)[9;74HTx(%)[0m[10;2H1[10;7HOff[10;15H--[10;25H--[10;39H--[10;68H0[10;74H0[11;2H2[11;7HOff[11;15H--[11;25H--[11;39H--[11;68H0[11;74H0[12;2H3[12;7HOn[12;15H100M-Full[12;25HOff[12;39HMDIX[12;45HNA[12;68H0[12;74H0[13;2H4[13;7HOff[13;15H--[13;25H--[13;39H--[13;68H0[13;74H0[14;2H5[14;7HOn[14;15H100M-Full[14;25HOff[14;39HMDIX[14;45HNA[14;68H0[14;74H0[15;2H6[15;7HOn[15;15H100M-Full[15;25HOff[15;39HMDIX[15;45HNA[15;68H0[15;74H0[16;2H7[16;7HOff[16;15H--[16;25H--[16;39H--[16;68H0[16;74H0[17;2H8[17;7HOff[17;15H--[17;25H--[17;39H--[17;68H0[17;74H0[23;8H- The on-screen info is automatically updated every 3 seconds. -
+[4;1H[0K[5;1H[0K[6;1H[0K[7;1H[0K[8;1H[0K[9;1H[0K[10;1H[0K[11;1H[0K[12;1H[0K[13;1H[0K[14;1H[0K[15;1H[0K[16;1H[0K[17;1H[0K[18;1H[0K[19;1H[0K[20;1H[0K[21;1H[0K[22;1H[0K[23;1H[0K[24;1H[0K[4;1H[7m[4;1H  
+                                                                              [0m[7m[3;65H               [3;69H[Page 1/1][0m[5;2HSwitch Model :[5;18HEDS-508A[6;18H8FE ports[7;2HPower 1 (P1) Input Status :[7;31HPresent[8;2HPower 2 (P2) Input Status :[8;31HNot present[7m[9;2HPort[9;7HLink   [9;15HSpeed    [9;25HFDX Flow Ctrl[9;39HMDI/X[9;45HIP of connected device[9;68HRx(%)[9;74HTx(%)[0m[10;2H1[10;7HOff[10;15H--[10;25H--[10;39H--[10;68H0[10;74H0[11;2H2[11;7HOff[11;15H--[11;25H--[11;39H--[11;68H0[11;74H0[12;2H3[12;7HOn[12;15H100M-Full[12;25HOff[12;39HMDIX[12;45HNA[12;68H0[12;74H0[13;2H4[13;7HOff[13;15H--[13;25H--[13;39H--[13;68H0[13;74H0[14;2H5[14;7HOn[14;15H100M-Full[14;25HOff[14;39HMDIX[14;45HNA[14;68H0[14;74H0[15;2H6[15;7HOn[15;15H100M-Full[15;25HOff[15;39HMDIX[15;45HNA[15;68H0[15;74H0[16;2H7[16;7HOff[16;15H--[16;25H--[16;39H--[16;68H0[16;74H0[17;2H8[17;7HOff[17;15H--[17;25H--[17;39H--[17;68H0[17;74H0[23;8H- The on-screen info is automatically updated every 3 seconds. -
+[4;1H[0K[5;1H[0K[6;1H[0K[7;1H[0K[8;1H[0K[9;1H[0K[10;1H[0K[11;1H[0K[12;1H[0K[13;1H[0K[14;1H[0K[15;1H[0K[16;1H[0K[17;1H[0K[18;1H[0K[19;1H[0K[20;1H[0K[21;1H[0K[22;1H[0K[23;1H[0K[24;1H[0K[4;1H[7m[4;1H  
+                                                                              [0m[7m[3;65H               [3;69H[Page 1/1][0m[5;2HSwitch Model :[5;18HEDS-508A[6;18H8FE ports[7;2HPower 1 (P1) Input Status :[7;31HPresent[8;2HPower 2 (P2) Input Status :[8;31HNot present[7m[9;2HPort[9;7HLink   [9;15HSpeed    [9;25HFDX Flow Ctrl[9;39HMDI/X[9;45HIP of connected device[9;68HRx(%)[9;74HTx(%)[0m[10;2H1[10;7HOff[10;15H--[10;25H--[10;39H--[10;68H0[10;74H0[11;2H2[11;7HOff[11;15H--[11;25H--[11;39H--[11;68H0[11;74H0[12;2H3[12;7HOn[12;15H100M-Full[12;25HOff[12;39HMDIX[12;45HNA[12;68H0[12;74H0[13;2H4[13;7HOff[13;15H--[13;25H--[13;39H--[13;68H0[13;74H0[14;2H5[14;7HOn[14;15H100M-Full[14;25HOff[14;39HMDIX[14;45HNA[14;68H0[14;74H0[15;2H6[15;7HOn[15;15H100M-Full[15;25HOff[15;39HMDIX[15;45HNA[15;68H0[15;74H0[16;2H7[16;7HOff[16;15H--[16;25H--[16;39H--[16;68H0[16;74H0[17;2H8[17;7HOff[17;15H--[17;25H--[17;39H--[17;68H0[17;74H0[23;8H- The on-screen info is automatically updated every 3 seconds. -
+[4;1H[0K[5;1H[0K[6;1H[0K[7;1H[0K[8;1H[0K[9;1H[0K[10;1H[0K[11;1H[0K[12;1H[0K[13;1H[0K[14;1H[0K[15;1H[0K[16;1H[0K[17;1H[0K[18;1H[0K[19;1H[0K[20;1H[0K[21;1H[0K[22;1H[0K[23;1H[0K[24;1H[0K[4;1H[7m[4;1H  
+                                                                              [0m[7m[3;65H               [3;69H[Page 1/1][0m[5;2HSwitch Model :[5;18HEDS-508A[6;18H8FE ports[7;2HPower 1 (P1) Input Status :[7;31HPresent[8;2HPower 2 (P2) Input Status :[8;31HNot present[7m[9;2HPort[9;7HLink   [9;15HSpeed    [9;25HFDX Flow Ctrl[9;39HMDI/X[9;45HIP of connected device[9;68HRx(%)[9;74HTx(%)[0m[10;2H1[10;7HOff[10;15H--[10;25H--[10;39H--[10;68H0[10;74H0[11;2H2[11;7HOff[11;15H--[11;25H--[11;39H--[11;68H0[11;74H0[12;2H3[12;7HOn[12;15H100M-Full[12;25HOff[12;39HMDIX[12;45HNA[12;68H0[12;74H0[13;2H4[13;7HOff[13;15H--[13;25H--[13;39H--[13;68H0[13;74H0[14;2H5[14;7HOn[14;15H100M-Full[14;25HOff[14;39HMDIX[14;45HNA[14;68H0[14;74H0[15;2H6[15;7HOn[15;15H100M-Full[15;25HOff[15;39HMDIX[15;45HNA[15;68H0[15;74H0[16;2H7[16;7HOff[16;15H--[16;25H--[16;39H--[16;68H0[16;74H0[17;2H8[17;7HOff[17;15H--[17;25H--[17;39H--[17;68H0[17;74H0[23;8H- The on-screen info is automatically updated every 3 seconds. -
+[4;1H[0K[5;1H[0K[6;1H[0K[7;1H[0K[8;1H[0K[9;1H[0K[10;1H[0K[11;1H[0K[12;1H[0K[13;1H[0K[14;1H[0K[15;1H[0K[16;1H[0K[17;1H[0K[18;1H[0K[19;1H[0K[20;1H[0K[21;1H[0K[22;1H[0K[23;1H[0K[24;1H[0K[4;1H[7m[4;1H  
+                                                                              [0m[7m[3;65H               [3;69H[Page 1/1][0m[5;2HSwitch Model :[5;18HEDS-508A[6;18H8FE ports[7;2HPower 1 (P1) Input Status :[7;31HPresent[8;2HPower 2 (P2) Input Status :[8;31HNot present[7m[9;2HPort[9;7HLink   [9;15HSpeed    [9;25HFDX Flow Ctrl[9;39HMDI/X[9;45HIP of connected device[9;68HRx(%)[9;74HTx(%)[0m[10;2H1[10;7HOff[10;15H--[10;25H--[10;39H--[10;68H0[10;74H0[11;2H2[11;7HOff[11;15H--[11;25H--[11;39H--[11;68H0[11;74H0[12;2H3[12;7HOn[12;15H100M-Full[12;25HOff[12;39HMDIX[12;45HNA[12;68H0[12;74H0[13;2H4[13;7HOff[13;15H--[13;25H--[13;39H--[13;68H0[13;74H0[14;2H5[14;7HOn[14;15H100M-Full[14;25HOff[14;39HMDIX[14;45HNA[14;68H0[14;74H0[15;2H6[15;7HOn[15;15H100M-Full[15;25HOff[15;39HMDIX[15;45HNA[15;68H0[15;74H0[16;2H7[16;7HOff[16;15H--[16;25H--[16;39H--[16;68H0[16;74H0[17;2H8[17;7HOff[17;15H--[17;25H--[17;39H--[17;68H0[17;74H0[23;8H- The on-screen info is automatically updated every 3 seconds. -
+[4;1H[0K[5;1H[0K[6;1H[0K[7;1H[0K[8;1H[0K[9;1H[0K[10;1H[0K[11;1H[0K[12;1H[0K[13;1H[0K[14;1H[0K[15;1H[0K[16;1H[0K[17;1H[0K[18;1H[0K[19;1H[0K[20;1H[0K[21;1H[0K[22;1H[0K[23;1H[0K[24;1H[0K[4;1H[7m[4;1H  
+                                                                              [0m[7m[3;65H               [3;69H[Page 1/1][0m[5;2HSwitch Model :[5;18HEDS-508A[6;18H8FE ports[7;2HPower 1 (P1) Input Status :[7;31HPresent[8;2HPower 2 (P2) Input Status :[8;31HNot present[7m[9;2HPort[9;7HLink   [9;15HSpeed    [9;25HFDX Flow Ctrl[9;39HMDI/X[9;45HIP of connected device[9;68HRx(%)[9;74HTx(%)[0m[10;2H1[10;7HOff[10;15H--[10;25H--[10;39H--[10;68H0[10;74H0[11;2H2[11;7HOff[11;15H--[11;25H--[11;39H--[11;68H0[11;74H0[12;2H3[12;7HOn[12;15H100M-Full[12;25HOff[12;39HMDIX[12;45HNA[12;68H0[12;74H0[13;2H4[13;7HOff[13;15H--[13;25H--[13;39H--[13;68H0[13;74H0[14;2H5[14;7HOn[14;15H100M-Full[14;25HOff[14;39HMDIX[14;45HNA[14;68H0[14;74H0[15;2H6[15;7HOn[15;15H100M-Full[15;25HOff[15;39HMDIX[15;45HNA[15;68H0[15;74H0[16;2H7[16;7HOff[16;15H--[16;25H--[16;39H--[16;68H0[16;74H0[17;2H8[17;7HOff[17;15H--[17;25H--[17;39H--[17;68H0[17;74H0[23;8H- The on-screen info is automatically updated every 3 seconds. -
+[4;1H[0K[5;1H[0K[6;1H[0K[7;1H[0K[8;1H[0K[9;1H[0K[10;1H[0K[11;1H[0K[12;1H[0K[13;1H[0K[14;1H[0K[15;1H[0K[16;1H[0K[17;1H[0K[18;1H[0K[19;1H[0K[20;1H[0K[21;1H[0K[22;1H[0K[23;1H[0K[24;1H[0K[4;1H[7m[4;1H  
+                                                                              [0m[7m[3;65H               [3;69H[Page 1/1][0m[5;2HSwitch Model :[5;18HEDS-508A[6;18H8FE ports[7;2HPower 1 (P1) Input Status :[7;31HPresent[8;2HPower 2 (P2) Input Status :[8;31HNot present[7m[9;2HPort[9;7HLink   [9;15HSpeed    [9;25HFDX Flow Ctrl[9;39HMDI/X[9;45HIP of connected device[9;68HRx(%)[9;74HTx(%)[0m[10;2H1[10;7HOff[10;15H--[10;25H--[10;39H--[10;68H0[10;74H0[11;2H2[11;7HOff[11;15H--[11;25H--[11;39H--[11;68H0[11;74H0[12;2H3[12;7HOn[12;15H100M-Full[12;25HOff[12;39HMDIX[12;45HNA[12;68H0[12;74H0[13;2H4[13;7HOff[13;15H--[13;25H--[13;39H--[13;68H0[13;74H0[14;2H5[14;7HOn[14;15H100M-Full[14;25HOff[14;39HMDIX[14;45HNA[14;68H0[14;74H0[15;2H6[15;7HOn[15;15H100M-Full[15;25HOff[15;39HMDIX[15;45HNA[15;68H0[15;74H0[16;2H7[16;7HOff[16;15H--[16;25H--[16;39H--[16;68H0[16;74H0[17;2H8[17;7HOff[17;15H--[17;25H--[17;39H--[17;68H0[17;74H0[23;8H- The on-screen info is automatically updated every 3 seconds. -
+[4;1H[0K[5;1H[0K[6;1H[0K[7;1H[0K[8;1H[0K[9;1H[0K[10;1H[0K[11;1H[0K[12;1H[0K[13;1H[0K[14;1H[0K[15;1H[0K[16;1H[0K[17;1H[0K[18;1H[0K[19;1H[0K[20;1H[0K[21;1H[0K[22;1H[0K[23;1H[0K[24;1H[0K[4;1H[7m[4;1H  
+                                                                              [0m[7m[3;65H               [3;69H[Page 1/1][0m[5;2HSwitch Model :[5;18HEDS-508A[6;18H8FE ports[7;2HPower 1 (P1) Input Status :[7;31HPresent[8;2HPower 2 (P2) Input Status :[8;31HNot present[7m[9;2HPort[9;7HLink   [9;15HSpeed    [9;25HFDX Flow Ctrl[9;39HMDI/X[9;45HIP of connected device[9;68HRx(%)[9;74HTx(%)[0m[10;2H1[10;7HOff[10;15H--[10;25H--[10;39H--[10;68H0[10;74H0[11;2H2[11;7HOff[11;15H--[11;25H--[11;39H--[11;68H0[11;74H0[12;2H3[12;7HOn[12;15H100M-Full[12;25HOff[12;39HMDIX[12;45HNA[12;68H0[12;74H0[13;2H4[13;7HOff[13;15H--[13;25H--[13;39H--[13;68H0[13;74H0[14;2H5[14;7HOn[14;15H100M-Full[14;25HOff[14;39HMDIX[14;45HNA[14;68H0[14;74H0[15;2H6[15;7HOn[15;15H100M-Full[15;25HOff[15;39HMDIX[15;45HNA[15;68H0[15;74H0[16;2H7[16;7HOff[16;15H--[16;25H--[16;39H--[16;68H0[16;74H0[17;2H8[17;7HOff[17;15H--[17;25H--[17;39H--[17;68H0[17;74H0[23;8H- The on-screen info is automatically updated every 3 seconds. -
+[4;1H[0K[5;1H[0K[6;1H[0K[7;1H[0K[8;1H[0K[9;1H[0K[10;1H[0K[11;1H[0K[12;1H[0K[13;1H[0K[14;1H[0K[15;1H[0K[16;1H[0K[17;1H[0K[18;1H[0K[19;1H[0K[20;1H[0K[21;1H[0K[22;1H[0K[23;1H[0K[24;1H[0K[4;1H[7m[4;1H  
+                                                                              [0m[7m[3;65H               [3;69H[Page 1/1][0m[5;2HSwitch Model :[5;18HEDS-508A[6;18H8FE ports[7;2HPower 1 (P1) Input Status :[7;31HPresent[8;2HPower 2 (P2) Input Status :[8;31HNot present[7m[9;2HPort[9;7HLink   [9;15HSpeed    [9;25HFDX Flow Ctrl[9;39HMDI/X[9;45HIP of connected device[9;68HRx(%)[9;74HTx(%)[0m[10;2H1[10;7HOff[10;15H--[10;25H--[10;39H--[10;68H0[10;74H0[11;2H2[11;7HOff[11;15H--[11;25H--[11;39H--[11;68H0[11;74H0[12;2H3[12;7HOn[12;15H100M-Full[12;25HOff[12;39HMDIX[12;45HNA[12;68H0[12;74H0[13;2H4[13;7HOff[13;15H--[13;25H--[13;39H--[13;68H0[13;74H0[14;2H5[14;7HOn[14;15H100M-Full[14;25HOff[14;39HMDIX[14;45HNA[14;68H0[14;74H0[15;2H6[15;7HOn[15;15H100M-Full[15;25HOff[15;39HMDIX[15;45HNA[15;68H0[15;74H0[16;2H7[16;7HOff[16;15H--[16;25H--[16;39H--[16;68H0[16;74H0[17;2H8[17;7HOff[17;15H--[17;25H--[17;39H--[17;68H0[17;74H0[23;8H- The on-screen info is automatically updated every 3 seconds. -
+3
+[4;1H[0K[5;1H[0K[6;1H[0K[7;1H[0K[8;1H[0K[9;1H[0K[10;1H[0K[11;1H[0K[12;1H[0K[13;1H[0K[14;1H[0K[15;1H[0K[16;1H[0K[17;1H[0K[18;1H[0K[19;1H[0K[20;1H[0K[21;1H[0K[22;1H[0K[23;1H[0K[24;1H[0K[4;1H[7m[4;1H  
+                                                                              [0m[7m[3;65H               [3;69H[Page 1/1][0m[5;2HSwitch Model :[5;18HEDS-508A[6;18H8FE ports[7;2HPower 1 (P1) Input Status :[7;31HPresent[8;2HPower 2 (P2) Input Status :[8;31HNot present[7m[9;2HPort[9;7HLink   [9;15HSpeed    [9;25HFDX Flow Ctrl[9;39HMDI/X[9;45HIP of connected device[9;68HRx(%)[9;74HTx(%)[0m[10;2H1[10;7HOff[10;15H--[10;25H--[10;39H--[10;68H0[10;74H0[11;2H2[11;7HOff[11;15H--[11;25H--[11;39H--[11;68H0[11;74H0[12;2H3[12;7HOn[12;15H100M-Full[12;25HOff[12;39HMDIX[12;45HNA[12;68H0[12;74H0[13;2H4[13;7HOff[13;15H--[13;25H--[13;39H--[13;68H0[13;74H0[14;2H5[14;7HOn[14;15H100M-Full[14;25HOff[14;39HMDIX[14;45HNA[14;68H0[14;74H0[15;2H6[15;7HOn[15;15H100M-Full[15;25HOff[15;39HMDIX[15;45HNA[15;68H0[15;74H0[16;2H7[16;7HOff[16;15H--[16;25H--[16;39H--[16;68H0[16;74H0[17;2H8[17;7HOff[17;15H--[17;25H--[17;39H--[17;68H0[17;74H0[23;8H- The on-screen info is automatically updated every 3 seconds. -
+\r
+[4;1H[0K[5;1H[0K[6;1H[0K[7;1H[0K[8;1H[0K[9;1H[0K[10;1H[0K[11;1H[0K[12;1H[0K[13;1H[0K[14;1H[0K[15;1H[0K[16;1H[0K[17;1H[0K[18;1H[0K[19;1H[0K[20;1H[0K[21;1H[0K[22;1H[0K[23;1H[0K[24;1H[0K[4;1H[7m[4;1H  
+                                                                              [0m[7m[3;65H               [3;69H[Page 1/1][0m[5;2HSwitch Model :[5;18HEDS-508A[6;18H8FE ports[7;2HPower 1 (P1) Input Status :[7;31HPresent[8;2HPower 2 (P2) Input Status :[8;31HNot present[7m[9;2HPort[9;7HLink   [9;15HSpeed    [9;25HFDX Flow Ctrl[9;39HMDI/X[9;45HIP of connected device[9;68HRx(%)[9;74HTx(%)[0m[10;2H1[10;7HOff[10;15H--[10;25H--[10;39H--[10;68H0[10;74H0[11;2H2[11;7HOff[11;15H--[11;25H--[11;39H--[11;68H0[11;74H0[12;2H3[12;7HOn[12;15H100M-Full[12;25HOff[12;39HMDIX[12;45HNA[12;68H0[12;74H0[13;2H4[13;7HOff[13;15H--[13;25H--[13;39H--[13;68H0[13;74H0[14;2H5[14;7HOn[14;15H100M-Full[14;25HOff[14;39HMDIX[14;45HNA[14;68H0[14;74H0[15;2H6[15;7HOn[15;15H100M-Full[15;25HOff[15;39HMDIX[15;45HNA[15;68H0[15;74H0[16;2H7[16;7HOff[16;15H--[16;25H--[16;39H--[16;68H0[16;74H0[17;2H8[17;7HOff[17;15H--[17;25H--[17;39H--[17;68H0[17;74H0[23;8H- The on-screen info is automatically updated every 3 seconds. -
+[4;1H[0K[5;1H[0K[6;1H[0K[7;1H[0K[8;1H[0K[9;1H[0K[10;1H[0K[11;1H[0K[12;1H[0K[13;1H[0K[14;1H[0K[15;1H[0K[16;1H[0K[17;1H[0K[18;1H[0K[19;1H[0K[20;1H[0K[21;1H[0K[22;1H[0K[23;1H[0K[24;1H[0K[4;1H[7m[4;1H  
+                                                                              [0m[7m[3;65H               [3;69H[Page 1/1][0m[5;2HSwitch Model :[5;18HEDS-508A[6;18H8FE ports[7;2HPower 1 (P1) Input Status :[7;31HPresent[8;2HPower 2 (P2) Input Status :[8;31HNot present[7m[9;2HPort[9;7HLink   [9;15HSpeed    [9;25HFDX Flow Ctrl[9;39HMDI/X[9;45HIP of connected device[9;68HRx(%)[9;74HTx(%)[0m[10;2H1[10;7HOff[10;15H--[10;25H--[10;39H--[10;68H0[10;74H0[11;2H2[11;7HOff[11;15H--[11;25H--[11;39H--[11;68H0[11;74H0[12;2H3[12;7HOn[12;15H100M-Full[12;25HOff[12;39HMDIX[12;45HNA[12;68H0[12;74H0[13;2H4[13;7HOff[13;15H--[13;25H--[13;39H--[13;68H0[13;74H0[14;2H5[14;7HOn[14;15H100M-Full[14;25HOff[14;39HMDIX[14;45HNA[14;68H0[14;74H0[15;2H6[15;7HOn[15;15H100M-Full[15;25HOff[15;39HMDIX[15;45HNA[15;68H0[15;74H0[16;2H7[16;7HOff[16;15H--[16;25H--[16;39H--[16;68H0[16;74H0[17;2H8[17;7HOff[17;15H--[17;25H--[17;39H--[17;68H0[17;74H0[23;8H- The on-screen info is automatically updated every 3 seconds. -
+[4;1H[0K[5;1H[0K[6;1H[0K[7;1H[0K[8;1H[0K[9;1H[0K[10;1H[0K[11;1H[0K[12;1H[0K[13;1H[0K[14;1H[0K[15;1H[0K[16;1H[0K[17;1H[0K[18;1H[0K[19;1H[0K[20;1H[0K[21;1H[0K[22;1H[0K[23;1H[0K[24;1H[0K[4;1H[7m[4;1H  
+                                                                              [0m[7m[3;65H               [3;69H[Page 1/1][0m[5;2HSwitch Model :[5;18HEDS-508A[6;18H8FE ports[7;2HPower 1 (P1) Input Status :[7;31HPresent[8;2HPower 2 (P2) Input Status :[8;31HNot present[7m[9;2HPort[9;7HLink   [9;15HSpeed    [9;25HFDX Flow Ctrl[9;39HMDI/X[9;45HIP of connected device[9;68HRx(%)[9;74HTx(%)[0m[10;2H1[10;7HOff[10;15H--[10;25H--[10;39H--[10;68H0[10;74H0[11;2H2[11;7HOff[11;15H--[11;25H--[11;39H--[11;68H0[11;74H0[12;2H3[12;7HOn[12;15H100M-Full[12;25HOff[12;39HMDIX[12;45HNA[12;68H0[12;74H0[13;2H4[13;7HOff[13;15H--[13;25H--[13;39H--[13;68H0[13;74H0[14;2H5[14;7HOn[14;15H100M-Full[14;25HOff[14;39HMDIX[14;45HNA[14;68H0[14;74H0[15;2H6[15;7HOn[15;15H100M-Full[15;25HOff[15;39HMDIX[15;45HNA[15;68H0[15;74H0[16;2H7[16;7HOff[16;15H--[16;25H--[16;39H--[16;68H0[16;74H0[17;2H8[17;7HOff[17;15H--[17;25H--[17;39H--[17;68H0[17;74H0[23;8H- The on-screen info is automatically updated every 3 seconds. -
+q
+
+[2J[1;29HEDS-508A series[1;46HV3.0 build 11071816[2;1H--------------------------------------------------------------------------------[4;1H[0K[4;1H1.[4;3HBasic Settings[4;25H-[4;27HBasic settings for network and system parameter.[5;1H[0K[5;1H
+2.[5;3HPort Trunking[5;25H-[5;27HAllows multiple ports to be aggregated as a link.[6;1H[0K[6;1H3.[6;3HSNMP Settings[6;25H-[6;27HThe settings for SNMP.[7;1H[0K[7;1H4.[7;3HComm. Redundancy[7;25H-[7;27HEstablish Ethernet communication redundant path.[8;1H[0K[8;1H5.[8;3HTraffic Prioritization[8;25H-[8;27HPrioritize Ethernet traffic to help determinism.[9;1H[0K[9;1H6.[9;3HVirtual LAN[9;25H-[9;27HSet up a VLAN by IEEE802.1Q VLAN or Port-based VLAN.[10;1H[0K[10;1H7.[10;3HMulticast Filtering[10;25H-[10;27HEnable the multicast filtering capability.[11;1H[0K[11;1H8.[11;3HBandwidth Management[11;25H-[11;27HRestrict unpredictable network traffic.[12;1H[0K[12;1H9.[12;3HPort Access Control[12;25H-[12;27HPort access control by IEEE802.1X or Static Port Lock.[13;1H[0K[13;1Ha.[13;3HAuto Warning[13;25H-[13;27HWarning email and/or relay output by events.[14;1H[0K[14;1Hb.[14;3HLine Swap[14;25H-[14;27HFast recovery after moving devices to different ports.[15;1H[0K[15;1Hc.[15;3HSet Device IP[15;25H-[15;27HAssign IP addresses to connected devices.[16;1H[0K[16;1Hd.[16;3HDiagnosis[16;25H-[16;27HPing command and the settings for Mirror port, LLDP.[17;1H[0K[17;1He.[17;3HMonitor[17;25H-[17;27HMonitor a port and network status.[18;1H[0K[18;1Hf.[18;3HMAC Address Table[18;25H-[18;27HThe complete table of Ethernet MAC Address List.[19;1H[0K[19;1Hg.[19;3HSystem log[19;25H-
+[19;27HThe settings for Syslog and Event log.[20;1H[0K[20;1Hh.[20;3HExit[20;25H-[20;27HExit[21;15H- Use the up/down arrow keys to select a category,\r\n,                        and then press Enter to select. -[7m[17;1He.[17;3HMonitor[0m
+g
+[17;1He.[17;3HMonitor[7m[19;1Hg.[19;3HSystem log[0m
+\r
+[2;2H[7m[3;1H ESC: Previous menu   Enter: Select                                             [0m[2J[1;24HMOXA EtherDevice Switch EDS-508A[10;5HSystem log[2;2HSystem log[3;1H[0K[3;1H[Event Log][3;13H[Syslog][3;22H[Main menu][7m[3;1H
+[Event Log][0m[4;2H[0KThe complete table of event logs list.[7m[5;1H ESC: Previous menu   Enter: Select                                             [0m
+[C
+[3;1HEvent Log[3;1H[Event Log][7m[3;13H[Syslog][0m[4;2H[0KSyslog settings for MOXA EtherDevice Server[7m[5;1H ESC: Previous menu   Enter: Select                                             [0m
+\r
+[7m[5;1H ESC: Previous menu                                                             [0m[2J[1;24HMOXA EtherDevice Switch EDS-508A[10;5HUse the "Syslog" function to send Syslog protocol message\n,\r[2;2HSyslog[3;1H[0K[3;1H[Setup][3;11H[Activate]
+[3;24H[Main menu][7m[3;1H[Setup][0m[4;1H[0KSyslog Settings[7m[5;1H ESC: Previous menu   Enter: Select                                             [0m
+[C
+[3;1HSetup[3;1H[Setup][7m[3;11H[Activate][0m[4;1H[0KSave and activate[7m[5;1H ESC: Previous menu   Enter: Select                                             [0m
+[D
+[3;11HActivate[3;11H[Activate][7m[3;1H[Setup][0m[4;1H[0KSyslog Settings[7m[5;1H ESC: Previous menu   Enter: Select                                             [0m
+[C
+[3;1HSetup[3;1H[Setup][7m[3;11H[Activate][0m[4;1H[0KSave and activate[7m[5;1H ESC: Previous menu   Enter: Select                                             [0m
+\r
+[7m[5;1H ESC: Previous menu   Enter: Select                                             [0m[7;1H[0K[8;1H[0K[9;1H[0K[10;1H[0K[11;1H[0K[12;1H[0K[13;1H[0K[14;1H[0K[15;1H[0K[16;1H[0K[17;1H[0K[18;1H[0K[19;1H[0K[20;1H[0K[21;1H
+[0K[22;1H[0K[23;1H[0K[24;1H[0K[7;1H[19;12H+------------------------------------------------------+[20;12H|[20;67H|[21;12H+------------------------------------------------------+[20;13H[20;13HNew settings are now active ! (Press ESC to continue)
+\r
+\r
+
+[7m[5;1H ESC: Previous menu   Enter: Select                                             [0m[6;1H
+[D
+[3;11HActivate[3;11H[Activate][7m[3;1H[Setup][0m[4;1H[0KSyslog Settings[7m[5;1H ESC: Previous menu   Enter: Select                                             [0m
+[C
+[3;1HSetup[3;1H[Setup][7m[3;11H[Activate][0m[4;1H[0KSave and activate[7m[5;1H ESC: Previous menu   Enter: Select                                             [0m
+[D
+[3;11HActivate[3;11H[Activate][7m[3;1H[Setup][0m[4;1H[0KSyslog Settings[7m[5;1H ESC: Previous menu   Enter: Select                                             [0m
+\r
+[7m[5;1H ESC: Previous menu   Enter: Select                                             [0m[8;10H[0K[9;1H[0K[10;1H[0K[11;1H[0K[12;1H[0K[13;1H[0K[14;1H[0K[15;1H[0K[16;1H[0K[17;1H[0K[18;1H[0K[19;1H[0K[20;1H[0K[21;1H[0K[22;1H
+[0K[23;1H[0K[24;1H[0K[8;10H[8;5HSend event notification messages to syslog server[10;8HSyslog Server 1[10;35H[                              ][11;8HPort Destination[11;35H[514  ][12;8HSyslog Server 2[12;35H[                              ][13;8HPort Destination[13;35H[514  ][14;8HSyslog Server 3[14;35H[                              ][15;8HPort Destination[15;35H[514  ][10;36H
+
+[8;10H[0K[9;1H[0K[10;1H[0K[11;1H[0K[12;1H[0K[13;1H[0K[14;1H[0K[15;1H[0K[16;1H[0K[17;1H[0K[18;1H[0K[19;1H[0K[20;1H[0K[21;1H[0K[22;1H[0K[23;1H[0K[24;1H[0K[8;10H[7m[5;1H ESC: Previous menu   Enter: Select
+                                             [0m[6;1H[2J[1;24HMOXA EtherDevice Switch EDS-508A[10;5HUse the "Syslog" function to send Syslog protocol message\n,\r[2;2HSyslog[3;1H[0K[3;1H[Setup][3;11H[Activate][3;24H[Main menu][7m[3;1H[Setup][0m[4;1H[0KSyslog Settings[7m[5;1H ESC: Previous menu   Enter: Select                                             [0m
+
+[7m[5;1H ESC: Previous menu   Enter: Select                                             [0m[6;1H[2J[1;24HMOXA EtherDevice Switch EDS-508A[10;5HSystem log[2;2HSystem log[3;1H[0K[3;1H[Event Log][3;13H[Syslog][3;22H[Main menu][7m[3;13H[Syslog]
+[0m[4;2H[0KSyslog settings for MOXA EtherDevice Server[7m[5;1H ESC: Previous menu   Enter: Select                                             [0m
+
+[2J[1;29HEDS-508A series[1;46HV3.0 build 11071816[2;1H--------------------------------------------------------------------------------[4;1H[0K[4;1H1.[4;3HBasic Settings[4;25H-[4;27HBasic settings for network and system parameter.[5;1H[0K[5;1H
+2.[5;3HPort Trunking[5;25H-[5;27HAllows multiple ports to be aggregated as a link.[6;1H[0K[6;1H3.[6;3HSNMP Settings[6;25H-[6;27HThe settings for SNMP.[7;1H[0K[7;1H4.[7;3HComm. Redundancy[7;25H-[7;27HEstablish Ethernet communication redundant path.[8;1H[0K[8;1H5.[8;3HTraffic Prioritization[8;25H-[8;27HPrioritize Ethernet traffic to help determinism.[9;1H[0K[9;1H6.[9;3HVirtual LAN[9;25H-[9;27HSet up a VLAN by IEEE802.1Q VLAN or Port-based VLAN.[10;1H[0K[10;1H7.[10;3HMulticast Filtering[10;25H-[10;27HEnable the multicast filtering capability.[11;1H[0K[11;1H8.[11;3HBandwidth Management[11;25H-[11;27HRestrict unpredictable network traffic.[12;1H[0K[12;1H9.[12;3HPort Access Control[12;25H-[12;27HPort access control by IEEE802.1X or Static Port Lock.[13;1H[0K[13;1Ha.[13;3HAuto Warning[13;25H-[13;27HWarning email and/or relay output by events.[14;1H[0K[14;1Hb.[14;3HLine Swap[14;25H-[14;27HFast recovery after moving devices to different ports.[15;1H[0K[15;1Hc.[15;3HSet Device IP[15;25H-[15;27HAssign IP addresses to connected devices.[16;1H[0K[16;1Hd.[16;3HDiagnosis[16;25H-[16;27HPing command and the settings for Mirror port, LLDP.[17;1H[0K[17;1He.[17;3HMonitor[17;25H-[17;27HMonitor a port and network status.[18;1H[0K[18;1Hf.[18;3HMAC Address Table[18;25H-[18;27HThe complete table of Ethernet MAC Address List.[19;1H[0K[19;1Hg.[19;3HSystem log[19;25H-
+[19;27HThe settings for Syslog and Event log.[20;1H[0K[20;1Hh.[20;3HExit[20;25H-[20;27HExit[21;15H- Use the up/down arrow keys to select a category,\r\n,                        and then press Enter to select. -[7m[19;1Hg.[19;3HSystem log[0m
+[A
+[19;1Hg.[19;3HSystem log[7m[18;1Hf.[18;3HMAC Address Table[0m
+[A
+[18;1Hf.[18;3HMAC Address Table[7m[17;1He.[17;3HMonitor[0m
+[A
+[17;1He.[17;3HMonitor[7m[16;1Hd.[16;3HDiagnosis[0m
+[A
+[16;1Hd.[16;3HDiagnosis[7m[15;1Hc.[15;3HSet Device IP[0m
+[A
+[15;1Hc.[15;3HSet Device IP[7m[14;1Hb.[14;3HLine Swap[0m
+[A
+[14;1Hb.[14;3HLine Swap[7m[13;1Ha.[13;3HAuto Warning[0m
+[A
+[13;1Ha.[13;3HAuto Warning[7m[12;1H9.[12;3HPort Access Control[0m
+[A
+[12;1H9.[12;3HPort Access Control[7m[11;1H8.[11;3HBandwidth Management[0m
+[A
+[11;1H8.[11;3HBandwidth Management[7m[10;1H7.[10;3HMulticast Filtering[0m
+[A
+[10;1H7.[10;3HMulticast Filtering[7m[9;1H6.[9;3HVirtual LAN[0m
+[A
+[9;1H6.[9;3HVirtual LAN[7m[8;1H5.[8;3HTraffic Prioritization[0m
+[A
+[8;1H5.[8;3HTraffic Prioritization[7m[7;1H4.[7;3HComm. Redundancy[0m
+[A
+[7;1H4.[7;3HComm. Redundancy[7m[6;1H3.[6;3HSNMP Settings[0m
+[A
+[6;1H3.[6;3HSNMP Settings[7m[5;1H2.[5;3HPort Trunking[0m
+[B
+[5;1H2.[5;3HPort Trunking[7m[6;1H3.[6;3HSNMP Settings[0m
+[B
+[6;1H3.[6;3HSNMP Settings[7m[7;1H4.[7;3HComm. Redundancy[0m
+[B
+[7;1H4.[7;3HComm. Redundancy[7m[8;1H5.[8;3HTraffic Prioritization[0m
+[B
+[8;1H5.[8;3HTraffic Prioritization[7m[9;1H6.[9;3HVirtual LAN[0m
+[B
+[9;1H6.[9;3HVirtual LAN[7m[10;1H7.[10;3HMulticast Filtering[0m
+[B
+[10;1H7.[10;3HMulticast Filtering[7m[11;1H8.[11;3HBandwidth Management[0m
+[B
+[11;1H8.[11;3HBandwidth Management[7m[12;1H9.[12;3HPort Access Control[0m
+[B
+[12;1H9.[12;3HPort Access Control[7m[13;1Ha.[13;3HAuto Warning[0m
+[A
+[13;1Ha.[13;3HAuto Warning[7m[12;1H9.[12;3HPort Access Control[0m
+[A
+[12;1H9.[12;3HPort Access Control[7m[11;1H8.[11;3HBandwidth Management[0m
+[A
+[11;1H8.[11;3HBandwidth Management[7m[10;1H7.[10;3HMulticast Filtering[0m
+[A
+[10;1H7.[10;3HMulticast Filtering[7m[9;1H6.[9;3HVirtual LAN[0m
+\r
+[2;2H[7m[3;1H ESC: Previous menu   Enter: Select                                             [0m[2J[1;24HMOXA EtherDevice Switch EDS-508A[10;5HVLAN[2;2HVLAN[3;1H[0K[3;1H[VLAN port setting][3;21H[VLAN table][3;34H[Activate][3;45H[Main menu]
+[7m[3;1H[VLAN port setting][0m[4;2H[0KVLAN Port Settings[7m[5;1H ESC: Previous menu   Enter: Select                                             [0m
+\r\n,\r\n
+GET / HTTP/1.0\r\n,\r\n
+Welcome to the Windows CE Telnet Service on 
+TPC-1261-OEM\r\n,\r\n,login: 
+\r\n,Logon credentials not entered in required amount of time.\r\n
+\r\n,Logon Failed\r\n,\r\n
+Welcome to the Windows CE Telnet Service on 
+TPC-1261-OEM\r\n,\r\n,login: 
+a
+a
+d
+d
+m
+m
+i
+i
+n
+n
+\r
+\r\n
+Password: 
+a
+d
+mi
+n
+\r
+\r\n
+Logon Incorrect\r\n,login: 
+r
+r
+o
+o
+o
+o
+t
+t
+\r
+\r\n
+Password: 
+r
+o
+o
+t\r
+\r\n
+Logon Incorrect\r\n,login: 
+
+
+
+
+
+
+\r
+\r\n
+Password: 
+q
+\r
+\r\n
+Logon Incorrect\r\n,login: 
+\r
+\r\n
+Password: 
+\r
+\r\n
+Logon Incorrect\r\n,Logon Failed\r\n,\r\n
+�
+
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h\r
+\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n,\r\n,        System Name:    System Name
+\r\n,        Location:       Location\r\n,        Contact:        Contact\r
+\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled
+\r\n,        MAC Address:    00-0A-DC-5B-27-A0\r\n,        Serial Number:  910-0311-03980
+\r\n,\r\n,        Enter User Name:  
+\r\n,\r\n
+\r
+\n,\r\n,        Enter Password: 
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n,\r\n,        System Name:    System Name\r\n,        Location:       Location\r\n,        Contact:        Contact\r\n,        Product:        RS910-48-D-S1-TX01-MC
+\r\n,        Classification: Controlled\r\n,        MAC Address:    00-0A-DC-5B-27-A0
+\r\n,        Serial Number:  910-0311-03980\r\n,\r\n,        Enter User Name:  
+GET / HTTP/1.0\r\n,\r\n
+�
+
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved
+\r\n,\r\n,        System Name:    System Name\r
+\n,        Location:       Location\r\n,        Contact:        Contact
+\r\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled\r
+\n,        MAC Address:    00-0A-DC-5B-27-A0\r\n,        Serial Number:  910-0311-03980\r\n,\r
+\n,        Enter User Name:  
+GE
+T
+ 
+/
+ 
+H
+TTP
+/1
+.0
+\r\n,\r\n,        Enter Password: 
+[0;22;27;25;24m[0m[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n,\r\n,        System Name:    System Name\r\n,        Location:       Location
+\r\n,        Contact:        Contact\r\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled
+\r\n,        MAC Address:    00-0A-DC-5B-27-A0\r\n,        Serial Number:  910-0311-03980\r\n,\r\n,        Enter User Name:  
+OPTIONS / HTTP/1.0\r\n,\r\n
+�
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h\r
+\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n
+\r\n,        System Name:    System Name\r\n,        Location:       Location\r
+\n,        Contact:        Contact\r\n,        Product:        RS910-48-D-S1-TX01-MC\r
+\n,        Classification: Controlled\r\n,        MAC Address:    00-0A-DC-5B-27-A0\r\n,        Serial Number:  910-0311-03980
+\r\n,\r\n,        Enter User Name:  
+O
+P
+T
+I
+O
+N
+S
+ 
+/
+ H
+TT
+P/
+\r
+\n,\r\n,        Enter Password: 
+[0;22;27;25;24m[0m[2J
+[1;1H[?25h\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n,\r\n,        System Name:    System Name\r
+\n,        Location:       Location\r\n,        Contact:        Contact\r\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled
+\r\n,        MAC Address:    00-0A-DC-5B-27-A0\r\n,        Serial Number:  910-0311-03980
+\r\n,\r\n,        Enter User Name:  
+OPTIONS / RTSP/1.0\r\n,\r\n
+�
+
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r
+\n,\r\n,        System Name:    System Name\r\n,        Location:       Location
+\r\n,        Contact:        Contact\r\n,        Product:        RS910-48-D-S1-TX01-MC
+\r\n,        Classification: Controlled\r\n,        MAC Address:    00-0A-DC-5B-27-A0
+\r\n,        Serial Number:  910-0311-03980\r\n,\r
+\n,        Enter User Name:  
+OPTION
+S
+ 
+/
+ 
+R
+TSP/
+\r
+\n,\r\n,        Enter Password: 
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n
+\r\n,        System Name:    System Name\r\n,        Location:       Location\r\n,        Contact:        Contact\r
+\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled\r\n,        MAC Address:    00-0A-DC-5B-27-A0\r\n,        Serial Number:  910-0311-03980\r\n,\r\n,        Enter User Name:  
+�
+�
+
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h\r
+\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n
+\r\n,        System Name:    System Name\r\n,        Location:       Location\r
+\n,        Contact:        Contact\r\n,        Product:        RS910-48-D-S1-TX01-MC\r
+\n,        Classification: Controlled\r\n,        MAC Address:    00-0A-DC-5B-27-A0
+\r\n,        Serial Number:  910-0311-03980\r\n
+\r\n,        Enter User Name:  
+(
+r
+|
+
+�
+
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r
+\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n,\r\n,        System Name:    System Name
+\r\n,        Location:       Location\r\n,        Contact:        Contact
+\r\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled
+\r\n,        MAC Address:    00-0A-DC-5B-27-A0\r
+\n,        Serial Number:  910-0311-03980\r\n,\r
+\n,        Enter User Name:  
+v
+e
+r
+s
+i
+o
+n
+b
+i
+n
+d
+
+�
+
+[0;22;27;25;24m
+[0m[2J
+[1;1H[?25h\r
+\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r
+\n,\r\n,        System Name:    System Name\r\n,        Location:       Location
+\r\n,        Contact:        Contact\r\n,        Product:        RS910-48-D-S1-TX01-MC
+\r\n,        Classification: Controlled\r\n,        MAC Address:    00-0A-DC-5B-27-A0\r\n,        Serial Number:  910-0311-03980\r\n,\r\n,        Enter User Name:  
+HELP\r\n
+�
+
+[0;22;27;25;24m
+[0m[2J
+[1;1H[?25h\r
+\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n,\r\n,        System Name:    System Name\r\n,        Location:       Location\r\n,        Contact:        Contact\r
+\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled\r
+\n,        MAC Address:    00-0A-DC-5B-27-A0\r\n,        Serial Number:  910-0311-03980\r\n
+\r\n,        Enter User Name:  
+H
+E
+LP\r\n,\r\n,        Enter Password: 
+,
+�
+
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r
+\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n,\r\n,        System Name:    System Name\r
+\n,        Location:       Location\r\n,        Contact:        Contact\r
+\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled\r\n,        MAC Address:    00-0A-DC-5B-27-A0\r
+\n,        Serial Number:  910-0311-03980\r\n,\r\n,        Enter User Name:  
+S
+O
+?
+G
+,
+`
+~
+{
+w
+<
+=
+o
+n(
+\r
+\n,\r\n,        Enter Password: 
+x
+xx
+x
+xx
+x
+\b \b
+,��^0\�
+�
+
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h\r
+\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n
+\r\n,        System Name:    System Name\r\n,        Location:       Location\r
+\n,        Contact:        Contact\r\n,        Product:        RS910-48-D-S1-TX01-MC\r
+\n,        Classification: Controlled\r\n,        MAC Address:    00-0A-DC-5B-27-A0\r
+\n,        Serial Number:  910-0311-03980\r\n,\r
+\n,        Enter User Name:  
+q
+j
+n
+0
+k\r\n,\r\n,        Enter Password: 
+xx
+xx
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+,MBr
+�
+
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved
+\r\n,\r\n,        System Name:    System Name\r\n,        Location:       Location\r
+\n,        Contact:        Contact\r\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled
+\r\n,        MAC Address:    00-0A-DC-5B-27-A0\r\n,        Serial Number:  910-0311-03980
+\r\n,\r\n,        Enter User Name:  
+M
+B
+r
+\b \b
+@
+@
+P
+C
+ 
+N
+E
+T
+W
+O
+R
+K
+ 
+l
+�
+
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h\r
+\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n,\r
+\n,        System Name:    System Name\r\n,        Location:       Location\r\n,        Contact:        Contact
+\r\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled\r
+\n,        MAC Address:    00-0A-DC-5B-27-A0\r\n,        Serial Number:  910-0311-03980\r\n
+\r\n,        Enter User Name:  
+l
+GET /nice%20ports%2C/Tri%6Eity.txt%2ebak HTTP/1.0\r\n,\r\n
+�
+
+[0;22;27;25;24m
+[0m[2J
+[1;1H[?25h\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r
+\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n,\r\n,        System Name:    System Name
+\r\n,        Location:       Location\r\n,        Contact:        Contact
+\r\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled\r
+\n,        MAC Address:    00-0A-DC-5B-27-A0\r\n,        Serial Number:  910-0311-03980\r\n
+\r\n,        Enter User Name:  
+GE
+T
+ /
+n
+i
+c
+e
+%2
+0po
+r
+\r
+\n,\r\n,        Enter Password: 
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n
+\r\n,        System Name:    System Name\r\n,        Location:       Location\r\n,        Contact:        Contact
+\r\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled\r\n,        MAC Address:    00-0A-DC-5B-27-A0\r\n,        Serial Number:  910-0311-03980\r\n,\r\n,        Enter User Name:  
+default\n
+�
+�
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h\r
+\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n
+\r\n,        System Name:    System Name\r\n,        Location:       Location
+\r\n,        Contact:        Contact\r\n,        Product:        RS910-48-D-S1-TX01-MC
+\r\n,        Classification: Controlled\r\n,        MAC Address:    00-0A-DC-5B-27-A0
+\r\n,        Serial Number:  910-0311-03980\r\n,\r
+\n,        Enter User Name:  
+d
+e
+f
+a
+u
+l
+t
+\r
+\n,\r\n,        Enter Password: 
+0\f`
+�
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved
+\r\n,\r\n,        System Name:    System Name\r\n,        Location:       Location
+\r\n,        Contact:        Contact\r\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled
+\r\n,        MAC Address:    00-0A-DC-5B-27-A0\r\n,        Serial Number:  910-0311-03980
+\r\n,\r\n,        Enter User Name:  
+0
+`
+OPTIONS sip:nm SIP/2.0\r\n,Via: SIP/2.0/TCP nm;branch=foo\r\n,From: <sip:nm@nm>;tag=root\r\n,To: <sip:nm2@nm2>\r\n,Call-ID: 50000\r\n,CSeq: 42 OPTIONS\r\n,Max-Forwards: 70\r\n,Content-Length: 0\r\n,Contact: <sip:nm@nm>\r\n,Accept: application/sdp\r\n,\r\n
+�
+�
+[0;22;27;25;24m
+[0m[2J
+[1;1H[?25h\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             
+\r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n,\r\n,        System Name:    System Name\r\n,        Location:       Location\r\n,        Contact:        Contact\r\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled\r\n,        MAC Address:    00-0A-DC-5B-27-A0\r\n,        Serial Number:  910-0311-03980\r\n,\r\n,        Enter User Name:  
+OP
+T
+I
+ON
+S
+ 
+s
+i
+p
+:nm 
+\r
+\n,\r\n,        Enter Password: 
+xxxx
+xxx
+xxx
+xxx
+xx
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h\r
+\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n,\r\n,        System Name:    System Name\r\n,        Location:       Location\r\n,        Contact:        Contact\r\n,        Product:        RS910-48-D-S1-TX01-MC
+\r\n,        Classification: Controlled\r\n,        MAC Address:    00-0A-DC-5B-27-A0
+\r\n,        Serial Number:  910-0311-03980\r\n,\r\n,        Enter User Name:  From:
+ <si
+p:
+n
+m@
+n
+\r
+\n,\r\n,        Enter Password: 
+xxxxxxxxxxx
+xx
+x
+x
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n,\r\n,        System Name:    System Name\r
+\n,        Location:       Location\r\n,        Contact:        Contact\r\n,        Product:        RS910-48-D-S1-TX01-MC\r
+\n,        Classification: Controlled\r\n,        MAC Address:    00-0A-DC-5B-27-A0\r\n,        Serial Number:  910-0311-03980\r\n,\r\n,        Enter User Name:  Ca
+l
+l-
+ID
+:
+ 5
+000
+0
+\r\n,\r\n,        Enter Password: 
+xx
+xx
+xx
+x
+xx
+xx
+x
+xx
+x
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n,\r\n,        System Name:    System Name\r\n,        Location:       Location\r
+\n,        Contact:        Contact\r\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled
+\r\n,        MAC Address:    00-0A-DC-5B-27-A0\r\n,        Serial Number:  910-0311-03980\r\n,\r\n,        Enter User Name:  
+Max
+-F
+or
+wa
+rd
+s:
+ 7
+\r\n,\r\n,        Enter Password: 
+xx
+xxx
+xx
+xx
+xx
+xx
+xx
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h\r
+\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n,\r\n,        System Name:    System Name\r\n,        Location:       Location\r\n,        Contact:        Contact
+\r\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled
+\r\n,        MAC Address:    00-0A-DC-5B-27-A0\r\n,        Serial Number:  910-0311-03980\r\n,\r\n,        Enter User Name:  C
+on
+tac
+t:
+ <
+si
+p:
+n
+\r
+\n,\r\n,        Enter Password: 
+xxxxxxxxxx
+xxx
+xx
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n,\r\n,        System Name:    System Name\r\n,        Location:       Location\r\n,        Contact:        Contact\r\n,        Product:        RS910-48-D-S1-TX01-MC
+\r\n,        Classification: Controlled\r\n,        MAC Address:    00-0A-DC-5B-27-A0\r
+\n,        Serial Number:  910-0311-03980\r\n,\r\n,        Enter User Name:  \r\n,\r\n,        Enter Password: 
+TNMP
+�
+
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h\r
+\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r
+\n,\r\n,        System Name:    System Name\r\n,        Location:       Location
+\r\n,        Contact:        Contact\r\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled\r\n,        MAC Address:    00-0A-DC-5B-27-A0\r\n,        Serial Number:  910-0311-03980\r\n,\r\n,        Enter User Name:  TNM
+P
+T
+N
+M
+E
+
+�
+
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r
+\n,\r\n,        System Name:    System Name\r\n,        Location:       Location\r
+\n,        Contact:        Contact\r\n,        Product:        RS910-48-D-S1-TX01-MC\r
+\n,        Classification: Controlled\r\n,        MAC Address:    00-0A-DC-5B-27-A0\r
+\n,        Serial Number:  910-0311-03980\r\n
+\r\n,        Enter User Name:  
+DmdT
+�
+�
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n,\r\n,        System Name:    System Name\r\n,        Location:       Location\r\n,        Contact:        Contact\r\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled\r\n,        MAC Address:    00-0A-DC-5B-27-A0\r\n,        Serial Number:  910-0311-03980\r\n,\r\n,        Enter User Name:  Dmd
+T
+:
+�
+
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h\r
+\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n,\r
+\n,        System Name:    System Name\r\n,        Location:       Location\r\n,        Contact:        Contact
+\r\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled
+\r\n,        MAC Address:    00-0A-DC-5B-27-A0\r\n,        Serial Number:  910-0311-03980
+\r\n,\r\n,        Enter User Name:  
+:
+/
+@
+=
+/
+@
+
+�
+
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h\r
+\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n
+\r\n,        System Name:    System Name\r\n,        Location:       Location\r\n,        Contact:        Contact
+\r\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled
+\r\n,        MAC Address:    00-0A-DC-5B-27-A0\r\n,        Serial Number:  910-0311-03980
+\r\n,\r\n,        Enter User Name:  
+M
+M
+S
+N
+S
+P
+l
+a
+y
+e
+r
+/
+9
+.0
+,\b
+�
+[0;22;27;25;24m
+[0m[2J
+[1;1H[?25h\r
+\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n
+\r\n,        System Name:    System Name\r\n,        Location:       Location
+\r\n,        Contact:        Contact\r
+\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled\r
+\n,        MAC Address:    00-0A-DC-5B-27-A0\r\n,        Serial Number:  910-0311-03980\r\n
+\r\n,        Enter User Name:  
+Z
+6
+,
+\b \b
+\b \b
+ 
+:
+4
+(
+C
+O
+NNECT
+_
+D
+A
+
+�
+
+�
+
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             
+\r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r\n,\r
+\n,        System Name:    System Name\r\n,        Location:       Location\r\n,        Contact:        Contact
+\r\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled
+\r\n,        MAC Address:    00-0A-DC-5B-27-A0\r\n,        Serial Number:  910-0311-03980
+\r\n,\r\n,        Enter User Name:  
+�
+�
+
+[0;22;27;25;24m
+[0m
+[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved\r
+\n,\r\n,        System Name:    System Name\r\n,        Location:       Location\r
+\n,        Contact:        Contact\r\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled
+\r\n,        MAC Address:    00-0A-DC-5B-27-A0\r\n,        Serial Number:  910-0311-03980
+\r\n,\r\n,        Enter User Name:  
+a
+�
+�
+[0;22;27;25;24m
+[0m[2J[1;1H[?25h
+\r\n,                 Rugged Operating System v3.8.0 (Mar 05 2010 08:45)             \r\n,        Copyright (c) RuggedCom, 2008 - All rights reserved
+\r\n,\r\n,        System Name:    System Name\r
+\n,        Location:       Location\r\n,        Contact:        Contact\r
+\n,        Product:        RS910-48-D-S1-TX01-MC\r\n,        Classification: Controlled\r\n,        MAC Address:    00-0A-DC-5B-27-A0
+\r\n,        Serial Number:  910-0311-03980\r\n
+\r\n,        Enter User Name:  
+(
+'
+=

