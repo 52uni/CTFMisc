@@ -12,9 +12,9 @@
 
 
 
-## 请在自己配置wireshark地址
+## 工具
 
-**在core/tools_config.json下配置工具地址**
+**在core/tools_config.json下请在自己配置wireshark地址**
 
 **可以自定义工具** 
 

@@ -38,14 +38,22 @@ class ToolsManager:
         return result.stdout or result.stderr
 
     @staticmethod
-    def open_eve_file( file_path):
+    def open_eve_file(file_path):
         try:
-            if os.name == 'nt':  # Windows系统
-                os.startfile(file_path)
-            elif os.name == 'posix':  # Linux系统
-                subprocess.Popen(['xdg-open', file_path])
+            # 去除路径中的引号
+            file_path = file_path.strip('"')
+            if os.path.isabs(file_path):
+                full_path = file_path
+            else:
+                project_root = os.getcwd()
+                full_path = os.path.join(project_root, file_path)
+
+            if os.name == 'nt':
+                os.startfile(full_path)
+            elif os.name == 'posix':
+                subprocess.Popen(['xdg-open', full_path])
         except Exception as e:
-            messagebox.showerror("错误", f"打开EVE文件 {file_path} 时出错: {e}")
+            messagebox.showerror("错误", f"打开EVE文件 {full_path} 时出错: {e}")
 
 
     @staticmethod

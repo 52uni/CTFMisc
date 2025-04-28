@@ -2,61 +2,20 @@
   {
     "category": "图片处理",
     "tools": [
-      {"name": "Stegsolve 图片分析", "cmd": "java -jar D:/tools/CTFMisc/tools/stegsolve.jar", "type": "command","description":"经典隐写分析工具"},
+      {"name": "Stegsolve 图片分析", "cmd": "java -jar tools/stegsolve.jar", "type": "command","description":"经典隐写分析工具"},
       {"name": "Lsb隐写查看", "cmd": "LsbDecrypt", "type": "Lsb","description":"不一定有用 如果不能破解请使用别的工具"},
+      {"name": "水印隐写查看", "cmd": "tools/WaterMark.exe", "type": "open_eve_file","description":"吾爱大佬开发"},
       {"name": "GIF分离", "cmd": "GIFSeparator", "type": "GIF","description":"GIF"}
-
-    ]
-  },
-  {
-    "category": "压缩包处理",
-    "tools": [
-      {"name": "Zip 密码破解", "cmd": "D:\\tools\\CTFMisc\\tools\\ARCHPR\\ARCHPR.exe","type": "open_eve_file","description": "CTF够用"}
     ]
   },
     {
-    "category": "编码解码",
-    "tools": [
-      {
-        "name": "随波逐流",
-        "cmd": "\"D:\\tools\\CTFMisc\\tools\\sbzl.exe\"",
-        "type": "open_eve_file"
-      },
-      {
-        "name": "CaptfEncoder",
-        "cmd": "\"D:\\tools\\CaptfEncoder-win-x64-3.1.2.exe\"",
-        "type": "open_eve_file"
-      },
-      {
-        "name": "010Edit",
-        "cmd": "\"D:\\tools\\CTFMisc\\tools\\010Editor\\010Editor.exe\"",
-        "type": "open_eve_file"
-      },
-      {
-        "name": "CyberChef",
-        "cmd": "\"D:\\tools\\CTFMisc\\tools\\CyberChef\\CyberChef_v10.19.4.html\"",
-        "type": "open_eve_file"
-      }
-    ]
-  },
-  {
-    "category": "流量分析",
-    "tools": [
-      {
-        "name": "简单流量分析",
-        "cmd": "\"D:\\tools\\CTFMisc\\tools\\CTF-NetA\\main\\main.exe\"",
-        "type": "open_eve_file"
-      },
-      {
-        "name": "Wireshark专业分析",
-        "cmd": "\"D:\\software\\Wireshark\\Wireshark.exe\"",
-        "type": "open_eve_file"
-      }
-    ]
-  },
-  {
     "category": "二维码",
     "tools": [
+      {
+        "name": "专业二维码工具",
+        "cmd": "tools/QR_Research/CQR.exe",
+        "type": "open_eve_file"
+      },
       {
         "name": "二维码解析",
         "cmd": "parse_qr_code",
@@ -66,6 +25,60 @@
         "name": "条形码解析",
         "cmd": "parse_bar_code",
         "type": "image_analysis"
+      }
+    ]
+  },
+    {
+    "category": "音频处理",
+    "tools": [
+      {"name": "mp3工具", "cmd": "tools/MP3Stego_GUI/MP3Steno.exe","type": "open_eve_file","description": "CTF常用工具"},
+      {"name": "视频工具", "cmd": "tools/Audacity/Audacity.exe","type": "open_eve_file","description": "CTF常用工具"}
+    ]
+  },
+  {
+    "category": "压缩包处理",
+    "tools": [
+      {"name": "Zip 密码破解", "cmd": "tools/ARCHPR/ARCHPR.exe","type": "open_eve_file","description": "CTF常用工具"}
+    ]
+  },
+    {
+    "category": "编码解码",
+    "tools": [
+      {
+        "name": "随波逐流",
+        "cmd": "tools/sbzl.exe",
+        "type": "open_eve_file"
+      },
+      {
+        "name": "CaptfEncoder",
+        "cmd": "tools/CaptfEncoder.exe",
+        "type": "open_eve_file"
+      },
+      {
+        "name": "010Edit",
+        "cmd": "tools/010Editor/010Editor.exe",
+        "type": "open_eve_file"
+      },
+      {
+        "name": "CyberChef",
+        "cmd": "tools/CyberChef/CyberChef_v10.19.4.html",
+        "type": "open_eve_file"
+      }
+    ]
+  },
+  {
+    "category": "流量分析",
+    "tools": [
+      {
+        "name": "简单流量分析",
+        "cmd": "tools/CTF-NetA/main/main.exe",
+        "type": "open_eve_file",
+        "description": "一把梭哈获取flag"
+      },
+      {
+        "name": "Wireshark专业分析",
+        "cmd": "\"D:\\software\\Wireshark\\Wireshark.exe\"",
+        "type": "open_eve_file"
       }
     ]
   }

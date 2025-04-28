@@ -1,6 +1,6 @@
 import zlib
 import struct
-file = '1.png'
+file = '2.png'
 fr = open(file,'rb').read()
 data = bytearray(fr[12:29])
 #crc32key = eval(str(fr[29:33]).replace('\\x','').replace("b'",'0x').replace("'",'')) 
